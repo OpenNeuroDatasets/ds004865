@@ -1,0 +1,88 @@
+name	x	y	z	size	group	hemisphere	type	lobe	region1	region2	gray_white
+RF1	39.0	59.0	-3.0	-999	RF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 10	Gray Matter
+RF2	45.0	49.0	3.0	-999	RF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 10	Gray Matter
+RF3	48.0	40.0	6.0	-999	RF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 46	Gray Matter
+RF4	50.0	31.0	11.0	-999	RF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 46	Gray Matter
+RF5	53.0	21.0	15.0	-999	RF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 45	Gray Matter
+RF6	56.0	10.0	20.0	-999	RF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 44	Gray Matter
+RF7	58.0	1.0	25.0	-999	RF	R	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter
+RF8	59.0	-10.0	28.0	-999	RF	R	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter
+ROF1	-22.0	22.0	-19.0	-999	ROF	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+ROF2	-10.0	23.0	-20.0	-999	ROF	L	strip	Frontal Lobe	Rectal Gyrus	Brodmann area 11	Gray Matter
+ROF3	0.0	22.0	-20.0	-999	ROF	L	strip	Frontal Lobe	Rectal Gyrus	Brodmann area 11	Gray Matter
+ROF4	12.0	24.0	-19.0	-999	ROF	R	strip	Frontal Lobe	Rectal Gyrus	Brodmann area 11	Gray Matter
+ROF5	21.0	25.0	-15.0	-999	ROF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 11	Gray Matter
+ROF6	32.0	26.0	-12.0	-999	ROF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+ROF7	40.0	28.0	-7.0	-999	ROF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+ROF8	48.0	30.0	0.0	-999	ROF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+RATA1	28.0	20.0	-25.0	-999	RATA	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+RATA2	36.0	25.0	-19.0	-999	RATA	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+RATA3	46.0	23.0	-15.0	-999	RATA	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+RATA4	53.0	15.0	-13.0	-999	RATA	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter
+RATA5	58.0	5.0	-10.0	-999	RATA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RATA6	61.0	-5.0	-9.0	-999	RATA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RATA7	63.0	-17.0	-7.0	-999	RATA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RATA8	63.0	-27.0	-7.0	-999	RATA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RATB1	31.0	18.0	-29.0	-999	RATB	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter
+RATB2	38.0	15.0	-34.0	-999	RATB	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter
+RATB3	46.0	8.0	-34.0	-999	RATB	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RATB4	53.0	-1.0	-32.0	-999	RATB	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter
+RATB5	58.0	-10.0	-28.0	-999	RATB	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter
+RATB6	61.0	-19.0	-23.0	-999	RATB	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter
+RATB7	63.0	-27.0	-17.0	-999	RATB	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter
+RATB8	63.0	-36.0	-11.0	-999	RATB	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RSTA1	4.0	-59.0	4.0	-999	RSTA	R	strip	Limbic Lobe	Posterior Cingulate	Brodmann area 30	Gray Matter
+RSTA2	9.0	-57.0	-4.0	-999	RSTA	R	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 19	Gray Matter
+RSTA3	16.0	-54.0	-11.0	-999	RSTA	R	strip	Limbic Lobe	Sub-Gyral	Brodmann area 19	Gray Matter
+RSTA4	25.0	-51.0	-17.0	-999	RSTA	R	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter
+RSTA5	34.0	-49.0	-21.0	-999	RSTA	R	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter
+RSTA6	45.0	-46.0	-22.0	-999	RSTA	R	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter
+RSTA7	56.0	-42.0	-19.0	-999	RSTA	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 37	Gray Matter
+RSTA8	60.0	-39.0	-12.0	-999	RSTA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RSTB1	5.0	-89.0	-11.0	-999	RSTB	R	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 18	Gray Matter
+RSTB2	13.0	-84.0	-14.0	-999	RSTB	R	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 18	Gray Matter
+RSTB3	23.0	-79.0	-17.0	-999	RSTB	R	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter
+RSTB4	33.0	-75.0	-17.0	-999	RSTB	R	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter
+RSTB5	44.0	-69.0	-16.0	-999	RSTB	R	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter
+RSTB6	52.0	-64.0	-15.0	-999	RSTB	R	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter
+RSTB7	58.0	-56.0	-10.0	-999	RSTB	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 37	Gray Matter
+RSTB8	61.0	-48.0	-5.0	-999	RSTB	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 37	Gray Matter
+RPTA1	12.0	-92.0	38.0	-999	RPTA	R	strip	Occipital Lobe	Cuneus	Brodmann area 19	Gray Matter
+RPTA2	23.0	-92.0	36.0	-999	RPTA	R	strip	Occipital Lobe	Cuneus	Brodmann area 19	Gray Matter
+RPTA3	32.0	-88.0	32.0	-999	RPTA	R	strip	Occipital Lobe	Cuneus	Brodmann area 19	Gray Matter
+RPTA4	42.0	-83.0	27.0	-999	RPTA	R	strip	Occipital Lobe	Superior Occipital Gyrus	Brodmann area 19	Gray Matter
+RPTA5	48.0	-77.0	21.0	-999	RPTA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RPTA6	53.0	-69.0	15.0	-999	RPTA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RPTA7	56.0	-61.0	9.0	-999	RPTA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RPTA8	58.0	-52.0	3.0	-999	RPTA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RPTB1	12.0	-86.0	46.0	-999	RPTB	R	strip	Parietal Lobe	Precuneus	Brodmann area 19	Gray Matter
+RPTB2	22.0	-85.0	44.0	-999	RPTB	R	strip	Parietal Lobe	Precuneus	Brodmann area 19	Gray Matter
+RPTB3	32.0	-84.0	41.0	-999	RPTB	R	strip	Parietal Lobe	Precuneus	Brodmann area 19	Gray Matter
+RPTB4	42.0	-78.0	35.0	-999	RPTB	R	strip	Occipital Lobe	Superior Occipital Gyrus	Brodmann area 19	Gray Matter
+RPTB5	48.0	-72.0	29.0	-999	RPTB	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RPTB6	53.0	-64.0	23.0	-999	RPTB	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RPTB7	56.0	-57.0	16.0	-999	RPTB	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter
+RPTB8	56.0	-48.0	9.0	-999	RPTB	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter
+RP1	14.0	-83.0	50.0	-999	RP	R	strip	Parietal Lobe	Precuneus	Brodmann area 7	Gray Matter
+RP2	23.0	-78.0	51.0	-999	RP	R	strip	Parietal Lobe	Precuneus	Brodmann area 7	Gray Matter
+RP3	33.0	-70.0	51.0	-999	RP	R	strip	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter
+RP4	40.0	-62.0	48.0	-999	RP	R	strip	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter
+RP5	47.0	-53.0	45.0	-999	RP	R	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter
+RP6	52.0	-45.0	42.0	-999	RP	R	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter
+RP7	56.0	-36.0	37.0	-999	RP	R	strip	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter
+RP8	59.0	-26.0	32.0	-999	RP	R	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter
+RAH1	33.0	-24.0	-13.0	-999	RAH	R	depth	Limbic Lobe	Parahippocampal Gyrus	Hippocampus	Gray Matter
+RAH2	37.0	-26.0	-12.0	-999	RAH	R	depth	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 36	Gray Matter
+RAH3	42.0	-28.0	-10.0	-999	RAH	R	depth	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 36	Gray Matter
+RAH4	47.0	-29.0	-9.0	-999	RAH	R	depth	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 36	Gray Matter
+RAH5	51.0	-31.0	-6.0	-999	RAH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RAH6	56.0	-33.0	-4.0	-999	RAH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RAH7	61.0	-34.0	0.0	-999	RAH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RAH8	65.0	-35.0	2.0	-999	RAH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RPH1	31.0	-27.0	-14.0	-999	RPH	R	depth	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 36	Gray Matter
+RPH2	36.0	-28.0	-12.0	-999	RPH	R	depth	Temporal Lobe	Sub-Gyral	Hippocampus	Gray Matter
+RPH3	41.0	-30.0	-10.0	-999	RPH	R	depth	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 36	Gray Matter
+RPH4	45.0	-31.0	-8.0	-999	RPH	R	depth	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 36	Gray Matter
+RPH5	50.0	-33.0	-6.0	-999	RPH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RPH6	55.0	-34.0	-3.0	-999	RPH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RPH8	62.0	-38.0	2.0	-999	RPH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
