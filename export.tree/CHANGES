@@ -1,4 +1,0 @@
-1.0.1 2023-11-30
-  - Corrected "units" field in channels.tsv files from uV to V.
-1.0.0 2023-11-29
-  - Initial release.  37 participants, 76 total experimental sessions.
