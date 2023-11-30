@@ -1,0 +1,49 @@
+name	x	y	z	size	group	hemisphere	type	lobe	region1	region2	gray_white
+RFP1	33.0	59.0	-6.0	-999	RFP	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter
+RFP2	38.0	52.0	0.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 10	Gray Matter
+RFP3	43.0	46.0	7.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 46	Gray Matter
+RFP4	48.0	38.0	15.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 46	Gray Matter
+RFP5	51.0	31.0	21.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 46	Gray Matter
+RFP6	55.0	21.0	27.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 9	Gray Matter
+RFP7	57.0	12.0	30.0	-999	RFP	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 9	Gray Matter
+RFP8	60.0	1.0	33.0	-999	RFP	R	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter
+ROF1	10.0	46.0	-27.0	-999	ROF	R	strip	Frontal Lobe	Orbital Gyrus	Brodmann area 11	Gray Matter
+ROF2	17.0	39.0	-24.0	-999	ROF	R	strip	Frontal Lobe	Orbital Gyrus	Brodmann area 11	Gray Matter
+ROF3	26.0	32.0	-23.0	-999	ROF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 11	Gray Matter
+ROF4	35.0	27.0	-22.0	-999	ROF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter
+ROF5	42.0	20.0	-20.0	-999	ROF	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter
+ROF6	48.0	12.0	-16.0	-999	ROF	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter
+ROF7	53.0	6.0	-11.0	-999	ROF	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+ROF8	56.0	-1.0	-5.0	-999	ROF	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter
+RTOA1	55.0	-38.0	48.0	-999	RTOA	R	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter
+RTOA2	57.0	-35.0	37.0	-999	RTOA	R	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter
+RTOA3	56.0	-33.0	26.0	-999	RTOA	R	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter
+RTOA4	57.0	-31.0	15.0	-999	RTOA	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter
+RTOA5	58.0	-29.0	4.0	-999	RTOA	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter
+RTOA6	58.0	-27.0	-6.0	-999	RTOA	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter
+RTOA7	58.0	-24.0	-16.0	-999	RTOA	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter
+RTOA8	61.0	-19.0	-24.0	-999	RTOA	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter
+RTOB1	2.0	-77.0	29.0	-999	RTOB	R	strip	Occipital Lobe	Cuneus	Brodmann area 18	Gray Matter
+RTOB2	1.0	-73.0	18.0	-999	RTOB	R	strip	Occipital Lobe	Cuneus	Brodmann area 18	Gray Matter
+RTOB3	3.0	-69.0	9.0	-999	RTOB	R	strip	Occipital Lobe	Cuneus	Brodmann area 30	Gray Matter
+RTOB4	8.0	-64.0	1.0	-999	RTOB	R	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 19	Gray Matter
+RTOB5	16.0	-60.0	-5.0	-999	RTOB	R	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 19	Gray Matter
+RTOB6	24.0	-54.0	-10.0	-999	RTOB	R	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter
+RTOB7	32.0	-50.0	-16.0	-999	RTOB	R	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter
+RTOB8	41.0	-45.0	-20.0	-999	RTOB	R	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter
+RTOC1	22.0	-104.0	4.0	-999	RTOC	R	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter
+RTOC2	31.0	-99.0	5.0	-999	RTOC	R	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter
+RTOC3	39.0	-92.0	8.0	-999	RTOC	R	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 19	Gray Matter
+RTOC4	45.0	-83.0	8.0	-999	RTOC	R	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 19	Gray Matter
+RTOC5	51.0	-74.0	9.0	-999	RTOC	R	strip	Occipital Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RTOC6	54.0	-65.0	11.0	-999	RTOC	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RTOC7	58.0	-54.0	11.0	-999	RTOC	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter
+RTOC8	59.0	-44.0	10.0	-999	RTOC	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter
+RTOD1	18.0	-92.0	36.0	-999	RTOD	R	strip	Occipital Lobe	Cuneus	Brodmann area 19	Gray Matter
+RTOD2	27.0	-88.0	37.0	-999	RTOD	R	strip	Occipital Lobe	Cuneus	Brodmann area 19	Gray Matter
+RTOD3	36.0	-82.0	36.0	-999	RTOD	R	strip	Parietal Lobe	Precuneus	Brodmann area 19	Gray Matter
+RTOD4	44.0	-75.0	34.0	-999	RTOD	R	strip	Temporal Lobe	Angular Gyrus	Brodmann area 39	Gray Matter
+RTOD5	50.0	-66.0	32.0	-999	RTOD	R	strip	Parietal Lobe	Angular Gyrus	Brodmann area 39	Gray Matter
+RTOD6	55.0	-59.0	28.0	-999	RTOD	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 39	Gray Matter
+RTOD7	56.0	-48.0	25.0	-999	RTOD	R	strip	Temporal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter
+RTOD8	56.0	-38.0	22.0	-999	RTOD	R	strip	Sub-lobar	Insula	Brodmann area 13	Gray Matter

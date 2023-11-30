@@ -1,0 +1,11 @@
+{
+    "Name": "pyFR: Delayed Free Recall of Word Lists, Preliminary Cognitive Electrophysiology Study",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004865.v1.0.1",
+    "License": "CC0"
+}
