@@ -1,0 +1,456 @@
+onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	list	test	answer	experiment	session	subject
+0.0	0.0	682080	B	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	1	TJ066
+0.0	31.307	682080	SESS_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	1	TJ066
+31.307	0.025	713387	START	n/a	n/a	n/a	n/a	0	[-999 -999 -999]	-999	pyFR	1	TJ066
+31.332	3.973	713412	PROB	3.949	n/a	n/a	n/a	0	[4 5 5]	14	pyFR	1	TJ066
+35.305	5.425	717385	PROB	5.399	n/a	n/a	n/a	0	[7 7 4]	18	pyFR	1	TJ066
+40.73	3.557	722810	PROB	3.519	n/a	n/a	n/a	0	[9 9 1]	19	pyFR	1	TJ066
+44.287	6.16	726367	PROB	6.138	n/a	n/a	n/a	0	[7 6 2]	15	pyFR	1	TJ066
+50.447	4.925	732527	PROB	4.898	n/a	n/a	n/a	0	[6 6 2]	14	pyFR	1	TJ066
+55.372	11.028	737452	PROB	11.028	n/a	n/a	n/a	0	[9 8 4]	21	pyFR	1	TJ066
+66.4	12.31	748480	STOP	n/a	n/a	n/a	n/a	0	[-999 -999 -999]	-999	pyFR	1	TJ066
+78.71	0.016	760790	TRIAL	n/a	n/a	n/a	-999	1	n/a	n/a	pyFR	1	TJ066
+78.726	2.955	760806	ORIENT	n/a	n/a	n/a	-999	1	n/a	n/a	pyFR	1	TJ066
+81.681	2.722	763761	WORD	n/a	wordpools/wordpool_EN.txt	BOWL	1	1	n/a	n/a	pyFR	1	TJ066
+84.403	2.738	766483	WORD	n/a	wordpools/wordpool_EN.txt	ROSE	2	1	n/a	n/a	pyFR	1	TJ066
+87.141	2.821	769221	WORD	n/a	wordpools/wordpool_EN.txt	STRAW	3	1	n/a	n/a	pyFR	1	TJ066
+89.962	2.538	772042	WORD	n/a	wordpools/wordpool_EN.txt	QUEEN	4	1	n/a	n/a	pyFR	1	TJ066
+92.5	2.771	774580	WORD	n/a	wordpools/wordpool_EN.txt	SPOON	5	1	n/a	n/a	pyFR	1	TJ066
+95.271	2.688	777351	WORD	n/a	wordpools/wordpool_EN.txt	BOX	6	1	n/a	n/a	pyFR	1	TJ066
+97.959	2.77	780039	WORD	n/a	wordpools/wordpool_EN.txt	DOCK	7	1	n/a	n/a	pyFR	1	TJ066
+100.729	2.472	782809	WORD	n/a	wordpools/wordpool_EN.txt	PALM	8	1	n/a	n/a	pyFR	1	TJ066
+103.201	2.587	785281	WORD	n/a	wordpools/wordpool_EN.txt	CLOTH	9	1	n/a	n/a	pyFR	1	TJ066
+105.788	2.538	787868	WORD	n/a	wordpools/wordpool_EN.txt	BATH	10	1	n/a	n/a	pyFR	1	TJ066
+108.326	2.486	790406	WORD	n/a	wordpools/wordpool_EN.txt	HEN	11	1	n/a	n/a	pyFR	1	TJ066
+110.812	2.738	792892	WORD	n/a	wordpools/wordpool_EN.txt	FENCE	12	1	n/a	n/a	pyFR	1	TJ066
+113.55	2.639	795630	WORD	n/a	wordpools/wordpool_EN.txt	ICE	13	1	n/a	n/a	pyFR	1	TJ066
+116.189	2.486	798269	WORD	n/a	wordpools/wordpool_EN.txt	TRUCK	14	1	n/a	n/a	pyFR	1	TJ066
+118.675	1.605	800755	WORD	n/a	wordpools/wordpool_EN.txt	TOAD	15	1	n/a	n/a	pyFR	1	TJ066
+120.28	0.885	802360	START	n/a	n/a	n/a	n/a	1	[-999 -999 -999]	-999	pyFR	1	TJ066
+121.165	4.422	803245	PROB	4.384	n/a	n/a	n/a	1	[1 5 9]	15	pyFR	1	TJ066
+125.587	3.34	807667	PROB	3.314	n/a	n/a	n/a	1	[3 3 2]	8	pyFR	1	TJ066
+128.927	5.892	811007	PROB	5.862	n/a	n/a	n/a	1	[8 2 8]	18	pyFR	1	TJ066
+134.819	3.889	816899	PROB	3.866	n/a	n/a	n/a	1	[2 9 5]	16	pyFR	1	TJ066
+138.708	4.809	820788	PROB	4.809	n/a	n/a	n/a	1	[4 9 7]	20	pyFR	1	TJ066
+143.517	1.068	825597	STOP	n/a	n/a	n/a	n/a	1	[-999 -999 -999]	-999	pyFR	1	TJ066
+144.585	1.879	826665	REC_START	n/a	n/a	n/a	-999	1	n/a	n/a	pyFR	1	TJ066
+146.464	1.403	828544	REC_WORD	1.879	n/a	ROSE	-999	1	n/a	n/a	pyFR	1	TJ066
+147.867	1.012	829947	REC_WORD	3.282	n/a	BOAT	-999	1	n/a	n/a	pyFR	1	TJ066
+148.879	5.73	830959	REC_WORD	4.294	n/a	QUEEN	-999	1	n/a	n/a	pyFR	1	TJ066
+154.609	1.001	836689	REC_WORD_VV	10.024	n/a	<>	-999	1	n/a	n/a	pyFR	1	TJ066
+155.61	0.999	837690	REC_WORD_VV	11.025	n/a	<>	-999	1	n/a	n/a	pyFR	1	TJ066
+156.609	1.0	838689	REC_WORD_VV	12.024	n/a	<>	-999	1	n/a	n/a	pyFR	1	TJ066
+157.609	1.0	839689	REC_WORD_VV	13.024	n/a	<>	-999	1	n/a	n/a	pyFR	1	TJ066
+158.609	76.926	840689	REC_WORD_VV	14.024	n/a	<>	-999	1	n/a	n/a	pyFR	1	TJ066
+235.535	0.017	917615	TRIAL	n/a	n/a	n/a	-999	2	n/a	n/a	pyFR	1	TJ066
+235.552	2.988	917632	ORIENT	n/a	n/a	n/a	-999	2	n/a	n/a	pyFR	1	TJ066
+238.54	2.639	920620	WORD	n/a	wordpools/wordpool_EN.txt	TOY	1	2	n/a	n/a	pyFR	1	TJ066
+241.179	2.703	923259	WORD	n/a	wordpools/wordpool_EN.txt	BEAR	2	2	n/a	n/a	pyFR	1	TJ066
+243.882	2.689	925962	WORD	n/a	wordpools/wordpool_EN.txt	OAR	3	2	n/a	n/a	pyFR	1	TJ066
+246.571	2.804	928651	WORD	n/a	wordpools/wordpool_EN.txt	SHIELD	4	2	n/a	n/a	pyFR	1	TJ066
+249.375	2.688	931455	WORD	n/a	wordpools/wordpool_EN.txt	VAN	5	2	n/a	n/a	pyFR	1	TJ066
+252.063	2.67	934143	WORD	n/a	wordpools/wordpool_EN.txt	LEAF	6	2	n/a	n/a	pyFR	1	TJ066
+254.733	2.523	936813	WORD	n/a	wordpools/wordpool_EN.txt	BOARD	7	2	n/a	n/a	pyFR	1	TJ066
+257.256	2.704	939336	WORD	n/a	wordpools/wordpool_EN.txt	VASE	8	2	n/a	n/a	pyFR	1	TJ066
+259.96	2.753	942039	WORD	n/a	wordpools/wordpool_EN.txt	PIT	9	2	n/a	n/a	pyFR	1	TJ066
+262.713	2.756	944792	WORD	n/a	wordpools/wordpool_EN.txt	INK	10	2	n/a	n/a	pyFR	1	TJ066
+265.469	2.704	947548	WORD	n/a	wordpools/wordpool_EN.txt	CART	11	2	n/a	n/a	pyFR	1	TJ066
+268.173	2.62	950252	WORD	n/a	wordpools/wordpool_EN.txt	RAIN	12	2	n/a	n/a	pyFR	1	TJ066
+270.793	2.522	952872	WORD	n/a	wordpools/wordpool_EN.txt	TOAST	13	2	n/a	n/a	pyFR	1	TJ066
+273.315	2.553	955394	WORD	n/a	wordpools/wordpool_EN.txt	HEART	14	2	n/a	n/a	pyFR	1	TJ066
+275.868	1.605	957947	WORD	n/a	wordpools/wordpool_EN.txt	WAVE	15	2	n/a	n/a	pyFR	1	TJ066
+277.473	0.834	959552	START	n/a	n/a	n/a	n/a	2	[-999 -999 -999]	-999	pyFR	1	TJ066
+278.307	4.506	960386	PROB	4.47	n/a	n/a	n/a	2	[7 4 7]	18	pyFR	1	TJ066
+282.813	3.507	964892	PROB	3.476	n/a	n/a	n/a	2	[4 6 3]	13	pyFR	1	TJ066
+286.32	3.254	968399	PROB	3.216	n/a	n/a	n/a	2	[2 8 5]	15	pyFR	1	TJ066
+289.574	7.897	971653	PROB	7.875	n/a	n/a	n/a	2	[1 8 5]	14	pyFR	1	TJ066
+297.471	4.458	979550	PROB	4.458	n/a	n/a	n/a	2	[2 5 3]	10	pyFR	1	TJ066
+301.929	1.169	984008	STOP	n/a	n/a	n/a	n/a	2	[-999 -999 -999]	-999	pyFR	1	TJ066
+303.098	5.331	985177	REC_START	n/a	n/a	n/a	-999	2	n/a	n/a	pyFR	1	TJ066
+308.429	8.74	990508	REC_WORD	5.331	n/a	VAN	-999	2	n/a	n/a	pyFR	1	TJ066
+317.169	44.192	999248	REC_WORD	14.071	n/a	VASE	-999	2	n/a	n/a	pyFR	1	TJ066
+361.361	0.016	1043440	TRIAL	n/a	n/a	n/a	-999	3	n/a	n/a	pyFR	1	TJ066
+361.377	2.905	1043456	ORIENT	n/a	n/a	n/a	-999	3	n/a	n/a	pyFR	1	TJ066
+364.282	2.821	1046361	WORD	n/a	wordpools/wordpool_EN.txt	BAG	1	3	n/a	n/a	pyFR	1	TJ066
+367.103	2.487	1049182	WORD	n/a	wordpools/wordpool_EN.txt	STICK	2	3	n/a	n/a	pyFR	1	TJ066
+369.59	2.705	1051669	WORD	n/a	wordpools/wordpool_EN.txt	BIRD	3	3	n/a	n/a	pyFR	1	TJ066
+372.295	2.62	1054374	WORD	n/a	wordpools/wordpool_EN.txt	FOAM	4	3	n/a	n/a	pyFR	1	TJ066
+374.915	2.506	1056994	WORD	n/a	wordpools/wordpool_EN.txt	DOOR	5	3	n/a	n/a	pyFR	1	TJ066
+377.421	2.554	1059500	WORD	n/a	wordpools/wordpool_EN.txt	HAWK	6	3	n/a	n/a	pyFR	1	TJ066
+379.975	2.619	1062054	WORD	n/a	wordpools/wordpool_EN.txt	SPEAR	7	3	n/a	n/a	pyFR	1	TJ066
+382.594	2.739	1064673	WORD	n/a	wordpools/wordpool_EN.txt	VINE	8	3	n/a	n/a	pyFR	1	TJ066
+385.333	2.487	1067412	WORD	n/a	wordpools/wordpool_EN.txt	MULE	9	3	n/a	n/a	pyFR	1	TJ066
+387.82	2.638	1069899	WORD	n/a	wordpools/wordpool_EN.txt	BOMB	10	3	n/a	n/a	pyFR	1	TJ066
+390.458	2.453	1072537	WORD	n/a	wordpools/wordpool_EN.txt	POLE	11	3	n/a	n/a	pyFR	1	TJ066
+392.911	2.555	1074990	WORD	n/a	wordpools/wordpool_EN.txt	EAR	12	3	n/a	n/a	pyFR	1	TJ066
+395.466	2.705	1077545	WORD	n/a	wordpools/wordpool_EN.txt	MOUTH	13	3	n/a	n/a	pyFR	1	TJ066
+398.171	2.704	1080250	WORD	n/a	wordpools/wordpool_EN.txt	ANT	14	3	n/a	n/a	pyFR	1	TJ066
+400.875	1.621	1082954	WORD	n/a	wordpools/wordpool_EN.txt	MOUSE	15	3	n/a	n/a	pyFR	1	TJ066
+402.496	0.968	1084575	START	n/a	n/a	n/a	n/a	3	[-999 -999 -999]	-999	pyFR	1	TJ066
+403.464	4.188	1085543	PROB	4.164	n/a	n/a	n/a	3	[2 6 1]	9	pyFR	1	TJ066
+407.652	6.027	1089731	PROB	6.0	n/a	n/a	n/a	3	[8 6 3]	17	pyFR	1	TJ066
+413.679	7.513	1095758	PROB	7.486	n/a	n/a	n/a	3	[5 8 3]	16	pyFR	1	TJ066
+421.192	3.316	1103271	PROB	3.316	n/a	n/a	n/a	3	[5 5 9]	19	pyFR	1	TJ066
+424.508	1.241	1106587	STOP	n/a	n/a	n/a	n/a	3	[-999 -999 -999]	-999	pyFR	1	TJ066
+425.749	2.483	1107828	REC_START	n/a	n/a	n/a	-999	3	n/a	n/a	pyFR	1	TJ066
+428.232	1.236	1110311	REC_WORD	2.483	n/a	MOUTH	-999	3	n/a	n/a	pyFR	1	TJ066
+429.468	1.389	1111547	REC_WORD	3.719	n/a	POLE	-999	3	n/a	n/a	pyFR	1	TJ066
+430.857	3.247	1112936	REC_WORD	5.108	n/a	MOUSE	-999	3	n/a	n/a	pyFR	1	TJ066
+434.104	11.202	1116183	REC_WORD	8.355	n/a	ANT	-999	3	n/a	n/a	pyFR	1	TJ066
+445.306	18.731	1127385	REC_WORD	19.557	n/a	VINE	-999	3	n/a	n/a	pyFR	1	TJ066
+464.037	0.791	1146116	REC_WORD	38.288	n/a	HOOK	-999	3	n/a	n/a	pyFR	1	TJ066
+464.828	15.279	1146907	REC_WORD	39.079	n/a	SPEAR	-999	3	n/a	n/a	pyFR	1	TJ066
+480.107	0.016	1162186	TRIAL	n/a	n/a	n/a	-999	4	n/a	n/a	pyFR	1	TJ066
+480.123	2.805	1162202	ORIENT	n/a	n/a	n/a	-999	4	n/a	n/a	pyFR	1	TJ066
+482.928	2.554	1165007	WORD	n/a	wordpools/wordpool_EN.txt	CARD	1	4	n/a	n/a	pyFR	1	TJ066
+485.482	2.436	1167561	WORD	n/a	wordpools/wordpool_EN.txt	LOCK	2	4	n/a	n/a	pyFR	1	TJ066
+487.918	2.621	1169997	WORD	n/a	wordpools/wordpool_EN.txt	CORD	3	4	n/a	n/a	pyFR	1	TJ066
+490.539	2.472	1172618	WORD	n/a	wordpools/wordpool_EN.txt	MAT	4	4	n/a	n/a	pyFR	1	TJ066
+493.011	2.52	1175090	WORD	n/a	wordpools/wordpool_EN.txt	SKI	5	4	n/a	n/a	pyFR	1	TJ066
+495.531	2.739	1177610	WORD	n/a	wordpools/wordpool_EN.txt	CAR	6	4	n/a	n/a	pyFR	1	TJ066
+498.27	2.619	1180349	WORD	n/a	wordpools/wordpool_EN.txt	ROAD	7	4	n/a	n/a	pyFR	1	TJ066
+500.889	2.805	1182968	WORD	n/a	wordpools/wordpool_EN.txt	ROOM	8	4	n/a	n/a	pyFR	1	TJ066
+503.694	2.455	1185773	WORD	n/a	wordpools/wordpool_EN.txt	SHEEP	9	4	n/a	n/a	pyFR	1	TJ066
+506.149	2.537	1188228	WORD	n/a	wordpools/wordpool_EN.txt	STORM	10	4	n/a	n/a	pyFR	1	TJ066
+508.686	2.488	1190765	WORD	n/a	wordpools/wordpool_EN.txt	PASTE	11	4	n/a	n/a	pyFR	1	TJ066
+511.174	2.687	1193253	WORD	n/a	wordpools/wordpool_EN.txt	BANK	12	4	n/a	n/a	pyFR	1	TJ066
+513.861	2.738	1195940	WORD	n/a	wordpools/wordpool_EN.txt	MOTH	13	4	n/a	n/a	pyFR	1	TJ066
+516.599	2.722	1198678	WORD	n/a	wordpools/wordpool_EN.txt	NEST	14	4	n/a	n/a	pyFR	1	TJ066
+519.321	1.62	1201400	WORD	n/a	wordpools/wordpool_EN.txt	GRAPE	15	4	n/a	n/a	pyFR	1	TJ066
+520.941	1.201	1203019	START	n/a	n/a	n/a	n/a	4	[-999 -999 -999]	-999	pyFR	1	TJ066
+522.142	4.241	1204220	PROB	4.204	n/a	n/a	n/a	4	[7 2 2]	11	pyFR	1	TJ066
+526.383	5.909	1208461	PROB	5.875	n/a	n/a	n/a	4	[8 6 8]	21	pyFR	1	TJ066
+532.292	6.711	1214370	PROB	6.678	n/a	n/a	n/a	4	[3 9 8]	20	pyFR	1	TJ066
+539.003	3.262	1221081	PROB	3.262	n/a	n/a	n/a	4	[7 7 1]	15	pyFR	1	TJ066
+542.265	1.213	1224343	STOP	n/a	n/a	n/a	n/a	4	[-999 -999 -999]	-999	pyFR	1	TJ066
+543.478	2.284	1225556	REC_START	n/a	n/a	n/a	-999	4	n/a	n/a	pyFR	1	TJ066
+545.762	0.814	1227840	REC_WORD	2.284	n/a	CAR	-999	4	n/a	n/a	pyFR	1	TJ066
+546.576	2.967	1228654	REC_WORD	3.098	n/a	ROAD	-999	4	n/a	n/a	pyFR	1	TJ066
+549.543	7.3	1231621	REC_WORD	6.065	n/a	SKI	-999	4	n/a	n/a	pyFR	1	TJ066
+556.843	11.076	1238921	REC_WORD	13.365	n/a	GRAPE	-999	4	n/a	n/a	pyFR	1	TJ066
+567.919	39.331	1249997	REC_WORD	24.441	n/a	ROOM	-999	4	n/a	n/a	pyFR	1	TJ066
+607.25	0.016	1289328	TRIAL	n/a	n/a	n/a	-999	5	n/a	n/a	pyFR	1	TJ066
+607.266	2.922	1289344	ORIENT	n/a	n/a	n/a	-999	5	n/a	n/a	pyFR	1	TJ066
+610.188	2.436	1292266	WORD	n/a	wordpools/wordpool_EN.txt	SPRING	1	5	n/a	n/a	pyFR	1	TJ066
+612.624	2.705	1294702	WORD	n/a	wordpools/wordpool_EN.txt	NAIL	2	5	n/a	n/a	pyFR	1	TJ066
+615.329	2.689	1297407	WORD	n/a	wordpools/wordpool_EN.txt	WHEEL	3	5	n/a	n/a	pyFR	1	TJ066
+618.018	2.704	1300096	WORD	n/a	wordpools/wordpool_EN.txt	SINK	4	5	n/a	n/a	pyFR	1	TJ066
+620.722	2.721	1302800	WORD	n/a	wordpools/wordpool_EN.txt	SNOW	5	5	n/a	n/a	pyFR	1	TJ066
+623.443	2.587	1305521	WORD	n/a	wordpools/wordpool_EN.txt	CLAY	6	5	n/a	n/a	pyFR	1	TJ066
+626.03	2.554	1308108	WORD	n/a	wordpools/wordpool_EN.txt	FOG	7	5	n/a	n/a	pyFR	1	TJ066
+628.584	2.688	1310662	WORD	n/a	wordpools/wordpool_EN.txt	SPARK	8	5	n/a	n/a	pyFR	1	TJ066
+631.272	2.688	1313350	WORD	n/a	wordpools/wordpool_EN.txt	DESK	9	5	n/a	n/a	pyFR	1	TJ066
+633.96	2.587	1316038	WORD	n/a	wordpools/wordpool_EN.txt	SHARK	10	5	n/a	n/a	pyFR	1	TJ066
+636.547	2.789	1318625	WORD	n/a	wordpools/wordpool_EN.txt	DOLL	11	5	n/a	n/a	pyFR	1	TJ066
+639.336	2.671	1321414	WORD	n/a	wordpools/wordpool_EN.txt	WEED	12	5	n/a	n/a	pyFR	1	TJ066
+642.007	2.67	1324085	WORD	n/a	wordpools/wordpool_EN.txt	SMILE	13	5	n/a	n/a	pyFR	1	TJ066
+644.677	2.472	1326755	WORD	n/a	wordpools/wordpool_EN.txt	STREET	14	5	n/a	n/a	pyFR	1	TJ066
+647.149	1.619	1329227	WORD	n/a	wordpools/wordpool_EN.txt	BALL	15	5	n/a	n/a	pyFR	1	TJ066
+648.768	1.051	1330846	START	n/a	n/a	n/a	n/a	5	[-999 -999 -999]	-999	pyFR	1	TJ066
+649.819	7.513	1331897	PROB	7.482	n/a	n/a	n/a	5	[8 8 6]	22	pyFR	1	TJ066
+657.332	5.241	1339410	PROB	5.208	n/a	n/a	n/a	5	[8 1 5]	14	pyFR	1	TJ066
+662.573	7.864	1344651	PROB	7.864	n/a	n/a	n/a	5	[8 4 5]	17	pyFR	1	TJ066
+670.437	1.085	1352515	STOP	n/a	n/a	n/a	n/a	5	[-999 -999 -999]	-999	pyFR	1	TJ066
+671.522	25.175	1353600	REC_START	n/a	n/a	n/a	-999	5	n/a	n/a	pyFR	1	TJ066
+696.697	152.485	1378775	REC_WORD	25.175	n/a	SMILE	-999	5	n/a	n/a	pyFR	1	TJ066
+849.182	0.017	1531259	TRIAL	n/a	n/a	n/a	-999	6	n/a	n/a	pyFR	1	TJ066
+849.199	2.838	1531276	ORIENT	n/a	n/a	n/a	-999	6	n/a	n/a	pyFR	1	TJ066
+852.037	2.586	1534114	WORD	n/a	wordpools/wordpool_EN.txt	DRESS	1	6	n/a	n/a	pyFR	1	TJ066
+854.623	2.739	1536700	WORD	n/a	wordpools/wordpool_EN.txt	THUMB	2	6	n/a	n/a	pyFR	1	TJ066
+857.362	2.453	1539439	WORD	n/a	wordpools/wordpool_EN.txt	RIB	3	6	n/a	n/a	pyFR	1	TJ066
+859.815	2.788	1541892	WORD	n/a	wordpools/wordpool_EN.txt	FUR	4	6	n/a	n/a	pyFR	1	TJ066
+862.603	2.539	1544680	WORD	n/a	wordpools/wordpool_EN.txt	LAMB	5	6	n/a	n/a	pyFR	1	TJ066
+865.142	2.436	1547219	WORD	n/a	wordpools/wordpool_EN.txt	COIN	6	6	n/a	n/a	pyFR	1	TJ066
+867.578	2.438	1549655	WORD	n/a	wordpools/wordpool_EN.txt	AXE	7	6	n/a	n/a	pyFR	1	TJ066
+870.016	2.654	1552093	WORD	n/a	wordpools/wordpool_EN.txt	PEACH	8	6	n/a	n/a	pyFR	1	TJ066
+872.67	2.638	1554747	WORD	n/a	wordpools/wordpool_EN.txt	SHRIMP	9	6	n/a	n/a	pyFR	1	TJ066
+875.308	2.655	1557385	WORD	n/a	wordpools/wordpool_EN.txt	PIPE	10	6	n/a	n/a	pyFR	1	TJ066
+877.963	2.57	1560040	WORD	n/a	wordpools/wordpool_EN.txt	DEER	11	6	n/a	n/a	pyFR	1	TJ066
+880.533	2.538	1562610	WORD	n/a	wordpools/wordpool_EN.txt	FORK	12	6	n/a	n/a	pyFR	1	TJ066
+883.071	2.654	1565148	WORD	n/a	wordpools/wordpool_EN.txt	WORLD	13	6	n/a	n/a	pyFR	1	TJ066
+885.725	2.688	1567802	WORD	n/a	wordpools/wordpool_EN.txt	CORN	14	6	n/a	n/a	pyFR	1	TJ066
+888.413	1.621	1570490	WORD	n/a	wordpools/wordpool_EN.txt	BOY	15	6	n/a	n/a	pyFR	1	TJ066
+890.034	0.967	1572111	START	n/a	n/a	n/a	n/a	6	[-999 -999 -999]	-999	pyFR	1	TJ066
+891.001	3.521	1573078	PROB	3.485	n/a	n/a	n/a	6	[1 4 4]	9	pyFR	1	TJ066
+894.522	4.04	1576599	PROB	4.003	n/a	n/a	n/a	6	[5 1 3]	9	pyFR	1	TJ066
+898.562	8.181	1580639	PROB	8.147	n/a	n/a	n/a	6	[3 1 8]	11	pyFR	1	TJ066
+906.743	5.27	1588820	PROB	5.27	n/a	n/a	n/a	6	[4 6 4]	14	pyFR	1	TJ066
+912.013	1.208	1594090	STOP	n/a	n/a	n/a	n/a	6	[-999 -999 -999]	-999	pyFR	1	TJ066
+913.221	6.985	1595298	REC_START	n/a	n/a	n/a	-999	6	n/a	n/a	pyFR	1	TJ066
+920.206	7.639	1602283	REC_WORD	6.985	n/a	WORLD	-999	6	n/a	n/a	pyFR	1	TJ066
+927.845	0.316	1609922	REC_WORD_VV	14.624	n/a	<>	-999	6	n/a	n/a	pyFR	1	TJ066
+928.161	16.971	1610238	REC_WORD	14.94	n/a	TRIP	-999	6	n/a	n/a	pyFR	1	TJ066
+945.132	0.594	1627209	REC_WORD	31.911	n/a	BOAT	-999	6	n/a	n/a	pyFR	1	TJ066
+945.726	26.792	1627803	REC_WORD	32.505	n/a	BOY	-999	6	n/a	n/a	pyFR	1	TJ066
+972.518	0.017	1654595	TRIAL	n/a	n/a	n/a	-999	7	n/a	n/a	pyFR	1	TJ066
+972.535	2.955	1654612	ORIENT	n/a	n/a	n/a	-999	7	n/a	n/a	pyFR	1	TJ066
+975.49	2.671	1657567	WORD	n/a	wordpools/wordpool_EN.txt	BEAN	1	7	n/a	n/a	pyFR	1	TJ066
+978.161	2.687	1660238	WORD	n/a	wordpools/wordpool_EN.txt	PHONE	2	7	n/a	n/a	pyFR	1	TJ066
+980.848	2.505	1662925	WORD	n/a	wordpools/wordpool_EN.txt	SHIP	3	7	n/a	n/a	pyFR	1	TJ066
+983.353	2.571	1665430	WORD	n/a	wordpools/wordpool_EN.txt	MUD	4	7	n/a	n/a	pyFR	1	TJ066
+985.924	2.505	1668001	WORD	n/a	wordpools/wordpool_EN.txt	DOG	5	7	n/a	n/a	pyFR	1	TJ066
+988.429	2.504	1670506	WORD	n/a	wordpools/wordpool_EN.txt	GIRL	6	7	n/a	n/a	pyFR	1	TJ066
+990.933	2.454	1673010	WORD	n/a	wordpools/wordpool_EN.txt	CANE	7	7	n/a	n/a	pyFR	1	TJ066
+993.387	2.453	1675464	WORD	n/a	wordpools/wordpool_EN.txt	CROWN	8	7	n/a	n/a	pyFR	1	TJ066
+995.84	2.538	1677917	WORD	n/a	wordpools/wordpool_EN.txt	DITCH	9	7	n/a	n/a	pyFR	1	TJ066
+998.378	2.788	1680455	WORD	n/a	wordpools/wordpool_EN.txt	CAVE	10	7	n/a	n/a	pyFR	1	TJ066
+1001.166	2.754	1683243	WORD	n/a	wordpools/wordpool_EN.txt	NET	11	7	n/a	n/a	pyFR	1	TJ066
+1003.92	2.737	1685997	WORD	n/a	wordpools/wordpool_EN.txt	STORE	12	7	n/a	n/a	pyFR	1	TJ066
+1006.657	2.723	1688734	WORD	n/a	wordpools/wordpool_EN.txt	TRAIN	13	7	n/a	n/a	pyFR	1	TJ066
+1009.38	2.519	1691457	WORD	n/a	wordpools/wordpool_EN.txt	THREAD	14	7	n/a	n/a	pyFR	1	TJ066
+1011.899	1.621	1693976	WORD	n/a	wordpools/wordpool_EN.txt	PANTS	15	7	n/a	n/a	pyFR	1	TJ066
+1013.52	0.968	1695597	START	n/a	n/a	n/a	n/a	7	[-999 -999 -999]	-999	pyFR	1	TJ066
+1014.488	4.641	1696565	PROB	4.61	n/a	n/a	n/a	7	[1 8 4]	13	pyFR	1	TJ066
+1019.129	3.873	1701206	PROB	3.841	n/a	n/a	n/a	7	[4 3 7]	14	pyFR	1	TJ066
+1023.002	6.56	1705079	PROB	6.526	n/a	n/a	n/a	7	[5 6 8]	19	pyFR	1	TJ066
+1029.562	4.054	1711639	PROB	4.054	n/a	n/a	n/a	7	[2 3 4]	9	pyFR	1	TJ066
+1033.616	1.072	1715693	STOP	n/a	n/a	n/a	n/a	7	[-999 -999 -999]	-999	pyFR	1	TJ066
+1034.688	5.054	1716765	REC_START	n/a	n/a	n/a	-999	7	n/a	n/a	pyFR	1	TJ066
+1039.742	1.07	1721819	REC_WORD	5.054	n/a	TRAIN	-999	7	n/a	n/a	pyFR	1	TJ066
+1040.812	3.175	1722889	REC_WORD	6.124	n/a	STORE	-999	7	n/a	n/a	pyFR	1	TJ066
+1043.987	44.391	1726063	REC_WORD	9.299	n/a	DOG	-999	7	n/a	n/a	pyFR	1	TJ066
+1088.378	0.015	1770454	TRIAL	n/a	n/a	n/a	-999	8	n/a	n/a	pyFR	1	TJ066
+1088.393	3.022	1770469	ORIENT	n/a	n/a	n/a	-999	8	n/a	n/a	pyFR	1	TJ066
+1091.415	2.487	1773491	WORD	n/a	wordpools/wordpool_EN.txt	PIE	1	8	n/a	n/a	pyFR	1	TJ066
+1093.902	2.637	1775978	WORD	n/a	wordpools/wordpool_EN.txt	HAND	2	8	n/a	n/a	pyFR	1	TJ066
+1096.539	2.439	1778615	WORD	n/a	wordpools/wordpool_EN.txt	HOOF	3	8	n/a	n/a	pyFR	1	TJ066
+1098.978	2.487	1781054	WORD	n/a	wordpools/wordpool_EN.txt	BARN	4	8	n/a	n/a	pyFR	1	TJ066
+1101.465	2.821	1783541	WORD	n/a	wordpools/wordpool_EN.txt	FACE	5	8	n/a	n/a	pyFR	1	TJ066
+1104.286	2.62	1786362	WORD	n/a	wordpools/wordpool_EN.txt	ELF	6	8	n/a	n/a	pyFR	1	TJ066
+1106.906	2.805	1788982	WORD	n/a	wordpools/wordpool_EN.txt	KING	7	8	n/a	n/a	pyFR	1	TJ066
+1109.711	2.805	1791787	WORD	n/a	wordpools/wordpool_EN.txt	FISH	8	8	n/a	n/a	pyFR	1	TJ066
+1112.516	2.521	1794592	WORD	n/a	wordpools/wordpool_EN.txt	COW	9	8	n/a	n/a	pyFR	1	TJ066
+1115.037	2.537	1797113	WORD	n/a	wordpools/wordpool_EN.txt	OWL	10	8	n/a	n/a	pyFR	1	TJ066
+1117.574	2.472	1799650	WORD	n/a	wordpools/wordpool_EN.txt	PEARL	11	8	n/a	n/a	pyFR	1	TJ066
+1120.046	2.72	1802122	WORD	n/a	wordpools/wordpool_EN.txt	TEETH	12	8	n/a	n/a	pyFR	1	TJ066
+1122.766	2.622	1804842	WORD	n/a	wordpools/wordpool_EN.txt	SHELL	13	8	n/a	n/a	pyFR	1	TJ066
+1125.388	2.621	1807464	WORD	n/a	wordpools/wordpool_EN.txt	PET	14	8	n/a	n/a	pyFR	1	TJ066
+1128.009	1.619	1810085	WORD	n/a	wordpools/wordpool_EN.txt	MOOSE	15	8	n/a	n/a	pyFR	1	TJ066
+1129.628	1.068	1811704	START	n/a	n/a	n/a	n/a	8	[-999 -999 -999]	-999	pyFR	1	TJ066
+1130.696	9.433	1812772	PROB	9.397	n/a	n/a	n/a	8	[8 9 5]	22	pyFR	1	TJ066
+1140.129	9.182	1822205	PROB	9.148	n/a	n/a	n/a	8	[3 9 7]	19	pyFR	1	TJ066
+1149.311	3.373	1831387	PROB	3.373	n/a	n/a	n/a	8	[4 1 4]	9	pyFR	1	TJ066
+1152.684	1.067	1834760	STOP	n/a	n/a	n/a	n/a	8	[-999 -999 -999]	-999	pyFR	1	TJ066
+1153.751	2.888	1835827	REC_START	n/a	n/a	n/a	-999	8	n/a	n/a	pyFR	1	TJ066
+1156.639	1.83	1838715	REC_WORD	2.888	n/a	PET	-999	8	n/a	n/a	pyFR	1	TJ066
+1158.469	8.161	1840545	REC_WORD	4.718	n/a	MOOSE	-999	8	n/a	n/a	pyFR	1	TJ066
+1166.63	10.011	1848706	REC_WORD	12.879	n/a	TEETH	-999	8	n/a	n/a	pyFR	1	TJ066
+1176.641	26.04	1858717	REC_WORD	22.89	n/a	BONE	-999	8	n/a	n/a	pyFR	1	TJ066
+1202.681	0.017	1884757	TRIAL	n/a	n/a	n/a	-999	9	n/a	n/a	pyFR	1	TJ066
+1202.698	2.939	1884774	ORIENT	n/a	n/a	n/a	-999	9	n/a	n/a	pyFR	1	TJ066
+1205.637	2.571	1887713	WORD	n/a	wordpools/wordpool_EN.txt	JUICE	1	9	n/a	n/a	pyFR	1	TJ066
+1208.208	2.586	1890284	WORD	n/a	wordpools/wordpool_EN.txt	STOOL	2	9	n/a	n/a	pyFR	1	TJ066
+1210.794	2.539	1892870	WORD	n/a	wordpools/wordpool_EN.txt	WOOD	3	9	n/a	n/a	pyFR	1	TJ066
+1213.333	2.706	1895409	WORD	n/a	wordpools/wordpool_EN.txt	TRAY	4	9	n/a	n/a	pyFR	1	TJ066
+1216.039	2.685	1898115	WORD	n/a	wordpools/wordpool_EN.txt	CAPE	5	9	n/a	n/a	pyFR	1	TJ066
+1218.724	2.572	1900800	WORD	n/a	wordpools/wordpool_EN.txt	GRASS	6	9	n/a	n/a	pyFR	1	TJ066
+1221.296	2.788	1903372	WORD	n/a	wordpools/wordpool_EN.txt	BRICK	7	9	n/a	n/a	pyFR	1	TJ066
+1224.084	2.587	1906160	WORD	n/a	wordpools/wordpool_EN.txt	SALT	8	9	n/a	n/a	pyFR	1	TJ066
+1226.671	2.438	1908747	WORD	n/a	wordpools/wordpool_EN.txt	CAT	9	9	n/a	n/a	pyFR	1	TJ066
+1229.109	2.486	1911185	WORD	n/a	wordpools/wordpool_EN.txt	BLOOM	10	9	n/a	n/a	pyFR	1	TJ066
+1231.595	2.69	1913671	WORD	n/a	wordpools/wordpool_EN.txt	CUBE	11	9	n/a	n/a	pyFR	1	TJ066
+1234.285	2.586	1916361	WORD	n/a	wordpools/wordpool_EN.txt	NOSE	12	9	n/a	n/a	pyFR	1	TJ066
+1236.871	2.654	1918947	WORD	n/a	wordpools/wordpool_EN.txt	WORM	13	9	n/a	n/a	pyFR	1	TJ066
+1239.525	2.639	1921601	WORD	n/a	wordpools/wordpool_EN.txt	HORSE	14	9	n/a	n/a	pyFR	1	TJ066
+1242.164	1.619	1924240	WORD	n/a	wordpools/wordpool_EN.txt	GLOVE	15	9	n/a	n/a	pyFR	1	TJ066
+1243.783	0.834	1925859	START	n/a	n/a	n/a	n/a	9	[-999 -999 -999]	-999	pyFR	1	TJ066
+1244.617	3.874	1926693	PROB	3.841	n/a	n/a	n/a	9	[9 1 7]	17	pyFR	1	TJ066
+1248.491	4.139	1930567	PROB	4.11	n/a	n/a	n/a	9	[1 5 2]	8	pyFR	1	TJ066
+1252.63	14.923	1934706	PROB	14.923	n/a	n/a	n/a	9	[7 7 9]	23	pyFR	1	TJ066
+1267.553	1.265	1949629	STOP	n/a	n/a	n/a	n/a	9	[-999 -999 -999]	-999	pyFR	1	TJ066
+1268.818	5.998	1950894	REC_START	n/a	n/a	n/a	-999	9	n/a	n/a	pyFR	1	TJ066
+1274.816	1.196	1956892	REC_WORD	5.998	n/a	HORSE	-999	9	n/a	n/a	pyFR	1	TJ066
+1276.012	18.523	1958088	REC_WORD	7.194	n/a	COW	-999	9	n/a	n/a	pyFR	1	TJ066
+1294.535	23.119	1976611	REC_WORD	25.717	n/a	STOOL	-999	9	n/a	n/a	pyFR	1	TJ066
+1317.654	0.017	1999729	TRIAL	n/a	n/a	n/a	-999	10	n/a	n/a	pyFR	1	TJ066
+1317.671	2.755	1999746	ORIENT	n/a	n/a	n/a	-999	10	n/a	n/a	pyFR	1	TJ066
+1320.426	2.688	2002501	WORD	n/a	wordpools/wordpool_EN.txt	WALL	1	10	n/a	n/a	pyFR	1	TJ066
+1323.114	2.653	2005189	WORD	n/a	wordpools/wordpool_EN.txt	GOLD	2	10	n/a	n/a	pyFR	1	TJ066
+1325.767	2.557	2007842	WORD	n/a	wordpools/wordpool_EN.txt	SKUNK	3	10	n/a	n/a	pyFR	1	TJ066
+1328.324	2.485	2010399	WORD	n/a	wordpools/wordpool_EN.txt	STEAM	4	10	n/a	n/a	pyFR	1	TJ066
+1330.809	2.522	2012884	WORD	n/a	wordpools/wordpool_EN.txt	MAIL	5	10	n/a	n/a	pyFR	1	TJ066
+1333.331	2.503	2015406	WORD	n/a	wordpools/wordpool_EN.txt	MAP	6	10	n/a	n/a	pyFR	1	TJ066
+1335.834	2.455	2017909	WORD	n/a	wordpools/wordpool_EN.txt	STEM	7	10	n/a	n/a	pyFR	1	TJ066
+1338.289	2.503	2020364	WORD	n/a	wordpools/wordpool_EN.txt	STOVE	8	10	n/a	n/a	pyFR	1	TJ066
+1340.792	2.555	2022867	WORD	n/a	wordpools/wordpool_EN.txt	SOUP	9	10	n/a	n/a	pyFR	1	TJ066
+1343.347	2.47	2025422	WORD	n/a	wordpools/wordpool_EN.txt	VEST	10	10	n/a	n/a	pyFR	1	TJ066
+1345.817	2.606	2027892	WORD	n/a	wordpools/wordpool_EN.txt	PLANE	11	10	n/a	n/a	pyFR	1	TJ066
+1348.423	2.504	2030498	WORD	n/a	wordpools/wordpool_EN.txt	FLUTE	12	10	n/a	n/a	pyFR	1	TJ066
+1350.927	2.504	2033002	WORD	n/a	wordpools/wordpool_EN.txt	SHIRT	13	10	n/a	n/a	pyFR	1	TJ066
+1353.431	2.47	2035506	WORD	n/a	wordpools/wordpool_EN.txt	ROPE	14	10	n/a	n/a	pyFR	1	TJ066
+1355.901	1.62	2037976	WORD	n/a	wordpools/wordpool_EN.txt	SIGN	15	10	n/a	n/a	pyFR	1	TJ066
+1357.521	1.067	2039596	START	n/a	n/a	n/a	n/a	10	[-999 -999 -999]	-999	pyFR	1	TJ066
+1358.588	5.96	2040663	PROB	5.922	n/a	n/a	n/a	10	[7 1 8]	16	pyFR	1	TJ066
+1364.548	5.209	2046623	PROB	5.186	n/a	n/a	n/a	10	[5 1 3]	9	pyFR	1	TJ066
+1369.757	7.229	2051832	PROB	7.193	n/a	n/a	n/a	10	[6 4 6]	16	pyFR	1	TJ066
+1376.986	5.124	2059061	PROB	5.124	n/a	n/a	n/a	10	[9 8 2]	19	pyFR	1	TJ066
+1382.11	1.12	2064185	STOP	n/a	n/a	n/a	n/a	10	[-999 -999 -999]	-999	pyFR	1	TJ066
+1383.23	2.178	2065305	REC_START	n/a	n/a	n/a	-999	10	n/a	n/a	pyFR	1	TJ066
+1385.408	2.116	2067483	REC_WORD	2.178	n/a	VEST	-999	10	n/a	n/a	pyFR	1	TJ066
+1387.524	12.21	2069599	REC_WORD	4.294	n/a	ROPE	-999	10	n/a	n/a	pyFR	1	TJ066
+1399.734	40.156	2081809	REC_WORD	16.504	n/a	SHIRT	-999	10	n/a	n/a	pyFR	1	TJ066
+1439.89	0.016	2121965	TRIAL	n/a	n/a	n/a	-999	11	n/a	n/a	pyFR	1	TJ066
+1439.906	2.838	2121981	ORIENT	n/a	n/a	n/a	-999	11	n/a	n/a	pyFR	1	TJ066
+1442.744	2.555	2124819	WORD	n/a	wordpools/wordpool_EN.txt	SPONGE	1	11	n/a	n/a	pyFR	1	TJ066
+1445.299	2.739	2127374	WORD	n/a	wordpools/wordpool_EN.txt	CLOUD	2	11	n/a	n/a	pyFR	1	TJ066
+1448.038	2.686	2130113	WORD	n/a	wordpools/wordpool_EN.txt	BEACH	3	11	n/a	n/a	pyFR	1	TJ066
+1450.724	2.788	2132799	WORD	n/a	wordpools/wordpool_EN.txt	BLUSH	4	11	n/a	n/a	pyFR	1	TJ066
+1453.512	2.672	2135587	WORD	n/a	wordpools/wordpool_EN.txt	SLIME	5	11	n/a	n/a	pyFR	1	TJ066
+1456.184	2.57	2138259	WORD	n/a	wordpools/wordpool_EN.txt	ARK	6	11	n/a	n/a	pyFR	1	TJ066
+1458.754	2.622	2140829	WORD	n/a	wordpools/wordpool_EN.txt	SNAIL	7	11	n/a	n/a	pyFR	1	TJ066
+1461.376	2.486	2143451	WORD	n/a	wordpools/wordpool_EN.txt	PEA	8	11	n/a	n/a	pyFR	1	TJ066
+1463.862	2.572	2145937	WORD	n/a	wordpools/wordpool_EN.txt	LAND	9	11	n/a	n/a	pyFR	1	TJ066
+1466.434	2.805	2148509	WORD	n/a	wordpools/wordpool_EN.txt	TANK	10	11	n/a	n/a	pyFR	1	TJ066
+1469.239	2.47	2151314	WORD	n/a	wordpools/wordpool_EN.txt	SLUSH	11	11	n/a	n/a	pyFR	1	TJ066
+1471.709	2.804	2153784	WORD	n/a	wordpools/wordpool_EN.txt	MOON	12	11	n/a	n/a	pyFR	1	TJ066
+1474.513	2.455	2156588	WORD	n/a	wordpools/wordpool_EN.txt	CUP	13	11	n/a	n/a	pyFR	1	TJ066
+1476.968	2.454	2159043	WORD	n/a	wordpools/wordpool_EN.txt	MILK	14	11	n/a	n/a	pyFR	1	TJ066
+1479.422	1.62	2161497	WORD	n/a	wordpools/wordpool_EN.txt	RAT	15	11	n/a	n/a	pyFR	1	TJ066
+1481.042	1.034	2163117	START	n/a	n/a	n/a	n/a	11	[-999 -999 -999]	-999	pyFR	1	TJ066
+1482.076	9.699	2164151	PROB	9.661	n/a	n/a	n/a	11	[6 3 8]	17	pyFR	1	TJ066
+1491.775	5.843	2173850	PROB	5.819	n/a	n/a	n/a	11	[5 6 2]	13	pyFR	1	TJ066
+1497.618	3.406	2179693	PROB	3.376	n/a	n/a	n/a	11	[8 1 2]	11	pyFR	1	TJ066
+1501.024	4.202	2183099	PROB	4.202	n/a	n/a	n/a	11	[2 3 7]	13	pyFR	1	TJ066
+1505.226	1.141	2187301	STOP	n/a	n/a	n/a	n/a	11	[-999 -999 -999]	-999	pyFR	1	TJ066
+1506.367	3.992	2188442	REC_START	n/a	n/a	n/a	-999	11	n/a	n/a	pyFR	1	TJ066
+1510.359	12.625	2192434	REC_WORD	3.992	n/a	SLUSH	-999	11	n/a	n/a	pyFR	1	TJ066
+1522.984	76.002	2205059	REC_WORD_VV	16.617	n/a	<>	-999	11	n/a	n/a	pyFR	1	TJ066
+1598.986	0.017	2281060	TRIAL	n/a	n/a	n/a	-999	12	n/a	n/a	pyFR	1	TJ066
+1599.003	2.753	2281077	ORIENT	n/a	n/a	n/a	-999	12	n/a	n/a	pyFR	1	TJ066
+1601.756	2.472	2283830	WORD	n/a	wordpools/wordpool_EN.txt	WHALE	1	12	n/a	n/a	pyFR	1	TJ066
+1604.228	2.821	2286302	WORD	n/a	wordpools/wordpool_EN.txt	PLANT	2	12	n/a	n/a	pyFR	1	TJ066
+1607.049	2.604	2289123	WORD	n/a	wordpools/wordpool_EN.txt	JET	3	12	n/a	n/a	pyFR	1	TJ066
+1609.653	2.789	2291727	WORD	n/a	wordpools/wordpool_EN.txt	JAIL	4	12	n/a	n/a	pyFR	1	TJ066
+1612.442	2.554	2294516	WORD	n/a	wordpools/wordpool_EN.txt	ARM	5	12	n/a	n/a	pyFR	1	TJ066
+1614.996	2.471	2297070	WORD	n/a	wordpools/wordpool_EN.txt	TOOTH	6	12	n/a	n/a	pyFR	1	TJ066
+1617.467	2.521	2299541	WORD	n/a	wordpools/wordpool_EN.txt	JEEP	7	12	n/a	n/a	pyFR	1	TJ066
+1619.988	2.803	2302062	WORD	n/a	wordpools/wordpool_EN.txt	BREAD	8	12	n/a	n/a	pyFR	1	TJ066
+1622.791	2.639	2304865	WORD	n/a	wordpools/wordpool_EN.txt	APE	9	12	n/a	n/a	pyFR	1	TJ066
+1625.43	2.821	2307504	WORD	n/a	wordpools/wordpool_EN.txt	SHEET	10	12	n/a	n/a	pyFR	1	TJ066
+1628.251	2.805	2310325	WORD	n/a	wordpools/wordpool_EN.txt	SCHOOL	11	12	n/a	n/a	pyFR	1	TJ066
+1631.056	2.519	2313130	WORD	n/a	wordpools/wordpool_EN.txt	KEY	12	12	n/a	n/a	pyFR	1	TJ066
+1633.575	2.689	2315649	WORD	n/a	wordpools/wordpool_EN.txt	BENCH	13	12	n/a	n/a	pyFR	1	TJ066
+1636.264	2.771	2318338	WORD	n/a	wordpools/wordpool_EN.txt	SAIL	14	12	n/a	n/a	pyFR	1	TJ066
+1639.035	1.62	2321109	WORD	n/a	wordpools/wordpool_EN.txt	TAIL	15	12	n/a	n/a	pyFR	1	TJ066
+1640.655	0.85	2322729	START	n/a	n/a	n/a	n/a	12	[-999 -999 -999]	-999	pyFR	1	TJ066
+1641.505	4.926	2323579	PROB	4.893	n/a	n/a	n/a	12	[1 5 8]	14	pyFR	1	TJ066
+1646.431	7.646	2328505	PROB	7.622	n/a	n/a	n/a	12	[3 5 8]	16	pyFR	1	TJ066
+1654.077	2.754	2336151	PROB	2.727	n/a	n/a	n/a	12	[1 3 3]	7	pyFR	1	TJ066
+1656.831	3.004	2338905	PROB	2.973	n/a	n/a	n/a	12	[5 1 3]	9	pyFR	1	TJ066
+1659.835	5.873	2341909	PROB	5.873	n/a	n/a	n/a	12	[5 9 9]	23	pyFR	1	TJ066
+1665.708	1.139	2347782	STOP	n/a	n/a	n/a	n/a	12	[-999 -999 -999]	-999	pyFR	1	TJ066
+1666.847	2.372	2348921	REC_START	n/a	n/a	n/a	-999	12	n/a	n/a	pyFR	1	TJ066
+1669.219	1.372	2351293	REC_WORD	2.372	n/a	SCHOOL	-999	12	n/a	n/a	pyFR	1	TJ066
+1670.591	1.192	2352665	REC_WORD	3.744	n/a	BENCH	-999	12	n/a	n/a	pyFR	1	TJ066
+1671.783	6.765	2353857	REC_WORD	4.936	n/a	KEY	-999	12	n/a	n/a	pyFR	1	TJ066
+1678.548	38.098	2360622	REC_WORD	11.701	n/a	TEETH	-999	12	n/a	n/a	pyFR	1	TJ066
+1716.646	0.017	2398720	TRIAL	n/a	n/a	n/a	-999	13	n/a	n/a	pyFR	1	TJ066
+1716.663	2.871	2398737	ORIENT	n/a	n/a	n/a	-999	13	n/a	n/a	pyFR	1	TJ066
+1719.534	2.639	2401608	WORD	n/a	wordpools/wordpool_EN.txt	BRIDGE	1	13	n/a	n/a	pyFR	1	TJ066
+1722.173	2.838	2404247	WORD	n/a	wordpools/wordpool_EN.txt	FORT	2	13	n/a	n/a	pyFR	1	TJ066
+1725.011	2.438	2407085	WORD	n/a	wordpools/wordpool_EN.txt	FOOD	3	13	n/a	n/a	pyFR	1	TJ066
+1727.449	2.67	2409523	WORD	n/a	wordpools/wordpool_EN.txt	STRING	4	13	n/a	n/a	pyFR	1	TJ066
+1730.119	2.821	2412193	WORD	n/a	wordpools/wordpool_EN.txt	PEAR	5	13	n/a	n/a	pyFR	1	TJ066
+1732.94	2.454	2415014	WORD	n/a	wordpools/wordpool_EN.txt	SQUARE	6	13	n/a	n/a	pyFR	1	TJ066
+1735.394	2.688	2417468	WORD	n/a	wordpools/wordpool_EN.txt	SHOE	7	13	n/a	n/a	pyFR	1	TJ066
+1738.082	2.754	2420156	WORD	n/a	wordpools/wordpool_EN.txt	TRASH	8	13	n/a	n/a	pyFR	1	TJ066
+1740.836	2.538	2422910	WORD	n/a	wordpools/wordpool_EN.txt	PIG	9	13	n/a	n/a	pyFR	1	TJ066
+1743.374	2.722	2425448	WORD	n/a	wordpools/wordpool_EN.txt	CAGE	10	13	n/a	n/a	pyFR	1	TJ066
+1746.096	2.636	2428170	WORD	n/a	wordpools/wordpool_EN.txt	BEAK	11	13	n/a	n/a	pyFR	1	TJ066
+1748.732	2.555	2430806	WORD	n/a	wordpools/wordpool_EN.txt	MOLE	12	13	n/a	n/a	pyFR	1	TJ066
+1751.287	2.772	2433361	WORD	n/a	wordpools/wordpool_EN.txt	BUSH	13	13	n/a	n/a	pyFR	1	TJ066
+1754.059	2.437	2436133	WORD	n/a	wordpools/wordpool_EN.txt	CLIFF	14	13	n/a	n/a	pyFR	1	TJ066
+1756.496	1.62	2438570	WORD	n/a	wordpools/wordpool_EN.txt	HOUSE	15	13	n/a	n/a	pyFR	1	TJ066
+1758.116	1.034	2440190	START	n/a	n/a	n/a	n/a	13	[-999 -999 -999]	-999	pyFR	1	TJ066
+1759.15	4.473	2441224	PROB	4.442	n/a	n/a	n/a	13	[1 1 6]	8	pyFR	1	TJ066
+1763.623	3.457	2445697	PROB	3.435	n/a	n/a	n/a	13	[3 5 1]	9	pyFR	1	TJ066
+1767.08	4.007	2449154	PROB	3.978	n/a	n/a	n/a	13	[2 5 6]	13	pyFR	1	TJ066
+1771.087	7.426	2453161	PROB	7.426	n/a	n/a	n/a	13	[8 8 8]	24	pyFR	1	TJ066
+1778.513	1.054	2460587	STOP	n/a	n/a	n/a	n/a	13	[-999 -999 -999]	-999	pyFR	1	TJ066
+1779.567	8.152	2461641	REC_START	n/a	n/a	n/a	-999	13	n/a	n/a	pyFR	1	TJ066
+1787.719	1.047	2469793	REC_WORD	8.152	n/a	MOLE	-999	13	n/a	n/a	pyFR	1	TJ066
+1788.766	155.139	2470840	REC_WORD	9.199	n/a	HOUSE	-999	13	n/a	n/a	pyFR	1	TJ066
+1943.905	0.016	2625978	TRIAL	n/a	n/a	n/a	-999	14	n/a	n/a	pyFR	1	TJ066
+1943.921	2.621	2625994	ORIENT	n/a	n/a	n/a	-999	14	n/a	n/a	pyFR	1	TJ066
+1946.542	2.438	2628615	WORD	n/a	wordpools/wordpool_EN.txt	SEAL	1	14	n/a	n/a	pyFR	1	TJ066
+1948.98	2.587	2631053	WORD	n/a	wordpools/wordpool_EN.txt	GUARD	2	14	n/a	n/a	pyFR	1	TJ066
+1951.567	2.689	2633640	WORD	n/a	wordpools/wordpool_EN.txt	BAND	3	14	n/a	n/a	pyFR	1	TJ066
+1954.256	2.671	2636329	WORD	n/a	wordpools/wordpool_EN.txt	GATE	4	14	n/a	n/a	pyFR	1	TJ066
+1956.927	2.803	2639000	WORD	n/a	wordpools/wordpool_EN.txt	LEG	5	14	n/a	n/a	pyFR	1	TJ066
+1959.73	2.788	2641803	WORD	n/a	wordpools/wordpool_EN.txt	WING	6	14	n/a	n/a	pyFR	1	TJ066
+1962.518	2.639	2644591	WORD	n/a	wordpools/wordpool_EN.txt	LAKE	7	14	n/a	n/a	pyFR	1	TJ066
+1965.157	2.687	2647230	WORD	n/a	wordpools/wordpool_EN.txt	SMOKE	8	14	n/a	n/a	pyFR	1	TJ066
+1967.844	2.704	2649917	WORD	n/a	wordpools/wordpool_EN.txt	TIE	9	14	n/a	n/a	pyFR	1	TJ066
+1970.548	2.772	2652621	WORD	n/a	wordpools/wordpool_EN.txt	CAKE	10	14	n/a	n/a	pyFR	1	TJ066
+1973.32	2.47	2655393	WORD	n/a	wordpools/wordpool_EN.txt	SEA	11	14	n/a	n/a	pyFR	1	TJ066
+1975.79	2.656	2657863	WORD	n/a	wordpools/wordpool_EN.txt	CHIEF	12	14	n/a	n/a	pyFR	1	TJ066
+1978.446	2.838	2660519	WORD	n/a	wordpools/wordpool_EN.txt	RUG	13	14	n/a	n/a	pyFR	1	TJ066
+1981.284	2.536	2663357	WORD	n/a	wordpools/wordpool_EN.txt	STAR	14	14	n/a	n/a	pyFR	1	TJ066
+1983.82	1.605	2665893	WORD	n/a	wordpools/wordpool_EN.txt	DRUM	15	14	n/a	n/a	pyFR	1	TJ066
+1985.425	1.166	2667498	START	n/a	n/a	n/a	n/a	14	[-999 -999 -999]	-999	pyFR	1	TJ066
+1986.591	4.793	2668664	PROB	4.764	n/a	n/a	n/a	14	[7 1 8]	16	pyFR	1	TJ066
+1991.384	6.359	2673457	PROB	6.329	n/a	n/a	n/a	14	[7 8 7]	22	pyFR	1	TJ066
+1997.743	7.095	2679816	PROB	7.058	n/a	n/a	n/a	14	[7 6 2]	15	pyFR	1	TJ066
+2004.838	4.891	2686911	PROB	4.891	n/a	n/a	n/a	14	[4 7 7]	18	pyFR	1	TJ066
+2009.729	1.086	2691802	STOP	n/a	n/a	n/a	n/a	14	[-999 -999 -999]	-999	pyFR	1	TJ066
+2010.815	16.054	2692888	REC_START	n/a	n/a	n/a	-999	14	n/a	n/a	pyFR	1	TJ066
+2026.869	1.0	2708942	REC_WORD_VV	16.054	n/a	<>	-999	14	n/a	n/a	pyFR	1	TJ066
+2027.869	1.0	2709942	REC_WORD_VV	17.054	n/a	<>	-999	14	n/a	n/a	pyFR	1	TJ066
+2028.869	1.0	2710942	REC_WORD_VV	18.054	n/a	<>	-999	14	n/a	n/a	pyFR	1	TJ066
+2029.869	1.0	2711942	REC_WORD_VV	19.054	n/a	<>	-999	14	n/a	n/a	pyFR	1	TJ066
+2030.869	1.0	2712942	REC_WORD_VV	20.054	n/a	<>	-999	14	n/a	n/a	pyFR	1	TJ066
+2031.869	1.0	2713942	REC_WORD_VV	21.054	n/a	<>	-999	14	n/a	n/a	pyFR	1	TJ066
+2032.869	76.692	2714942	REC_WORD_VV	22.054	n/a	<>	-999	14	n/a	n/a	pyFR	1	TJ066
+2109.561	0.017	2791633	TRIAL	n/a	n/a	n/a	-999	15	n/a	n/a	pyFR	1	TJ066
+2109.578	2.772	2791650	ORIENT	n/a	n/a	n/a	-999	15	n/a	n/a	pyFR	1	TJ066
+2112.35	2.47	2794422	WORD	n/a	wordpools/wordpool_EN.txt	BRUSH	1	15	n/a	n/a	pyFR	1	TJ066
+2114.82	2.455	2796892	WORD	n/a	wordpools/wordpool_EN.txt	GEESE	2	15	n/a	n/a	pyFR	1	TJ066
+2117.275	2.637	2799347	WORD	n/a	wordpools/wordpool_EN.txt	TENT	3	15	n/a	n/a	pyFR	1	TJ066
+2119.912	2.637	2801984	WORD	n/a	wordpools/wordpool_EN.txt	PRINCE	4	15	n/a	n/a	pyFR	1	TJ066
+2122.549	2.756	2804621	WORD	n/a	wordpools/wordpool_EN.txt	DART	5	15	n/a	n/a	pyFR	1	TJ066
+2125.305	2.47	2807377	WORD	n/a	wordpools/wordpool_EN.txt	CRANE	6	15	n/a	n/a	pyFR	1	TJ066
+2127.775	2.454	2809847	WORD	n/a	wordpools/wordpool_EN.txt	PIN	7	15	n/a	n/a	pyFR	1	TJ066
+2130.229	2.537	2812301	WORD	n/a	wordpools/wordpool_EN.txt	BEE	8	15	n/a	n/a	pyFR	1	TJ066
+2132.766	2.605	2814838	WORD	n/a	wordpools/wordpool_EN.txt	BED	9	15	n/a	n/a	pyFR	1	TJ066
+2135.371	2.821	2817443	WORD	n/a	wordpools/wordpool_EN.txt	SUIT	10	15	n/a	n/a	pyFR	1	TJ066
+2138.192	2.671	2820264	WORD	n/a	wordpools/wordpool_EN.txt	DUCK	11	15	n/a	n/a	pyFR	1	TJ066
+2140.863	2.471	2822935	WORD	n/a	wordpools/wordpool_EN.txt	SOAP	12	15	n/a	n/a	pyFR	1	TJ066
+2143.334	2.537	2825406	WORD	n/a	wordpools/wordpool_EN.txt	FROG	13	15	n/a	n/a	pyFR	1	TJ066
+2145.871	2.805	2827943	WORD	n/a	wordpools/wordpool_EN.txt	SKY	14	15	n/a	n/a	pyFR	1	TJ066
+2148.676	1.621	2830748	WORD	n/a	wordpools/wordpool_EN.txt	HOSE	15	15	n/a	n/a	pyFR	1	TJ066
+2150.297	0.917	2832369	START	n/a	n/a	n/a	n/a	15	[-999 -999 -999]	-999	pyFR	1	TJ066
+2151.214	4.44	2833286	PROB	4.414	n/a	n/a	n/a	15	[4 7 1]	12	pyFR	1	TJ066
+2155.654	4.308	2837726	PROB	4.279	n/a	n/a	n/a	15	[9 2 3]	14	pyFR	1	TJ066
+2159.962	8.696	2842034	PROB	8.666	n/a	n/a	n/a	15	[5 4 7]	16	pyFR	1	TJ066
+2168.658	8.435	2850730	PROB	8.435	n/a	n/a	n/a	15	[6 5 7]	19	pyFR	1	TJ066
+2177.093	1.397	2859165	STOP	n/a	n/a	n/a	n/a	15	[-999 -999 -999]	-999	pyFR	1	TJ066
+2178.49	17.457	2860562	REC_START	n/a	n/a	n/a	-999	15	n/a	n/a	pyFR	1	TJ066
+2195.947	4.77	2878019	REC_WORD	17.457	n/a	SOUP	-999	15	n/a	n/a	pyFR	1	TJ066
+2200.717	21.387	2882789	REC_WORD	22.227	n/a	GEESE	-999	15	n/a	n/a	pyFR	1	TJ066
+2222.104	26.204	2904176	REC_WORD	43.614	n/a	SOAP	-999	15	n/a	n/a	pyFR	1	TJ066
+2248.308	0.016	2930380	TRIAL	n/a	n/a	n/a	-999	16	n/a	n/a	pyFR	1	TJ066
+2248.324	2.671	2930396	ORIENT	n/a	n/a	n/a	-999	16	n/a	n/a	pyFR	1	TJ066
+2250.995	2.503	2933067	WORD	n/a	wordpools/wordpool_EN.txt	PEN	1	16	n/a	n/a	pyFR	1	TJ066
+2253.498	2.472	2935570	WORD	n/a	wordpools/wordpool_EN.txt	DAD	2	16	n/a	n/a	pyFR	1	TJ066
+2255.97	2.654	2938042	WORD	n/a	wordpools/wordpool_EN.txt	HAT	3	16	n/a	n/a	pyFR	1	TJ066
+2258.624	2.672	2940696	WORD	n/a	wordpools/wordpool_EN.txt	WEB	4	16	n/a	n/a	pyFR	1	TJ066
+2261.296	2.721	2943368	WORD	n/a	wordpools/wordpool_EN.txt	COUCH	5	16	n/a	n/a	pyFR	1	TJ066
+2264.017	2.57	2946089	WORD	n/a	wordpools/wordpool_EN.txt	GLASS	6	16	n/a	n/a	pyFR	1	TJ066
+2266.587	2.672	2948659	WORD	n/a	wordpools/wordpool_EN.txt	HORN	7	16	n/a	n/a	pyFR	1	TJ066
+2269.259	2.671	2951331	WORD	n/a	wordpools/wordpool_EN.txt	BOOK	8	16	n/a	n/a	pyFR	1	TJ066
+2271.93	2.637	2954002	WORD	n/a	wordpools/wordpool_EN.txt	LAMP	9	16	n/a	n/a	pyFR	1	TJ066
+2274.567	2.656	2956639	WORD	n/a	wordpools/wordpool_EN.txt	HOLE	10	16	n/a	n/a	pyFR	1	TJ066
+2277.223	2.82	2959295	WORD	n/a	wordpools/wordpool_EN.txt	FOX	11	16	n/a	n/a	pyFR	1	TJ066
+2280.043	2.72	2962115	WORD	n/a	wordpools/wordpool_EN.txt	FOOT	12	16	n/a	n/a	pyFR	1	TJ066
+2282.763	2.507	2964835	WORD	n/a	wordpools/wordpool_EN.txt	ROOT	13	16	n/a	n/a	pyFR	1	TJ066
+2285.27	2.72	2967342	WORD	n/a	wordpools/wordpool_EN.txt	CHALK	14	16	n/a	n/a	pyFR	1	TJ066
+2287.99	1.619	2970062	WORD	n/a	wordpools/wordpool_EN.txt	ZOO	15	16	n/a	n/a	pyFR	1	TJ066
+2289.609	1.168	2971681	START	n/a	n/a	n/a	n/a	16	[-999 -999 -999]	-999	pyFR	1	TJ066
+2290.777	4.891	2972849	PROB	4.855	n/a	n/a	n/a	16	[5 1 7]	13	pyFR	1	TJ066
+2295.668	16.883	2977740	PROB	16.883	n/a	n/a	n/a	16	[9 8 8]	25	pyFR	1	TJ066
+2312.551	1.08	2994623	STOP	n/a	n/a	n/a	n/a	16	[-999 -999 -999]	-999	pyFR	1	TJ066
+2313.631	13.561	2995703	REC_START	n/a	n/a	n/a	-999	16	n/a	n/a	pyFR	1	TJ066
+2327.192	7.657	3009264	REC_WORD	13.561	n/a	CHALK	-999	16	n/a	n/a	pyFR	1	TJ066
+2334.849	520.327	3016921	REC_WORD	21.218	n/a	ZOO	-999	16	n/a	n/a	pyFR	1	TJ066
+2855.176	0.077	3537246	SESS_END	n/a	n/a	n/a	-999	16	n/a	n/a	pyFR	1	TJ066
+2855.253	0.0	3537323	E	n/a	n/a	n/a	-999	16	n/a	n/a	pyFR	1	TJ066

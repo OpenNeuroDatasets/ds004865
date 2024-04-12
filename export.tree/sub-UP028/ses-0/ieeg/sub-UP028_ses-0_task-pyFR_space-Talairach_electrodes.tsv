@@ -1,0 +1,55 @@
+name	x	y	z	size	group	hemisphere	type	lobe	region1	region2	gray_white	mni.x	mni.y	mni.z
+LIH1	-10.0	70.0	-1.0	-999	LIH	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	-9.71578	72.4522	3.06803
+LIH2	-7.0	67.0	9.0	-999	LIH	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	-7.18697	68.5879	12.9187
+LIH3	-6.0	63.0	17.0	-999	LIH	L	strip	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 10	Gray Matter	-6.00584	64.3103	21.9012
+LIH4	-5.0	59.0	25.0	-999	LIH	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	-4.81679	59.5283	30.8142
+LIH5	-4.0	54.0	35.0	-999	LIH	L	strip	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 9	Gray Matter	-4.01161	54.0826	40.8056
+LIH6	-5.0	50.0	43.0	-999	LIH	L	strip	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 8	Gray Matter	-5.33519	48.8419	49.0835
+LIH7	-8.0	43.0	49.0	-999	LIH	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 8	Gray Matter	-8.17337	41.8112	55.253
+LIH8	-14.0	35.0	52.0	-999	LIH	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 8	Gray Matter	-14.4722	33.5634	58.7019
+LFP1	-26.0	67.0	-2.0	-999	LFP	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	-26.7323	68.8316	1.71762
+LFP2	-28.0	64.0	7.0	-999	LFP	L	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 10	Gray Matter	-28.4872	65.9535	11.4916
+LFP3	-29.0	61.0	16.0	-999	LFP	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	-29.636	61.585	20.9403
+LFP4	-30.0	55.0	26.0	-999	LFP	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	-29.9879	55.5896	31.0952
+LFP5	-29.0	50.0	33.0	-999	LFP	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 9	Gray Matter	-28.9657	49.431	38.7678
+LFP6	-28.0	43.0	40.0	-999	LFP	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 8	Gray Matter	-27.9277	42.2636	46.3012
+LOF1	-44.0	24.0	-16.0	-999	LOF	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	-44.2222	25.5361	-17.952
+LOF2	-51.0	23.0	-10.0	-999	LOF	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	-51.2328	24.3989	-10.1314
+LOF3	-55.0	22.0	-1.0	-999	LOF	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	-55.9159	22.4159	0.364493
+LOF4	-59.0	21.0	8.0	-999	LOF	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 45	Gray Matter	-59.6328	21.1194	9.66542
+LOF5	-59.0	19.0	18.0	-999	LOF	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 45	Gray Matter	-60.048	19.1588	20.3772
+LOF6	-58.0	17.0	27.0	-999	LOF	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 9	Gray Matter	-58.7	16.2578	30.6001
+LOF7	-56.0	15.0	37.0	-999	LOF	L	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 9	Gray Matter	-56.187	13.4022	40.5899
+LOF8	-50.0	11.0	44.0	-999	LOF	L	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 4_6	Gray Matter	-50.3382	8.80192	48.5706
+LLT1	-67.0	-11.0	0.0	-999	LLT	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-68.0167	-11.509	-0.634439
+LLT2	-67.0	-10.0	10.0	-999	LLT	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-67.8971	-10.4205	10.3784
+LLT3	-66.0	-8.0	19.0	-999	LLT	L	strip	Parietal Lobe	Postcentral Gyrus	Brodmann area 43	Gray Matter	-66.7951	-9.65439	20.057
+LLT4	-63.0	-7.0	28.0	-999	LLT	L	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-63.7631	-8.45231	30.4872
+LLT5	-60.0	-5.0	37.0	-999	LLT	L	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-60.9297	-6.60933	39.9555
+LLT6	-54.0	-4.0	44.0	-999	LLT	L	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-54.1857	-5.98392	47.3677
+RIH1	1.0	59.0	-21.0	-999	RIH	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 11	Gray Matter	0.854592	61.9734	-21.2071
+RIH2	-1.0	61.0	-12.0	-999	RIH	L	strip	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 11	Gray Matter	-0.971626	63.6346	-10.8066
+RIH3	-1.0	63.0	-3.0	-999	RIH	L	strip	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 10	Gray Matter	-0.851942	64.7231	0.206286
+RIH4	0.0	64.0	7.0	-999	RIH	L	strip	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 10	Gray Matter	-0.141895	65.3299	11.0329
+RIH5	4.0	65.0	15.0	-999	RIH	R	strip	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 10	Gray Matter	3.88033	65.7052	20.0594
+RIH6	10.0	64.0	23.0	-999	RIH	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	10.2561	64.6583	28.4107
+RIH7	18.0	61.0	28.0	-999	RIH	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 9	Gray Matter	18.6202	61.4534	33.8849
+RIH8	27.0	55.0	30.0	-999	RIH	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 9	Gray Matter	27.058	54.6458	35.5912
+RFP1	32.0	68.0	5.0	-999	RFP	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	32.5935	70.0683	9.30655
+RFP2	35.0	62.0	11.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 10	Gray Matter	35.7707	63.1283	15.3424
+RFP3	39.0	55.0	18.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 10	Gray Matter	39.1465	55.5475	22.3399
+RFP4	41.0	48.0	24.0	-999	RFP	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 10	Gray Matter	41.7491	48.0805	28.4226
+RFP5	43.0	40.0	29.0	-999	RFP	R	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 9	Gray Matter	43.6023	39.214	33.3815
+RFP6	45.0	31.0	34.0	-999	RFP	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 9	Gray Matter	45.4557	30.3477	38.3403
+ROF1	38.0	36.0	-21.0	-999	ROF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 11	Gray Matter	38.4738	38.4249	-22.3036
+ROF2	47.0	42.0	-18.0	-999	ROF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 11	Gray Matter	47.8864	43.7678	-19.1597
+ROF3	53.0	44.0	-12.0	-999	ROF	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	53.4416	45.8608	-11.3057
+ROF4	55.0	44.0	-3.0	-999	ROF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 47	Gray Matter	55.3326	45.5044	-0.851293
+ROF5	51.0	38.0	26.0	-999	ROF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 46	Gray Matter	51.5979	37.6512	30.44
+ROF6	45.0	31.0	34.0	-999	ROF	R	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 9	Gray Matter	45.4557	30.3477	38.3403
+RLT1	66.0	6.0	-25.0	-999	RLT	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	66.9132	7.81201	-29.0018
+RLT2	66.0	8.0	-16.0	-999	RLT	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	67.0329	8.9005	-17.989
+RLT3	67.0	10.0	-7.0	-999	RLT	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	67.5287	11.157	-7.98498
+RLT4	68.0	14.0	2.0	-999	RLT	R	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 44	Gray Matter	68.7895	13.804	3.00362
+RLT5	69.0	15.0	11.0	-999	RLT	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 44	Gray Matter	69.301	15.0518	12.8684
+RLT6	66.0	16.0	22.0	-999	RLT	R	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 9	Gray Matter	67.0988	15.545	24.2778

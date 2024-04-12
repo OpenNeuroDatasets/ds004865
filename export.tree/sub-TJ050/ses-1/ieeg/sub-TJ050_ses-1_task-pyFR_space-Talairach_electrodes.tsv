@@ -1,0 +1,33 @@
+name	x	y	z	size	group	hemisphere	type	lobe	region1	region2	gray_white	mni.x	mni.y	mni.z
+RT1	31.0	11.0	-38.0	-999	RT	R	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter	31.332	13.7905	-44.4952
+RT2	40.0	5.0	-37.0	-999	RT	R	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 38	Gray Matter	39.9948	7.42627	-44.1073
+RT3	47.0	-1.0	-35.0	-999	RT	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	47.1558	1.19934	-41.4513
+RT4	52.0	-6.0	-30.0	-999	RT	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	52.3338	-4.94979	-36.102
+RT5	57.0	-13.0	-24.0	-999	RT	R	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 20	Gray Matter	57.4089	-11.8569	-28.958
+RT6	64.0	-19.0	-21.0	-999	RT	R	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	64.5431	-18.1575	-25.8371
+RH1	28.0	-14.0	-22.0	-999	RH	R	strip	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 35	Gray Matter	28.5326	-13.0888	-27.0194
+RH2	33.0	-14.0	-21.0	-999	RH	R	strip	Limbic Lobe	Parahippocampal Gyrus	Hippocampus	Gray Matter	33.4717	-12.9293	-25.5862
+RH3	38.0	-14.0	-20.0	-999	RH	R	depth	Temporal Lobe	Sub-Gyral	Brodmann area 20	Gray Matter	38.4421	-13.1591	-24.6821
+RH4	43.0	-14.0	-19.0	-999	RH	R	depth	Temporal Lobe	Sub-Gyral	Brodmann area 20	Gray Matter	43.4081	-12.9258	-23.7137
+RH5	48.0	-13.0	-19.0	-999	RH	R	depth	Temporal Lobe	Sub-Gyral	Brodmann area 20	Gray Matter	48.3965	-12.1556	-23.1458
+RH6	53.0	-12.0	-18.0	-999	RH	R	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	53.3894	-11.8486	-22.6422
+LF1	-25.0	-61.0	65.0	-999	LF	L	depth	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter	-25.2739	-66.5309	67.5182
+LF2	-25.0	-53.0	69.0	-999	LF	L	depth	Parietal Lobe	Postcentral Gyrus	Brodmann area 7	Gray Matter	-25.5781	-57.8576	72.5222
+LF3	-25.0	-43.0	72.0	-999	LF	L	strip	Parietal Lobe	Postcentral Gyrus	Brodmann area 1_2_3_5	Gray Matter	-25.298	-48.3669	75.3066
+LF4	-23.0	-33.0	72.0	-999	LF	L	strip	Parietal Lobe	Postcentral Gyrus	Brodmann area 1_2_3_5	Gray Matter	-23.5564	-37.6977	76.4802
+LF5	-21.0	-24.0	71.0	-999	LF	L	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-21.2665	-28.2111	76.1066
+LF6	-20.0	-14.0	69.0	-999	LF	L	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-19.8046	-18.475	74.259
+LF7	-18.0	-5.0	67.0	-999	LF	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 4_6	Gray Matter	-17.8928	-8.28998	72.5155
+LF8	-16.0	5.0	67.0	-999	LF	L	strip	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 4_6	Gray Matter	-15.6611	1.51245	73.1358
+LFDA1	-3.0	-1.0	36.0	-999	LFDA	L	strip	Limbic Lobe	Cingulate Gyrus	Brodmann area 24	Gray Matter	-2.72917	-3.24874	39.2811
+LFDA2	-3.0	0.0	40.0	-999	LFDA	L	strip	Limbic Lobe	Cingulate Gyrus	Brodmann area 24	Gray Matter	-3.44319	-2.04515	43.6812
+LFDA3	-4.0	2.0	46.0	-999	LFDA	L	depth	Limbic Lobe	Cingulate Gyrus	Brodmann area 24	Gray Matter	-4.24228	-0.599517	49.5399
+LFDA4	-5.0	3.0	50.0	-999	LFDA	L	depth	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 4_6	Gray Matter	-4.97872	0.0672036	54.3405
+LFDA5	-6.0	3.0	55.0	-999	LFDA	L	depth	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 4_6	Gray Matter	-5.74203	0.660261	59.6059
+LFDA6	-8.0	5.0	59.0	-999	LFDA	L	depth	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 4_6	Gray Matter	-7.87271	1.75911	64.8157
+LFDB1	-7.0	-25.0	49.0	-999	LFDB	L	depth	Frontal Lobe	Paracentral Lobule	Brodmann area 4_6	Gray Matter	-7.51781	-27.8572	51.6377
+LFDB2	-8.0	-23.0	53.0	-999	LFDB	L	depth	Frontal Lobe	Paracentral Lobule	Brodmann area 4_6	Gray Matter	-7.80886	-26.2784	56.6068
+LFDB3	-8.0	-21.0	58.0	-999	LFDB	L	depth	Frontal Lobe	Medial Frontal Gyrus	Brodmann area 4_6	Gray Matter	-8.55863	-24.2222	61.6003
+LFDB4	-10.0	-18.0	61.0	-999	LFDB	L	depth	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-9.71348	-21.5413	65.6885
+LFDB5	-11.0	-15.0	65.0	-999	LFDB	L	depth	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-10.8682	-18.8605	69.7768
+LFDB6	-14.0	-12.0	68.0	-999	LFDB	L	depth	Frontal Lobe	Superior Frontal Gyrus	Brodmann area 4_6	Gray Matter	-13.7865	-15.9753	72.7758
