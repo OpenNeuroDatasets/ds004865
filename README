@@ -7,7 +7,8 @@ This study was a preliminary cogntive electrophysiology study undertaken by the 
 
 #### To Note
 * The iEEG recordings are labeled either "monopolar" or "bipolar."  The monopolar recordings are referenced (typically a mastoid reference), but should always be re-referenced before analysis.  The bipolar recordings are referenced according to a paired scheme indicated by the accompanying bipolar channels tables.
-* Each subject has a unique montage of electrode locations.  MNI and Talairach coordinates are provided when available.
+* Each subject has a unique montage of electrode locations.  MNI and Talairach coordinates are provided when available, along with brain region annotations.
+* Recordings were made on multiple different systems, so we have done the scaling to provide all voltage values in V.
 
 #### Contact
-Please direct any inquires to the following address: kahana-sysadmin@sas.upenn.edu
+For questions or inquiries, please contact sas-kahana-sysadmin@sas.upenn.edu.

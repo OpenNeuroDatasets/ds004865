@@ -1,0 +1,55 @@
+name	x	y	z	size	group	hemisphere	type	lobe	region1	region2	gray_white	mni.x	mni.y	mni.z
+LF1	-55.0	-62.0	38.0	-999	LF	L	strip	Parietal Lobe	Angular Gyrus	Brodmann area 39	Gray Matter	-53.1231	-61.9511	49.3219
+LF2	-58.0	-54.0	35.0	-999	LF	L	strip	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	-55.6467	-53.7988	46.1596
+LF3	-59.0	-46.0	31.0	-999	LF	L	strip	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	-56.397	-43.6948	41.6122
+LF4	-59.0	-37.0	28.0	-999	LF	L	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-55.715	-35.6576	37.6571
+LF5	-59.0	-29.0	24.0	-999	LF	L	strip	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-56.3524	-26.2419	34.2823
+LF6	-60.0	-20.0	20.0	-999	LF	L	strip	Parietal Lobe	Postcentral Gyrus	Brodmann area 40	Gray Matter	-56.4273	-16.9464	29.9729
+LF7	-60.0	-12.0	17.0	-999	LF	L	strip	Parietal Lobe	Postcentral Gyrus	Brodmann area 43	Gray Matter	-56.933	-8.19168	25.7748
+LF8	-60.0	-3.0	14.0	-999	LF	L	strip	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-56.3326	0.295298	21.7033
+LTA1	-54.0	-71.0	10.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	-52.1552	-71.1668	21.8214
+LTA2	-58.0	-63.0	8.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 37	Gray Matter	-55.8665	-62.297	18.416
+LTA3	-61.0	-55.0	5.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-59.5779	-53.4272	15.0108
+LTA4	-64.0	-46.0	2.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-62.183	-44.8253	11.732
+LTA5	-65.0	-38.0	-1.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-62.8204	-35.4096	8.35714
+LTA6	-66.0	-29.0	-3.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-63.3762	-26.4436	5.09862
+LTA7	-65.0	-21.0	-7.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-62.9388	-17.0572	0.794308
+LTA8	-65.0	-12.0	-10.0	-999	LTA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-61.3137	-8.38825	-3.26702
+LTB1	-55.0	-68.0	25.0	-999	LTB	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	-52.9069	-67.9992	35.9159
+LTB2	-57.0	-60.0	21.0	-999	LTB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 39	Gray Matter	-56.5681	-59.3405	31.571
+LTB3	-60.0	-52.0	18.0	-999	LTB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-58.2301	-50.1068	28.1858
+LTB4	-62.0	-43.0	14.0	-999	LTB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-59.5975	-42.4336	24.2106
+LTB5	-63.0	-35.0	11.0	-999	LTB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-60.2348	-33.0179	20.8357
+LTB6	-64.0	-27.0	8.0	-999	LTB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-60.7405	-24.2632	16.6376
+LTB7	-63.0	-18.0	5.0	-999	LTB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-59.3286	-14.4835	13.283
+LTB8	-62.0	-9.0	1.0	-999	LTB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-58.2158	-5.90565	9.21667
+LTDA1	-43.0	-8.0	-6.0	-999	LTDA	L	depth	Sub-lobar	Insula	Brodmann area 13	Gray Matter	-39.7831	-4.83301	-0.00192012
+LTDA2	-48.0	-8.0	-4.0	-999	LTDA	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-44.5443	-5.01824	2.77126
+LTDA3	-52.0	-8.0	-2.0	-999	LTDA	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-48.8434	-4.90144	6.48913
+LTDA4	-57.0	-9.0	1.0	-999	LTDA	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-53.0925	-4.99576	9.26743
+LTDA5	-59.0	-10.0	5.0	-999	LTDA	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-54.966	-6.52525	12.5318
+LTDA6	-61.0	-11.0	8.0	-999	LTDA	L	depth	Temporal Lobe	Transverse Temporal Gyrus	Brodmann area 41_42	Gray Matter	-56.8081	-8.29323	16.8522
+LTDB1	-44.0	-26.0	-3.0	-999	LTDB	L	n/a	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-40.9697	-24.5416	4.84319
+LTDB2	-48.0	-25.0	-1.0	-999	LTDB	L	n/a	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 21	Gray Matter	-45.5449	-22.8369	7.15565
+LTDB3	-53.0	-23.0	2.0	-999	LTDB	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-49.1768	-20.5005	9.36185
+LTDB4	-56.0	-22.0	4.0	-999	LTDB	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-52.6143	-19.3022	12.857
+LTDB5	-59.0	-22.0	8.0	-999	LTDB	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-56.0518	-18.1038	16.3522
+LTDB6	-61.0	-21.0	12.0	-999	LTDB	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-57.6764	-18.2204	21.268
+LTDC1	-41.0	-35.0	1.0	-999	LTDC	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-38.4649	-32.7212	10.0012
+LTDC2	-46.0	-33.0	2.0	-999	LTDC	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-42.9898	-31.2277	11.3741
+LTDC3	-51.0	-31.0	5.0	-999	LTDC	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-47.565	-29.523	13.6865
+LTDC4	-55.0	-30.0	7.0	-999	LTDC	L	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 22	Gray Matter	-52.14	-27.8184	15.999
+LTDC5	-58.0	-28.0	10.0	-999	LTDC	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-56.0899	-26.711	19.4891
+LTDC6	-60.0	-27.0	15.0	-999	LTDC	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-57.5282	-24.9376	23.9442
+LTDD1	-40.0	-39.0	6.0	-999	LTDD	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-37.6054	-37.7234	15.2735
+LTDD2	-44.0	-38.0	9.0	-999	LTDD	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-42.0174	-36.9182	17.819
+LTDD3	-48.0	-38.0	11.0	-999	LTDD	L	depth	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 22	Gray Matter	-46.4295	-36.113	20.3643
+LTDD4	-53.0	-37.0	14.0	-999	LTDD	L	depth	Sub-lobar	Insula	Brodmann area 13	Gray Matter	-49.6539	-36.0254	23.1528
+LTDD5	-56.0	-37.0	18.0	-999	LTDD	L	depth	Sub-lobar	Insula	Brodmann area 13	Gray Matter	-52.9283	-35.7266	26.8808
+LTDD6	-59.0	-38.0	22.0	-999	LTDD	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-55.5774	-36.0251	31.7865
+LTDE1	-45.0	-45.0	10.0	-999	LTDE	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 39	Gray Matter	-42.9254	-43.5787	19.4289
+LTDE2	-49.0	-44.0	13.0	-999	LTDE	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-46.3629	-42.3804	22.9241
+LTDE3	-53.0	-44.0	16.0	-999	LTDE	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 13	Gray Matter	-50.662	-42.2636	26.6419
+LTDE4	-56.0	-43.0	20.0	-999	LTDE	L	depth	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 13	Gray Matter	-53.424	-41.8738	30.3751
+LTDE5	-58.0	-44.0	25.0	-999	LTDE	L	depth	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-55.5107	-42.2925	34.3462
+LTDE6	-60.0	-44.0	29.0	-999	LTDE	L	depth	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	-57.6476	-42.5001	39.2569
