@@ -1,509 +1,509 @@
 onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	list	test	answer	experiment	session	subject
-0.0	0.0	192577	B	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-0.0	24.88	192577	SESS_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-24.88	0.024	205316	START	n/a	n/a	n/a	n/a	0	[-999 -999 -999]	-999	pyFR	2	UP020
-24.904	4.521	205329	PROB	4.467	n/a	n/a	n/a	0	[3 3 8]	14	pyFR	2	UP020
-29.425	4.537	207644	PROB	4.491	n/a	n/a	n/a	0	[6 3 8]	19	pyFR	2	UP020
-33.962	4.203	209967	PROB	4.154	n/a	n/a	n/a	0	[2 2 5]	9	pyFR	2	UP020
-38.165	3.837	212119	PROB	3.783	n/a	n/a	n/a	0	[2 2 9]	13	pyFR	2	UP020
-42.002	2.334	214083	PROB	2.289	n/a	n/a	n/a	0	[2 8 2]	12	pyFR	2	UP020
-44.336	2.62	215279	PROB	2.58	n/a	n/a	n/a	0	[4 5 9]	18	pyFR	2	UP020
-46.956	2.686	216620	PROB	2.64	n/a	n/a	n/a	0	[3 6 6]	15	pyFR	2	UP020
-49.642	2.485	217995	PROB	2.434	n/a	n/a	n/a	0	[7 2 1]	10	pyFR	2	UP020
-52.127	4.469	219268	PROB	4.469	n/a	n/a	n/a	0	[5 9 3]	17	pyFR	2	UP020
-56.596	17.083	221556	STOP	n/a	n/a	n/a	n/a	0	[-999 -999 -999]	-999	pyFR	2	UP020
-73.679	0.016	230303	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-73.695	2.786	230311	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-76.481	2.669	231738	WORD	n/a	wordpools/wordpool_EN.txt	PLATE	1	1	n/a	n/a	pyFR	2	UP020
-79.15	2.652	233104	WORD	n/a	wordpools/wordpool_EN.txt	ROOM	2	1	n/a	n/a	pyFR	2	UP020
-81.802	2.719	234462	WORD	n/a	wordpools/wordpool_EN.txt	VINE	3	1	n/a	n/a	pyFR	2	UP020
-84.521	2.485	235855	WORD	n/a	wordpools/wordpool_EN.txt	FAN	4	1	n/a	n/a	pyFR	2	UP020
-87.006	2.769	237127	WORD	n/a	wordpools/wordpool_EN.txt	CLIFF	5	1	n/a	n/a	pyFR	2	UP020
-89.775	2.836	238545	WORD	n/a	wordpools/wordpool_EN.txt	NEST	6	1	n/a	n/a	pyFR	2	UP020
-92.611	2.586	239997	WORD	n/a	wordpools/wordpool_EN.txt	BAG	7	1	n/a	n/a	pyFR	2	UP020
-95.197	2.552	241321	WORD	n/a	wordpools/wordpool_EN.txt	FLOOR	8	1	n/a	n/a	pyFR	2	UP020
-97.749	2.551	242628	WORD	n/a	wordpools/wordpool_EN.txt	CLOWN	9	1	n/a	n/a	pyFR	2	UP020
-100.3	2.77	243934	WORD	n/a	wordpools/wordpool_EN.txt	NAIL	10	1	n/a	n/a	pyFR	2	UP020
-103.07	2.485	245352	WORD	n/a	wordpools/wordpool_EN.txt	BADGE	11	1	n/a	n/a	pyFR	2	UP020
-105.555	2.752	246625	WORD	n/a	wordpools/wordpool_EN.txt	BRICK	12	1	n/a	n/a	pyFR	2	UP020
-108.307	2.569	248034	WORD	n/a	wordpools/wordpool_EN.txt	STORM	13	1	n/a	n/a	pyFR	2	UP020
-110.876	2.819	249349	WORD	n/a	wordpools/wordpool_EN.txt	DOCK	14	1	n/a	n/a	pyFR	2	UP020
-113.695	1.619	250793	WORD	n/a	wordpools/wordpool_EN.txt	POND	15	1	n/a	n/a	pyFR	2	UP020
-115.314	1.117	251622	START	n/a	n/a	n/a	n/a	1	[-999 -999 -999]	-999	pyFR	2	UP020
-116.431	5.321	252193	PROB	5.269	n/a	n/a	n/a	1	[9 3 1]	13	pyFR	2	UP020
-121.752	3.236	254918	PROB	3.196	n/a	n/a	n/a	1	[5 7 8]	20	pyFR	2	UP020
-124.988	2.803	256575	PROB	2.76	n/a	n/a	n/a	1	[5 5 6]	16	pyFR	2	UP020
-127.791	4.387	258010	PROB	4.333	n/a	n/a	n/a	1	[3 1 4]	8	pyFR	2	UP020
-132.178	3.069	260256	PROB	3.026	n/a	n/a	n/a	1	[9 7 5]	21	pyFR	2	UP020
-135.247	2.781	261828	PROB	2.781	n/a	n/a	n/a	1	[3 7 8]	18	pyFR	2	UP020
-138.028	1.123	263252	STOP	n/a	n/a	n/a	n/a	1	[-999 -999 -999]	-999	pyFR	2	UP020
-139.151	2.313	263827	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-141.464	1.474	265011	REC_WORD	2.313	n/a	PLATE	-999	1	n/a	n/a	pyFR	2	UP020
-142.938	2.022	265766	REC_WORD	3.787	n/a	VINE	-999	1	n/a	n/a	pyFR	2	UP020
-144.96	5.816	266801	REC_WORD	5.809	n/a	CLIFF	-999	1	n/a	n/a	pyFR	2	UP020
-150.776	22.101	269779	REC_WORD	11.625	n/a	FLOOR	-999	1	n/a	n/a	pyFR	2	UP020
-172.877	20.203	281096	REC_WORD	33.726	n/a	<>	-999	1	n/a	n/a	pyFR	2	UP020
-193.08	0.015	291440	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-193.095	2.936	291448	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-196.031	2.452	292951	WORD	n/a	wordpools/wordpool_EN.txt	TIE	1	2	n/a	n/a	pyFR	2	UP020
-198.483	2.602	294207	WORD	n/a	wordpools/wordpool_EN.txt	DRUM	2	2	n/a	n/a	pyFR	2	UP020
-201.085	2.653	295539	WORD	n/a	wordpools/wordpool_EN.txt	STRING	3	2	n/a	n/a	pyFR	2	UP020
-203.738	2.769	296897	WORD	n/a	wordpools/wordpool_EN.txt	BEE	4	2	n/a	n/a	pyFR	2	UP020
-206.507	2.652	298315	WORD	n/a	wordpools/wordpool_EN.txt	GLOVE	5	2	n/a	n/a	pyFR	2	UP020
-209.159	2.585	299673	WORD	n/a	wordpools/wordpool_EN.txt	LEG	6	2	n/a	n/a	pyFR	2	UP020
-211.744	2.486	300997	WORD	n/a	wordpools/wordpool_EN.txt	PLANT	7	2	n/a	n/a	pyFR	2	UP020
-214.23	2.769	302270	WORD	n/a	wordpools/wordpool_EN.txt	HAND	8	2	n/a	n/a	pyFR	2	UP020
-216.999	2.652	303687	WORD	n/a	wordpools/wordpool_EN.txt	GOAT	9	2	n/a	n/a	pyFR	2	UP020
-219.651	2.735	305045	WORD	n/a	wordpools/wordpool_EN.txt	GATE	10	2	n/a	n/a	pyFR	2	UP020
-222.386	2.436	306446	WORD	n/a	wordpools/wordpool_EN.txt	WAVE	11	2	n/a	n/a	pyFR	2	UP020
-224.822	2.752	307693	WORD	n/a	wordpools/wordpool_EN.txt	ZOO	12	2	n/a	n/a	pyFR	2	UP020
-227.574	2.735	309102	WORD	n/a	wordpools/wordpool_EN.txt	SLUSH	13	2	n/a	n/a	pyFR	2	UP020
-230.309	2.77	310503	WORD	n/a	wordpools/wordpool_EN.txt	FORT	14	2	n/a	n/a	pyFR	2	UP020
-233.079	1.62	311921	WORD	n/a	wordpools/wordpool_EN.txt	CLOUD	15	2	n/a	n/a	pyFR	2	UP020
-234.699	1.149	312751	START	n/a	n/a	n/a	n/a	2	[-999 -999 -999]	-999	pyFR	2	UP020
-235.848	5.371	313339	PROB	5.316	n/a	n/a	n/a	2	[4 5 9]	18	pyFR	2	UP020
-241.219	2.602	316089	PROB	2.561	n/a	n/a	n/a	2	[3 7 6]	16	pyFR	2	UP020
-243.821	2.535	317421	PROB	2.494	n/a	n/a	n/a	2	[5 7 9]	21	pyFR	2	UP020
-246.356	5.955	318719	PROB	5.904	n/a	n/a	n/a	2	[5 9 9]	23	pyFR	2	UP020
-252.311	3.325	321768	PROB	3.325	n/a	n/a	n/a	2	[5 4 4]	13	pyFR	2	UP020
-255.636	1.214	323471	STOP	n/a	n/a	n/a	n/a	2	[-999 -999 -999]	-999	pyFR	2	UP020
-256.85	3.928	324092	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-260.778	1.861	326104	REC_WORD	3.928	n/a	TIE	-999	2	n/a	n/a	pyFR	2	UP020
-262.639	25.044	327057	REC_WORD	5.789	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-287.683	1.0	339880	REC_WORD	30.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-288.683	1.0	340392	REC_WORD	31.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-289.683	1.0	340904	REC_WORD	32.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-290.683	1.0	341416	REC_WORD	33.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-291.683	1.0	341928	REC_WORD	34.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-292.683	1.0	342440	REC_WORD	35.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-293.683	1.0	342952	REC_WORD	36.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-294.683	1.0	343464	REC_WORD	37.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-295.683	1.0	343976	REC_WORD	38.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-296.683	1.0	344488	REC_WORD	39.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-297.683	1.0	345000	REC_WORD	40.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-298.683	1.0	345512	REC_WORD	41.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-299.683	1.0	346024	REC_WORD	42.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-300.683	1.0	346536	REC_WORD	43.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-301.683	54.717	347048	REC_WORD	44.833	n/a	<>	-999	2	n/a	n/a	pyFR	2	UP020
-356.4	0.016	375065	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-356.416	2.918	375073	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-359.334	2.52	376568	WORD	n/a	wordpools/wordpool_EN.txt	SEED	1	3	n/a	n/a	pyFR	2	UP020
-361.854	2.534	377858	WORD	n/a	wordpools/wordpool_EN.txt	BENCH	2	3	n/a	n/a	pyFR	2	UP020
-364.388	2.77	379155	WORD	n/a	wordpools/wordpool_EN.txt	FROG	3	3	n/a	n/a	pyFR	2	UP020
-367.158	2.803	380574	WORD	n/a	wordpools/wordpool_EN.txt	CAT	4	3	n/a	n/a	pyFR	2	UP020
-369.961	2.568	382009	WORD	n/a	wordpools/wordpool_EN.txt	CORN	5	3	n/a	n/a	pyFR	2	UP020
-372.529	2.768	383324	WORD	n/a	wordpools/wordpool_EN.txt	BOAT	6	3	n/a	n/a	pyFR	2	UP020
-375.297	2.72	384741	WORD	n/a	wordpools/wordpool_EN.txt	CART	7	3	n/a	n/a	pyFR	2	UP020
-378.017	2.736	386134	WORD	n/a	wordpools/wordpool_EN.txt	STOOL	8	3	n/a	n/a	pyFR	2	UP020
-380.753	2.786	387535	WORD	n/a	wordpools/wordpool_EN.txt	HAWK	9	3	n/a	n/a	pyFR	2	UP020
-383.539	2.618	388961	WORD	n/a	wordpools/wordpool_EN.txt	FUR	10	3	n/a	n/a	pyFR	2	UP020
-386.157	2.786	390302	WORD	n/a	wordpools/wordpool_EN.txt	TRUCK	11	3	n/a	n/a	pyFR	2	UP020
-388.943	2.502	391728	WORD	n/a	wordpools/wordpool_EN.txt	CHIEF	12	3	n/a	n/a	pyFR	2	UP020
-391.445	2.602	393009	WORD	n/a	wordpools/wordpool_EN.txt	MOOSE	13	3	n/a	n/a	pyFR	2	UP020
-394.047	2.586	394342	WORD	n/a	wordpools/wordpool_EN.txt	SEAL	14	3	n/a	n/a	pyFR	2	UP020
-396.633	1.62	395666	WORD	n/a	wordpools/wordpool_EN.txt	BANK	15	3	n/a	n/a	pyFR	2	UP020
-398.253	1.048	396495	START	n/a	n/a	n/a	n/a	3	[-999 -999 -999]	-999	pyFR	2	UP020
-399.301	6.173	397032	PROB	6.119	n/a	n/a	n/a	3	[8 1 8]	17	pyFR	2	UP020
-405.474	2.485	400193	PROB	2.442	n/a	n/a	n/a	3	[5 1 4]	10	pyFR	2	UP020
-407.959	2.219	401465	PROB	2.173	n/a	n/a	n/a	3	[2 5 1]	8	pyFR	2	UP020
-410.178	4.152	402601	PROB	4.105	n/a	n/a	n/a	3	[3 9 6]	18	pyFR	2	UP020
-414.33	5.818	404727	PROB	5.818	n/a	n/a	n/a	3	[6 3 1]	10	pyFR	2	UP020
-420.148	1.089	407706	STOP	n/a	n/a	n/a	n/a	3	[-999 -999 -999]	-999	pyFR	2	UP020
-421.237	1.246	408264	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-422.483	1.828	408902	REC_WORD	1.246	n/a	SEED	-999	3	n/a	n/a	pyFR	2	UP020
-424.311	2.094	409838	REC_WORD	3.074	n/a	BENCH	-999	3	n/a	n/a	pyFR	2	UP020
-426.405	2.833	410910	REC_WORD	5.168	n/a	FROG	-999	3	n/a	n/a	pyFR	2	UP020
-429.238	10.819	412361	REC_WORD	8.001	n/a	CHIEF	-999	3	n/a	n/a	pyFR	2	UP020
-440.057	15.926	417900	REC_WORD	18.82	n/a	FUR	-999	3	n/a	n/a	pyFR	2	UP020
-455.983	17.582	426055	REC_WORD	34.746	n/a	HAWK	-999	3	n/a	n/a	pyFR	2	UP020
-473.565	0.016	435058	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-473.581	3.002	435066	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-476.583	2.469	436603	WORD	n/a	wordpools/wordpool_EN.txt	SHEET	1	4	n/a	n/a	pyFR	2	UP020
-479.052	2.819	437867	WORD	n/a	wordpools/wordpool_EN.txt	PIN	2	4	n/a	n/a	pyFR	2	UP020
-481.871	2.752	439310	WORD	n/a	wordpools/wordpool_EN.txt	COUCH	3	4	n/a	n/a	pyFR	2	UP020
-484.623	2.819	440720	WORD	n/a	wordpools/wordpool_EN.txt	PALM	4	4	n/a	n/a	pyFR	2	UP020
-487.442	2.603	442163	WORD	n/a	wordpools/wordpool_EN.txt	COAT	5	4	n/a	n/a	pyFR	2	UP020
-490.045	2.468	443496	WORD	n/a	wordpools/wordpool_EN.txt	ANT	6	4	n/a	n/a	pyFR	2	UP020
-492.513	2.552	444760	WORD	n/a	wordpools/wordpool_EN.txt	CANE	7	4	n/a	n/a	pyFR	2	UP020
-495.065	2.753	446066	WORD	n/a	wordpools/wordpool_EN.txt	HOSE	8	4	n/a	n/a	pyFR	2	UP020
-497.818	2.802	447476	WORD	n/a	wordpools/wordpool_EN.txt	HOOK	9	4	n/a	n/a	pyFR	2	UP020
-500.62	2.819	448911	WORD	n/a	wordpools/wordpool_EN.txt	SKY	10	4	n/a	n/a	pyFR	2	UP020
-503.439	2.452	450354	WORD	n/a	wordpools/wordpool_EN.txt	LIP	11	4	n/a	n/a	pyFR	2	UP020
-505.891	2.619	451609	WORD	n/a	wordpools/wordpool_EN.txt	CAR	12	4	n/a	n/a	pyFR	2	UP020
-508.51	2.536	452950	WORD	n/a	wordpools/wordpool_EN.txt	JEEP	13	4	n/a	n/a	pyFR	2	UP020
-511.046	2.535	454249	WORD	n/a	wordpools/wordpool_EN.txt	SIGN	14	4	n/a	n/a	pyFR	2	UP020
-513.581	1.619	455547	WORD	n/a	wordpools/wordpool_EN.txt	SWORD	15	4	n/a	n/a	pyFR	2	UP020
-515.2	1.033	456376	START	n/a	n/a	n/a	n/a	4	[-999 -999 -999]	-999	pyFR	2	UP020
-516.233	7.673	456905	PROB	7.627	n/a	n/a	n/a	4	[5 6 3]	14	pyFR	2	UP020
-523.906	4.171	460834	PROB	4.131	n/a	n/a	n/a	4	[5 4 6]	15	pyFR	2	UP020
-528.077	2.718	462969	PROB	2.663	n/a	n/a	n/a	4	[5 3 8]	16	pyFR	2	UP020
-530.795	5.225	464361	PROB	5.225	n/a	n/a	n/a	4	[1 1 9]	11	pyFR	2	UP020
-536.02	1.148	467037	STOP	n/a	n/a	n/a	n/a	4	[-999 -999 -999]	-999	pyFR	2	UP020
-537.168	3.319	467624	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-540.487	1.457	469324	REC_WORD	3.319	n/a	JEEP	-999	4	n/a	n/a	pyFR	2	UP020
-541.944	1.909	470070	REC_WORD	4.776	n/a	SIGN	-999	4	n/a	n/a	pyFR	2	UP020
-543.853	2.999	471047	REC_WORD	6.685	n/a	SWORD	-999	4	n/a	n/a	pyFR	2	UP020
-546.852	2.017	472583	REC_WORD	9.684	n/a	<>	-999	4	n/a	n/a	pyFR	2	UP020
-548.869	7.496	473616	REC_WORD	11.701	n/a	CLIFF	-999	4	n/a	n/a	pyFR	2	UP020
-556.365	1.0	477454	REC_WORD	19.197	n/a	CAT	-999	4	n/a	n/a	pyFR	2	UP020
-557.365	15.997	477966	REC_WORD	20.197	n/a	<>	-999	4	n/a	n/a	pyFR	2	UP020
-573.362	12.881	486157	REC_WORD	36.194	n/a	HOSE	-999	4	n/a	n/a	pyFR	2	UP020
-586.243	0.016	492752	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-586.259	2.669	492760	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-588.928	2.735	494127	WORD	n/a	wordpools/wordpool_EN.txt	QUEEN	1	5	n/a	n/a	pyFR	2	UP020
-591.663	2.803	495528	WORD	n/a	wordpools/wordpool_EN.txt	TAPE	2	5	n/a	n/a	pyFR	2	UP020
-594.466	2.552	496963	WORD	n/a	wordpools/wordpool_EN.txt	TEA	3	5	n/a	n/a	pyFR	2	UP020
-597.018	2.785	498269	WORD	n/a	wordpools/wordpool_EN.txt	JUICE	4	5	n/a	n/a	pyFR	2	UP020
-599.803	2.67	499695	WORD	n/a	wordpools/wordpool_EN.txt	BELL	5	5	n/a	n/a	pyFR	2	UP020
-602.473	2.735	501063	WORD	n/a	wordpools/wordpool_EN.txt	BLUSH	6	5	n/a	n/a	pyFR	2	UP020
-605.208	2.719	502463	WORD	n/a	wordpools/wordpool_EN.txt	FORK	7	5	n/a	n/a	pyFR	2	UP020
-607.927	2.451	503855	WORD	n/a	wordpools/wordpool_EN.txt	PLANE	8	5	n/a	n/a	pyFR	2	UP020
-610.378	2.737	505110	WORD	n/a	wordpools/wordpool_EN.txt	STRAW	9	5	n/a	n/a	pyFR	2	UP020
-613.115	2.485	506512	WORD	n/a	wordpools/wordpool_EN.txt	CUBE	10	5	n/a	n/a	pyFR	2	UP020
-615.6	2.802	507784	WORD	n/a	wordpools/wordpool_EN.txt	APE	11	5	n/a	n/a	pyFR	2	UP020
-618.402	2.586	509219	WORD	n/a	wordpools/wordpool_EN.txt	MULE	12	5	n/a	n/a	pyFR	2	UP020
-620.988	2.485	510543	WORD	n/a	wordpools/wordpool_EN.txt	CHEEK	13	5	n/a	n/a	pyFR	2	UP020
-623.473	2.652	511815	WORD	n/a	wordpools/wordpool_EN.txt	SPEAR	14	5	n/a	n/a	pyFR	2	UP020
-626.125	1.62	513173	WORD	n/a	wordpools/wordpool_EN.txt	BARN	15	5	n/a	n/a	pyFR	2	UP020
-627.745	1.016	514003	START	n/a	n/a	n/a	n/a	5	[-999 -999 -999]	-999	pyFR	2	UP020
-628.761	6.604	514523	PROB	6.554	n/a	n/a	n/a	5	[3 2 6]	11	pyFR	2	UP020
-635.365	7.441	517904	PROB	7.392	n/a	n/a	n/a	5	[9 5 9]	23	pyFR	2	UP020
-642.806	1.635	521714	PROB	1.581	n/a	n/a	n/a	5	[4 6 1]	11	pyFR	2	UP020
-644.441	3.491	522552	PROB	3.491	n/a	n/a	n/a	5	[6 4 5]	15	pyFR	2	UP020
-647.932	1.18	524339	STOP	n/a	n/a	n/a	n/a	5	[-999 -999 -999]	-999	pyFR	2	UP020
-649.112	16.24	524943	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-665.352	3.716	533259	REC_WORD	16.24	n/a	QUEEN	-999	5	n/a	n/a	pyFR	2	UP020
-669.068	6.383	535161	REC_WORD	19.956	n/a	JUICE	-999	5	n/a	n/a	pyFR	2	UP020
-675.451	29.808	538430	REC_WORD	26.339	n/a	BENCH	-999	5	n/a	n/a	pyFR	2	UP020
-705.259	0.015	553692	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-705.274	2.67	553700	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-707.944	2.769	555067	WORD	n/a	wordpools/wordpool_EN.txt	VAN	1	6	n/a	n/a	pyFR	2	UP020
-710.713	2.635	556485	WORD	n/a	wordpools/wordpool_EN.txt	SEAT	2	6	n/a	n/a	pyFR	2	UP020
-713.348	2.736	557834	WORD	n/a	wordpools/wordpool_EN.txt	OAK	3	6	n/a	n/a	pyFR	2	UP020
-716.084	2.619	559235	WORD	n/a	wordpools/wordpool_EN.txt	OAR	4	6	n/a	n/a	pyFR	2	UP020
-718.703	2.719	560576	WORD	n/a	wordpools/wordpool_EN.txt	STAIR	5	6	n/a	n/a	pyFR	2	UP020
-721.422	2.552	561968	WORD	n/a	wordpools/wordpool_EN.txt	CAKE	6	6	n/a	n/a	pyFR	2	UP020
-723.974	2.486	563275	WORD	n/a	wordpools/wordpool_EN.txt	THREAD	7	6	n/a	n/a	pyFR	2	UP020
-726.46	2.552	564548	WORD	n/a	wordpools/wordpool_EN.txt	MAP	8	6	n/a	n/a	pyFR	2	UP020
-729.012	2.519	565855	WORD	n/a	wordpools/wordpool_EN.txt	SHOE	9	6	n/a	n/a	pyFR	2	UP020
-731.531	2.452	567144	WORD	n/a	wordpools/wordpool_EN.txt	JUDGE	10	6	n/a	n/a	pyFR	2	UP020
-733.983	2.635	568400	WORD	n/a	wordpools/wordpool_EN.txt	MOTH	11	6	n/a	n/a	pyFR	2	UP020
-736.618	2.718	569749	WORD	n/a	wordpools/wordpool_EN.txt	WHALE	12	6	n/a	n/a	pyFR	2	UP020
-739.336	2.653	571141	WORD	n/a	wordpools/wordpool_EN.txt	TRAY	13	6	n/a	n/a	pyFR	2	UP020
-741.989	2.703	572499	WORD	n/a	wordpools/wordpool_EN.txt	DEER	14	6	n/a	n/a	pyFR	2	UP020
-744.692	1.618	573883	WORD	n/a	wordpools/wordpool_EN.txt	POOL	15	6	n/a	n/a	pyFR	2	UP020
-746.31	0.917	574712	START	n/a	n/a	n/a	n/a	6	[-999 -999 -999]	-999	pyFR	2	UP020
-747.227	6.489	575181	PROB	6.449	n/a	n/a	n/a	6	[1 4 3]	8	pyFR	2	UP020
-753.716	3.669	578504	PROB	3.615	n/a	n/a	n/a	6	[7 6 8]	21	pyFR	2	UP020
-757.385	2.952	580383	PROB	2.899	n/a	n/a	n/a	6	[3 9 7]	19	pyFR	2	UP020
-760.337	2.77	581894	PROB	2.716	n/a	n/a	n/a	6	[6 1 5]	12	pyFR	2	UP020
-763.107	8.802	583312	PROB	8.802	n/a	n/a	n/a	6	[5 4 7]	16	pyFR	2	UP020
-771.909	1.14	587819	STOP	n/a	n/a	n/a	n/a	6	[-999 -999 -999]	-999	pyFR	2	UP020
-773.049	18.694	588403	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-791.743	17.681	597975	REC_WORD	18.694	n/a	HOLE	-999	6	n/a	n/a	pyFR	2	UP020
-809.424	2.85	607028	REC_WORD	36.375	n/a	VAN	-999	6	n/a	n/a	pyFR	2	UP020
-812.274	15.087	608487	REC_WORD	39.225	n/a	SEAT	-999	6	n/a	n/a	pyFR	2	UP020
-827.361	0.016	616212	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-827.377	2.886	616221	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-830.263	2.486	617698	WORD	n/a	wordpools/wordpool_EN.txt	BED	1	7	n/a	n/a	pyFR	2	UP020
-832.749	2.652	618971	WORD	n/a	wordpools/wordpool_EN.txt	RIB	2	7	n/a	n/a	pyFR	2	UP020
-835.401	2.769	620329	WORD	n/a	wordpools/wordpool_EN.txt	PEA	3	7	n/a	n/a	pyFR	2	UP020
-838.17	2.736	621747	WORD	n/a	wordpools/wordpool_EN.txt	BEAR	4	7	n/a	n/a	pyFR	2	UP020
-840.906	2.752	623148	WORD	n/a	wordpools/wordpool_EN.txt	HOLE	5	7	n/a	n/a	pyFR	2	UP020
-843.658	2.651	624557	WORD	n/a	wordpools/wordpool_EN.txt	BOARD	6	7	n/a	n/a	pyFR	2	UP020
-846.309	2.553	625914	WORD	n/a	wordpools/wordpool_EN.txt	KING	7	7	n/a	n/a	pyFR	2	UP020
-848.862	2.586	627222	WORD	n/a	wordpools/wordpool_EN.txt	FLUTE	8	7	n/a	n/a	pyFR	2	UP020
-851.448	2.685	628546	WORD	n/a	wordpools/wordpool_EN.txt	SHELL	9	7	n/a	n/a	pyFR	2	UP020
-854.133	2.603	629921	WORD	n/a	wordpools/wordpool_EN.txt	STAR	10	7	n/a	n/a	pyFR	2	UP020
-856.736	2.769	631253	WORD	n/a	wordpools/wordpool_EN.txt	INK	11	7	n/a	n/a	pyFR	2	UP020
-859.505	2.769	632671	WORD	n/a	wordpools/wordpool_EN.txt	NET	12	7	n/a	n/a	pyFR	2	UP020
-862.274	2.435	634089	WORD	n/a	wordpools/wordpool_EN.txt	BEACH	13	7	n/a	n/a	pyFR	2	UP020
-864.709	2.585	635336	WORD	n/a	wordpools/wordpool_EN.txt	STONE	14	7	n/a	n/a	pyFR	2	UP020
-867.294	1.62	636659	WORD	n/a	wordpools/wordpool_EN.txt	PASTE	15	7	n/a	n/a	pyFR	2	UP020
-868.914	0.916	637489	START	n/a	n/a	n/a	n/a	7	[-999 -999 -999]	-999	pyFR	2	UP020
-869.83	10.092	637958	PROB	10.046	n/a	n/a	n/a	7	[1 7 9]	17	pyFR	2	UP020
-879.922	3.136	643125	PROB	3.09	n/a	n/a	n/a	7	[6 3 8]	17	pyFR	2	UP020
-883.058	2.535	644731	PROB	2.482	n/a	n/a	n/a	7	[1 4 5]	10	pyFR	2	UP020
-885.593	3.611	646029	PROB	3.611	n/a	n/a	n/a	7	[2 5 9]	16	pyFR	2	UP020
-889.204	1.211	647878	STOP	n/a	n/a	n/a	n/a	7	[-999 -999 -999]	-999	pyFR	2	UP020
-890.415	2.442	648498	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-892.857	1.191	649749	REC_WORD	2.442	n/a	STAR	-999	7	n/a	n/a	pyFR	2	UP020
-894.048	2.602	650358	REC_WORD	3.633	n/a	STONE	-999	7	n/a	n/a	pyFR	2	UP020
-896.65	30.199	651691	REC_WORD	6.235	n/a	PASTE	-999	7	n/a	n/a	pyFR	2	UP020
-926.849	26.169	667154	REC_WORD	36.434	n/a	<>	-999	7	n/a	n/a	pyFR	2	UP020
-953.018	0.015	680553	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-953.033	2.669	680561	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-955.702	2.719	681927	WORD	n/a	wordpools/wordpool_EN.txt	SHIELD	1	8	n/a	n/a	pyFR	2	UP020
-958.421	2.469	683319	WORD	n/a	wordpools/wordpool_EN.txt	FUDGE	2	8	n/a	n/a	pyFR	2	UP020
-960.89	2.702	684584	WORD	n/a	wordpools/wordpool_EN.txt	COW	3	8	n/a	n/a	pyFR	2	UP020
-963.592	2.669	685967	WORD	n/a	wordpools/wordpool_EN.txt	SALT	4	8	n/a	n/a	pyFR	2	UP020
-966.261	2.535	687334	WORD	n/a	wordpools/wordpool_EN.txt	BEAN	5	8	n/a	n/a	pyFR	2	UP020
-968.796	2.501	688632	WORD	n/a	wordpools/wordpool_EN.txt	KITE	6	8	n/a	n/a	pyFR	2	UP020
-971.297	2.771	689912	WORD	n/a	wordpools/wordpool_EN.txt	TOOL	7	8	n/a	n/a	pyFR	2	UP020
-974.068	2.785	691331	WORD	n/a	wordpools/wordpool_EN.txt	DAD	8	8	n/a	n/a	pyFR	2	UP020
-976.853	2.619	692757	WORD	n/a	wordpools/wordpool_EN.txt	SUN	9	8	n/a	n/a	pyFR	2	UP020
-979.472	2.469	694098	WORD	n/a	wordpools/wordpool_EN.txt	SKI	10	8	n/a	n/a	pyFR	2	UP020
-981.941	2.434	695362	WORD	n/a	wordpools/wordpool_EN.txt	SHARK	11	8	n/a	n/a	pyFR	2	UP020
-984.375	2.803	696609	WORD	n/a	wordpools/wordpool_EN.txt	DIME	12	8	n/a	n/a	pyFR	2	UP020
-987.178	2.519	698044	WORD	n/a	wordpools/wordpool_EN.txt	SHIP	13	8	n/a	n/a	pyFR	2	UP020
-989.697	2.552	699334	WORD	n/a	wordpools/wordpool_EN.txt	FOOT	14	8	n/a	n/a	pyFR	2	UP020
-992.249	1.62	700640	WORD	n/a	wordpools/wordpool_EN.txt	MUD	15	8	n/a	n/a	pyFR	2	UP020
-993.869	1.033	701470	START	n/a	n/a	n/a	n/a	8	[-999 -999 -999]	-999	pyFR	2	UP020
-994.902	10.358	701999	PROB	10.302	n/a	n/a	n/a	8	[5 4 8]	19	pyFR	2	UP020
-1005.26	5.605	707302	PROB	5.56	n/a	n/a	n/a	8	[9 8 3]	20	pyFR	2	UP020
-1010.865	3.539	710172	PROB	3.539	n/a	n/a	n/a	8	[5 8 9]	22	pyFR	2	UP020
-1014.404	1.447	711985	STOP	n/a	n/a	n/a	n/a	8	[-999 -999 -999]	-999	pyFR	2	UP020
-1015.851	0.918	712725	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1016.769	2.785	713195	REC_WORD	0.918	n/a	SHIELD	-999	8	n/a	n/a	pyFR	2	UP020
-1019.554	2.815	714621	REC_WORD	3.703	n/a	<>	-999	8	n/a	n/a	pyFR	2	UP020
-1022.369	7.376	716063	REC_WORD	6.518	n/a	SKIN	-999	8	n/a	n/a	pyFR	2	UP020
-1029.745	42.239	719840	REC_WORD	13.894	n/a	<>	-999	8	n/a	n/a	pyFR	2	UP020
-1071.984	0.016	741467	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1072.0	2.852	741475	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1074.852	2.652	742936	WORD	n/a	wordpools/wordpool_EN.txt	COIN	1	9	n/a	n/a	pyFR	2	UP020
-1077.504	2.619	744294	WORD	n/a	wordpools/wordpool_EN.txt	WOLF	2	9	n/a	n/a	pyFR	2	UP020
-1080.123	2.519	745635	WORD	n/a	wordpools/wordpool_EN.txt	SHRIMP	3	9	n/a	n/a	pyFR	2	UP020
-1082.642	2.735	746925	WORD	n/a	wordpools/wordpool_EN.txt	OWL	4	9	n/a	n/a	pyFR	2	UP020
-1085.377	2.786	748325	WORD	n/a	wordpools/wordpool_EN.txt	ROPE	5	9	n/a	n/a	pyFR	2	UP020
-1088.163	2.702	749751	WORD	n/a	wordpools/wordpool_EN.txt	WAND	6	9	n/a	n/a	pyFR	2	UP020
-1090.865	2.736	751135	WORD	n/a	wordpools/wordpool_EN.txt	PEN	7	9	n/a	n/a	pyFR	2	UP020
-1093.601	2.586	752536	WORD	n/a	wordpools/wordpool_EN.txt	EEL	8	9	n/a	n/a	pyFR	2	UP020
-1096.187	2.535	753860	WORD	n/a	wordpools/wordpool_EN.txt	BOOK	9	9	n/a	n/a	pyFR	2	UP020
-1098.722	2.786	755158	WORD	n/a	wordpools/wordpool_EN.txt	ROSE	10	9	n/a	n/a	pyFR	2	UP020
-1101.508	2.635	756585	WORD	n/a	wordpools/wordpool_EN.txt	ROCK	11	9	n/a	n/a	pyFR	2	UP020
-1104.143	2.619	757934	WORD	n/a	wordpools/wordpool_EN.txt	WALL	12	9	n/a	n/a	pyFR	2	UP020
-1106.762	2.669	759275	WORD	n/a	wordpools/wordpool_EN.txt	HAT	13	9	n/a	n/a	pyFR	2	UP020
-1109.431	2.602	760641	WORD	n/a	wordpools/wordpool_EN.txt	SWAMP	14	9	n/a	n/a	pyFR	2	UP020
-1112.033	1.62	761974	WORD	n/a	wordpools/wordpool_EN.txt	SMILE	15	9	n/a	n/a	pyFR	2	UP020
-1113.653	0.949	762803	START	n/a	n/a	n/a	n/a	9	[-999 -999 -999]	-999	pyFR	2	UP020
-1114.602	5.821	763289	PROB	5.777	n/a	n/a	n/a	9	[1 4 9]	14	pyFR	2	UP020
-1120.423	2.186	766270	PROB	2.133	n/a	n/a	n/a	9	[6 4 4]	14	pyFR	2	UP020
-1122.609	2.051	767389	PROB	2.011	n/a	n/a	n/a	9	[7 3 4]	14	pyFR	2	UP020
-1124.66	2.936	768439	PROB	2.896	n/a	n/a	n/a	9	[7 7 4]	18	pyFR	2	UP020
-1127.596	2.969	769942	PROB	2.92	n/a	n/a	n/a	9	[3 7 5]	15	pyFR	2	UP020
-1130.565	3.02	771463	PROB	2.975	n/a	n/a	n/a	9	[5 7 2]	14	pyFR	2	UP020
-1133.585	3.963	773009	PROB	3.963	n/a	n/a	n/a	9	[3 4 6]	13	pyFR	2	UP020
-1137.548	1.142	775038	STOP	n/a	n/a	n/a	n/a	9	[-999 -999 -999]	-999	pyFR	2	UP020
-1138.69	2.418	775623	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1141.108	1.464	776861	REC_WORD	2.418	n/a	COIN	-999	9	n/a	n/a	pyFR	2	UP020
-1142.572	1.378	777611	REC_WORD	3.882	n/a	WOLF	-999	9	n/a	n/a	pyFR	2	UP020
-1143.95	2.323	778316	REC_WORD	5.26	n/a	SHRIMP	-999	9	n/a	n/a	pyFR	2	UP020
-1146.273	2.548	779506	REC_WORD	7.583	n/a	OWL	-999	9	n/a	n/a	pyFR	2	UP020
-1148.821	37.993	780810	REC_WORD	10.131	n/a	PEN	-999	9	n/a	n/a	pyFR	2	UP020
-1186.814	0.015	800264	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1186.829	2.853	800272	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1189.682	2.719	801732	WORD	n/a	wordpools/wordpool_EN.txt	RUG	1	10	n/a	n/a	pyFR	2	UP020
-1192.401	2.735	803125	WORD	n/a	wordpools/wordpool_EN.txt	HILL	2	10	n/a	n/a	pyFR	2	UP020
-1195.136	2.702	804525	WORD	n/a	wordpools/wordpool_EN.txt	CUP	3	10	n/a	n/a	pyFR	2	UP020
-1197.838	2.619	805909	WORD	n/a	wordpools/wordpool_EN.txt	ARK	4	10	n/a	n/a	pyFR	2	UP020
-1200.457	2.786	807250	WORD	n/a	wordpools/wordpool_EN.txt	SAIL	5	10	n/a	n/a	pyFR	2	UP020
-1203.243	2.802	808676	WORD	n/a	wordpools/wordpool_EN.txt	FLAG	6	10	n/a	n/a	pyFR	2	UP020
-1206.045	2.569	810111	WORD	n/a	wordpools/wordpool_EN.txt	PIE	7	10	n/a	n/a	pyFR	2	UP020
-1208.614	2.469	811426	WORD	n/a	wordpools/wordpool_EN.txt	PARK	8	10	n/a	n/a	pyFR	2	UP020
-1211.083	2.435	812690	WORD	n/a	wordpools/wordpool_EN.txt	GIRL	9	10	n/a	n/a	pyFR	2	UP020
-1213.518	2.469	813937	WORD	n/a	wordpools/wordpool_EN.txt	GRAPE	10	10	n/a	n/a	pyFR	2	UP020
-1215.987	2.469	815201	WORD	n/a	wordpools/wordpool_EN.txt	DRESS	11	10	n/a	n/a	pyFR	2	UP020
-1218.456	2.636	816466	WORD	n/a	wordpools/wordpool_EN.txt	CLOCK	12	10	n/a	n/a	pyFR	2	UP020
-1221.092	2.735	817815	WORD	n/a	wordpools/wordpool_EN.txt	ROOF	13	10	n/a	n/a	pyFR	2	UP020
-1223.827	2.686	819216	WORD	n/a	wordpools/wordpool_EN.txt	STEAK	14	10	n/a	n/a	pyFR	2	UP020
-1226.513	1.619	820591	WORD	n/a	wordpools/wordpool_EN.txt	JAIL	15	10	n/a	n/a	pyFR	2	UP020
-1228.132	0.983	821420	START	n/a	n/a	n/a	n/a	10	[-999 -999 -999]	-999	pyFR	2	UP020
-1229.115	3.569	821923	PROB	3.522	n/a	n/a	n/a	10	[1 1 3]	5	pyFR	2	UP020
-1232.684	1.752	823751	PROB	1.703	n/a	n/a	n/a	10	[5 5 1]	11	pyFR	2	UP020
-1234.436	2.769	824648	PROB	2.728	n/a	n/a	n/a	10	[8 5 6]	19	pyFR	2	UP020
-1237.205	4.287	826066	PROB	4.231	n/a	n/a	n/a	10	[1 7 4]	12	pyFR	2	UP020
-1241.492	4.27	828261	PROB	4.216	n/a	n/a	n/a	10	[7 4 7]	18	pyFR	2	UP020
-1245.762	6.298	830447	PROB	6.298	n/a	n/a	n/a	10	[9 8 7]	24	pyFR	2	UP020
-1252.06	1.159	833672	STOP	n/a	n/a	n/a	n/a	10	[-999 -999 -999]	-999	pyFR	2	UP020
-1253.219	3.648	834265	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1256.867	11.155	836133	REC_WORD	3.648	n/a	GIRL	-999	10	n/a	n/a	pyFR	2	UP020
-1268.022	38.776	841845	REC_WORD	14.803	n/a	ROOF	-999	10	n/a	n/a	pyFR	2	UP020
-1306.798	0.015	861700	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1306.813	2.652	861707	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1309.465	2.486	863065	WORD	n/a	wordpools/wordpool_EN.txt	RAIN	1	11	n/a	n/a	pyFR	2	UP020
-1311.951	2.702	864338	WORD	n/a	wordpools/wordpool_EN.txt	SPARK	2	11	n/a	n/a	pyFR	2	UP020
-1314.653	2.786	865722	WORD	n/a	wordpools/wordpool_EN.txt	WEB	3	11	n/a	n/a	pyFR	2	UP020
-1317.439	2.769	867148	WORD	n/a	wordpools/wordpool_EN.txt	BREAD	4	11	n/a	n/a	pyFR	2	UP020
-1320.208	2.452	868566	WORD	n/a	wordpools/wordpool_EN.txt	FARM	5	11	n/a	n/a	pyFR	2	UP020
-1322.66	2.634	869821	WORD	n/a	wordpools/wordpool_EN.txt	DOLL	6	11	n/a	n/a	pyFR	2	UP020
-1325.294	2.57	871170	WORD	n/a	wordpools/wordpool_EN.txt	TREE	7	11	n/a	n/a	pyFR	2	UP020
-1327.864	2.435	872486	WORD	n/a	wordpools/wordpool_EN.txt	TRAIN	8	11	n/a	n/a	pyFR	2	UP020
-1330.299	2.519	873733	WORD	n/a	wordpools/wordpool_EN.txt	HOOF	9	11	n/a	n/a	pyFR	2	UP020
-1332.818	2.453	875023	WORD	n/a	wordpools/wordpool_EN.txt	SLEEVE	10	11	n/a	n/a	pyFR	2	UP020
-1335.271	2.568	876279	WORD	n/a	wordpools/wordpool_EN.txt	LAMB	11	11	n/a	n/a	pyFR	2	UP020
-1337.839	2.703	877594	WORD	n/a	wordpools/wordpool_EN.txt	SNAKE	12	11	n/a	n/a	pyFR	2	UP020
-1340.542	2.669	878978	WORD	n/a	wordpools/wordpool_EN.txt	HEN	13	11	n/a	n/a	pyFR	2	UP020
-1343.211	2.785	880344	WORD	n/a	wordpools/wordpool_EN.txt	WEED	14	11	n/a	n/a	pyFR	2	UP020
-1345.996	1.62	881770	WORD	n/a	wordpools/wordpool_EN.txt	TOAST	15	11	n/a	n/a	pyFR	2	UP020
-1347.616	1.199	882600	START	n/a	n/a	n/a	n/a	11	[-999 -999 -999]	-999	pyFR	2	UP020
-1348.815	3.687	883214	PROB	3.645	n/a	n/a	n/a	11	[9 7 5]	21	pyFR	2	UP020
-1352.502	3.486	885102	PROB	3.43	n/a	n/a	n/a	11	[3 5 7]	15	pyFR	2	UP020
-1355.988	1.685	886887	PROB	1.632	n/a	n/a	n/a	11	[3 1 3]	7	pyFR	2	UP020
-1357.673	2.085	887749	PROB	2.043	n/a	n/a	n/a	11	[3 7 6]	16	pyFR	2	UP020
-1359.758	2.202	888817	PROB	2.15	n/a	n/a	n/a	11	[4 2 7]	13	pyFR	2	UP020
-1361.96	2.235	889944	PROB	2.188	n/a	n/a	n/a	11	[5 8 2]	15	pyFR	2	UP020
-1364.195	3.857	891089	PROB	3.857	n/a	n/a	n/a	11	[4 4 5]	13	pyFR	2	UP020
-1368.052	1.148	893064	STOP	n/a	n/a	n/a	n/a	11	[-999 -999 -999]	-999	pyFR	2	UP020
-1369.2	1.43	893651	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1370.63	0.988	894384	REC_WORD	1.43	n/a	RAIN	-999	11	n/a	n/a	pyFR	2	UP020
-1371.618	3.054	894890	REC_WORD	2.418	n/a	SPARK	-999	11	n/a	n/a	pyFR	2	UP020
-1374.672	70.674	896453	REC_WORD	5.472	n/a	HEN	-999	11	n/a	n/a	pyFR	2	UP020
-1445.346	0.016	932641	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1445.362	2.803	932649	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1448.165	2.769	934084	WORD	n/a	wordpools/wordpool_EN.txt	MAT	1	12	n/a	n/a	pyFR	2	UP020
-1450.934	2.769	935502	WORD	n/a	wordpools/wordpool_EN.txt	SOAP	2	12	n/a	n/a	pyFR	2	UP020
-1453.703	2.436	936920	WORD	n/a	wordpools/wordpool_EN.txt	TOY	3	12	n/a	n/a	pyFR	2	UP020
-1456.139	2.769	938167	WORD	n/a	wordpools/wordpool_EN.txt	KEY	4	12	n/a	n/a	pyFR	2	UP020
-1458.908	2.451	939585	WORD	n/a	wordpools/wordpool_EN.txt	STOVE	5	12	n/a	n/a	pyFR	2	UP020
-1461.359	2.436	940840	WORD	n/a	wordpools/wordpool_EN.txt	YARD	6	12	n/a	n/a	pyFR	2	UP020
-1463.795	2.518	942087	WORD	n/a	wordpools/wordpool_EN.txt	NOSE	7	12	n/a	n/a	pyFR	2	UP020
-1466.313	2.503	943376	WORD	n/a	wordpools/wordpool_EN.txt	SINK	8	12	n/a	n/a	pyFR	2	UP020
-1468.816	2.568	944658	WORD	n/a	wordpools/wordpool_EN.txt	SNOW	9	12	n/a	n/a	pyFR	2	UP020
-1471.384	2.436	945973	WORD	n/a	wordpools/wordpool_EN.txt	PURSE	10	12	n/a	n/a	pyFR	2	UP020
-1473.82	2.669	947220	WORD	n/a	wordpools/wordpool_EN.txt	SCHOOL	11	12	n/a	n/a	pyFR	2	UP020
-1476.489	2.485	948587	WORD	n/a	wordpools/wordpool_EN.txt	ELF	12	12	n/a	n/a	pyFR	2	UP020
-1478.974	2.653	949859	WORD	n/a	wordpools/wordpool_EN.txt	BALL	13	12	n/a	n/a	pyFR	2	UP020
-1481.627	2.619	951218	WORD	n/a	wordpools/wordpool_EN.txt	BUSH	14	12	n/a	n/a	pyFR	2	UP020
-1484.246	1.619	952559	WORD	n/a	wordpools/wordpool_EN.txt	WING	15	12	n/a	n/a	pyFR	2	UP020
-1485.865	0.949	953388	START	n/a	n/a	n/a	n/a	12	[-999 -999 -999]	-999	pyFR	2	UP020
-1486.814	4.553	953874	PROB	4.509	n/a	n/a	n/a	12	[1 7 5]	13	pyFR	2	UP020
-1491.367	2.804	956205	PROB	2.757	n/a	n/a	n/a	12	[6 9 2]	17	pyFR	2	UP020
-1494.171	2.719	957641	PROB	2.665	n/a	n/a	n/a	12	[4 3 9]	16	pyFR	2	UP020
-1496.89	3.786	959033	PROB	3.731	n/a	n/a	n/a	12	[8 6 9]	23	pyFR	2	UP020
-1500.676	2.135	960971	PROB	2.088	n/a	n/a	n/a	12	[1 5 2]	8	pyFR	2	UP020
-1502.811	2.535	962065	PROB	2.48	n/a	n/a	n/a	12	[6 4 9]	19	pyFR	2	UP020
-1505.346	1.882	963363	PROB	1.882	n/a	n/a	n/a	12	[2 2 7]	11	pyFR	2	UP020
-1507.228	1.222	964326	STOP	n/a	n/a	n/a	n/a	12	[-999 -999 -999]	-999	pyFR	2	UP020
-1508.45	0.789	964952	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1509.239	1.126	965356	REC_WORD	0.789	n/a	MAT	-999	12	n/a	n/a	pyFR	2	UP020
-1510.365	1.208	965932	REC_WORD	1.915	n/a	SOAP	-999	12	n/a	n/a	pyFR	2	UP020
-1511.573	6.876	966551	REC_WORD	3.123	n/a	KEY	-999	12	n/a	n/a	pyFR	2	UP020
-1518.449	16.47	970072	REC_WORD	9.999	n/a	NURSE	-999	12	n/a	n/a	pyFR	2	UP020
-1534.919	24.224	978505	REC_WORD	26.469	n/a	TIE	-999	12	n/a	n/a	pyFR	2	UP020
-1559.143	0.015	990908	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1559.158	2.803	990916	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1561.961	2.585	992351	WORD	n/a	wordpools/wordpool_EN.txt	FACE	1	13	n/a	n/a	pyFR	2	UP020
-1564.546	2.536	993675	WORD	n/a	wordpools/wordpool_EN.txt	DESK	2	13	n/a	n/a	pyFR	2	UP020
-1567.082	2.535	994973	WORD	n/a	wordpools/wordpool_EN.txt	DUCK	3	13	n/a	n/a	pyFR	2	UP020
-1569.617	2.469	996271	WORD	n/a	wordpools/wordpool_EN.txt	ARM	4	13	n/a	n/a	pyFR	2	UP020
-1572.086	2.602	997536	WORD	n/a	wordpools/wordpool_EN.txt	GLASS	5	13	n/a	n/a	pyFR	2	UP020
-1574.688	2.469	998868	WORD	n/a	wordpools/wordpool_EN.txt	SQUARE	6	13	n/a	n/a	pyFR	2	UP020
-1577.157	2.769	1000132	WORD	n/a	wordpools/wordpool_EN.txt	JAR	7	13	n/a	n/a	pyFR	2	UP020
-1579.926	2.752	1001550	WORD	n/a	wordpools/wordpool_EN.txt	FOX	8	13	n/a	n/a	pyFR	2	UP020
-1582.678	2.736	1002959	WORD	n/a	wordpools/wordpool_EN.txt	EGG	9	13	n/a	n/a	pyFR	2	UP020
-1585.414	2.669	1004360	WORD	n/a	wordpools/wordpool_EN.txt	TEETH	10	13	n/a	n/a	pyFR	2	UP020
-1588.083	2.819	1005727	WORD	n/a	wordpools/wordpool_EN.txt	POLE	11	13	n/a	n/a	pyFR	2	UP020
-1590.902	2.602	1007170	WORD	n/a	wordpools/wordpool_EN.txt	LAWN	12	13	n/a	n/a	pyFR	2	UP020
-1593.504	2.635	1008502	WORD	n/a	wordpools/wordpool_EN.txt	PEARL	13	13	n/a	n/a	pyFR	2	UP020
-1596.139	2.503	1009851	WORD	n/a	wordpools/wordpool_EN.txt	CAPE	14	13	n/a	n/a	pyFR	2	UP020
-1598.642	1.619	1011133	WORD	n/a	wordpools/wordpool_EN.txt	DOG	15	13	n/a	n/a	pyFR	2	UP020
-1600.261	0.899	1011962	START	n/a	n/a	n/a	n/a	13	[-999 -999 -999]	-999	pyFR	2	UP020
-1601.16	4.186	1012422	PROB	4.131	n/a	n/a	n/a	13	[1 4 9]	14	pyFR	2	UP020
-1605.346	2.82	1014566	PROB	2.77	n/a	n/a	n/a	13	[2 6 4]	12	pyFR	2	UP020
-1608.166	2.184	1016010	PROB	2.133	n/a	n/a	n/a	13	[1 6 3]	10	pyFR	2	UP020
-1610.35	5.021	1017128	PROB	4.965	n/a	n/a	n/a	13	[7 3 9]	1	pyFR	2	UP020
-1615.371	3.788	1019699	PROB	3.737	n/a	n/a	n/a	13	[1 9 5]	15	pyFR	2	UP020
-1619.159	3.781	1021639	PROB	3.781	n/a	n/a	n/a	13	[9 4 8]	21	pyFR	2	UP020
-1622.94	1.09	1023575	STOP	n/a	n/a	n/a	n/a	13	[-999 -999 -999]	-999	pyFR	2	UP020
-1624.03	1.11	1024133	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1625.14	1.17	1024701	REC_WORD	1.11	n/a	EGG	-999	13	n/a	n/a	pyFR	2	UP020
-1626.31	1.889	1025300	REC_WORD	2.28	n/a	TEETH	-999	13	n/a	n/a	pyFR	2	UP020
-1628.199	1.302	1026267	REC_WORD	4.169	n/a	POOL	-999	13	n/a	n/a	pyFR	2	UP020
-1629.501	17.075	1026934	REC_WORD	5.471	n/a	LAWN	-999	13	n/a	n/a	pyFR	2	UP020
-1646.576	33.717	1035677	REC_WORD	22.546	n/a	CAPE	-999	13	n/a	n/a	pyFR	2	UP020
-1680.293	0.016	1052941	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1680.309	2.77	1052949	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1683.079	2.552	1054368	WORD	n/a	wordpools/wordpool_EN.txt	BOMB	1	14	n/a	n/a	pyFR	2	UP020
-1685.631	2.701	1055674	WORD	n/a	wordpools/wordpool_EN.txt	MOUSE	2	14	n/a	n/a	pyFR	2	UP020
-1688.332	2.504	1057057	WORD	n/a	wordpools/wordpool_EN.txt	PRINCE	3	14	n/a	n/a	pyFR	2	UP020
-1690.836	2.669	1058339	WORD	n/a	wordpools/wordpool_EN.txt	DITCH	4	14	n/a	n/a	pyFR	2	UP020
-1693.505	2.435	1059706	WORD	n/a	wordpools/wordpool_EN.txt	GEESE	5	14	n/a	n/a	pyFR	2	UP020
-1695.94	2.635	1060953	WORD	n/a	wordpools/wordpool_EN.txt	BLOOM	6	14	n/a	n/a	pyFR	2	UP020
-1698.575	2.818	1062302	WORD	n/a	wordpools/wordpool_EN.txt	STEAM	7	14	n/a	n/a	pyFR	2	UP020
-1701.393	2.537	1063745	WORD	n/a	wordpools/wordpool_EN.txt	SLIME	8	14	n/a	n/a	pyFR	2	UP020
-1703.93	2.719	1065044	WORD	n/a	wordpools/wordpool_EN.txt	GOLD	9	14	n/a	n/a	pyFR	2	UP020
-1706.649	2.519	1066436	WORD	n/a	wordpools/wordpool_EN.txt	BEAK	10	14	n/a	n/a	pyFR	2	UP020
-1709.168	2.802	1067726	WORD	n/a	wordpools/wordpool_EN.txt	BRUSH	11	14	n/a	n/a	pyFR	2	UP020
-1711.97	2.635	1069161	WORD	n/a	wordpools/wordpool_EN.txt	FOOD	12	14	n/a	n/a	pyFR	2	UP020
-1714.605	2.519	1070510	WORD	n/a	wordpools/wordpool_EN.txt	CAGE	13	14	n/a	n/a	pyFR	2	UP020
-1717.124	2.686	1071800	WORD	n/a	wordpools/wordpool_EN.txt	LAKE	14	14	n/a	n/a	pyFR	2	UP020
-1719.81	1.62	1073175	WORD	n/a	wordpools/wordpool_EN.txt	LAND	15	14	n/a	n/a	pyFR	2	UP020
-1721.43	1.015	1074005	START	n/a	n/a	n/a	n/a	14	[-999 -999 -999]	-999	pyFR	2	UP020
-1722.445	14.679	1074524	PROB	14.623	n/a	n/a	n/a	14	[4 9 6]	19	pyFR	2	UP020
-1737.124	3.303	1082040	PROB	3.247	n/a	n/a	n/a	14	[2 3 4]	9	pyFR	2	UP020
-1740.427	1.985	1083732	PROB	1.985	n/a	n/a	n/a	14	[6 4 5]	15	pyFR	2	UP020
-1742.412	1.135	1084748	STOP	n/a	n/a	n/a	n/a	14	[-999 -999 -999]	-999	pyFR	2	UP020
-1743.547	2.578	1085329	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1746.125	1.51	1086649	REC_WORD	2.578	n/a	BOMB	-999	14	n/a	n/a	pyFR	2	UP020
-1747.635	2.217	1087422	REC_WORD	4.088	n/a	MOUSE	-999	14	n/a	n/a	pyFR	2	UP020
-1749.852	6.32	1088557	REC_WORD	6.305	n/a	PRICE	-999	14	n/a	n/a	pyFR	2	UP020
-1756.172	37.084	1091794	REC_WORD	12.625	n/a	PITCH	-999	14	n/a	n/a	pyFR	2	UP020
-1793.256	0.015	1110782	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1793.271	2.719	1110789	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1795.99	2.753	1112182	WORD	n/a	wordpools/wordpool_EN.txt	THUMB	1	15	n/a	n/a	pyFR	2	UP020
-1798.743	2.735	1113591	WORD	n/a	wordpools/wordpool_EN.txt	BIRD	2	15	n/a	n/a	pyFR	2	UP020
-1801.478	2.553	1114992	WORD	n/a	wordpools/wordpool_EN.txt	BROOM	3	15	n/a	n/a	pyFR	2	UP020
-1804.031	2.435	1116299	WORD	n/a	wordpools/wordpool_EN.txt	STORE	4	15	n/a	n/a	pyFR	2	UP020
-1806.466	2.769	1117546	WORD	n/a	wordpools/wordpool_EN.txt	CLOTH	5	15	n/a	n/a	pyFR	2	UP020
-1809.235	2.586	1118963	WORD	n/a	wordpools/wordpool_EN.txt	WORM	6	15	n/a	n/a	pyFR	2	UP020
-1811.821	2.602	1120288	WORD	n/a	wordpools/wordpool_EN.txt	BAND	7	15	n/a	n/a	pyFR	2	UP020
-1814.423	2.802	1121620	WORD	n/a	wordpools/wordpool_EN.txt	SPONGE	8	15	n/a	n/a	pyFR	2	UP020
-1817.225	2.669	1123055	WORD	n/a	wordpools/wordpool_EN.txt	FOAM	9	15	n/a	n/a	pyFR	2	UP020
-1819.894	2.752	1124421	WORD	n/a	wordpools/wordpool_EN.txt	WHEEL	10	15	n/a	n/a	pyFR	2	UP020
-1822.646	2.519	1125830	WORD	n/a	wordpools/wordpool_EN.txt	DART	11	15	n/a	n/a	pyFR	2	UP020
-1825.165	2.635	1127120	WORD	n/a	wordpools/wordpool_EN.txt	SMOKE	12	15	n/a	n/a	pyFR	2	UP020
-1827.8	2.535	1128469	WORD	n/a	wordpools/wordpool_EN.txt	WOOD	13	15	n/a	n/a	pyFR	2	UP020
-1830.335	2.487	1129767	WORD	n/a	wordpools/wordpool_EN.txt	PIT	14	15	n/a	n/a	pyFR	2	UP020
-1832.822	1.619	1131041	WORD	n/a	wordpools/wordpool_EN.txt	AXE	15	15	n/a	n/a	pyFR	2	UP020
-1834.441	0.816	1131870	START	n/a	n/a	n/a	n/a	15	[-999 -999 -999]	-999	pyFR	2	UP020
-1835.257	5.454	1132288	PROB	5.403	n/a	n/a	n/a	15	[1 9 9]	19	pyFR	2	UP020
-1840.711	3.053	1135080	PROB	2.997	n/a	n/a	n/a	15	[9 8 3]	20	pyFR	2	UP020
-1843.764	2.352	1136643	PROB	2.304	n/a	n/a	n/a	15	[3 4 7]	14	pyFR	2	UP020
-1846.116	2.802	1137848	PROB	2.752	n/a	n/a	n/a	15	[7 3 4]	14	pyFR	2	UP020
-1848.918	5.726	1139283	PROB	5.726	n/a	n/a	n/a	15	[4 3 9]	16	pyFR	2	UP020
-1854.644	1.131	1142214	STOP	n/a	n/a	n/a	n/a	15	[-999 -999 -999]	-999	pyFR	2	UP020
-1855.775	1.115	1142793	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1856.89	1.245	1143364	REC_WORD	1.115	n/a	THUMB	-999	15	n/a	n/a	pyFR	2	UP020
-1858.135	2.44	1144002	REC_WORD	2.36	n/a	BIRD	-999	15	n/a	n/a	pyFR	2	UP020
-1860.575	6.411	1145251	REC_WORD	4.8	n/a	SMOKE	-999	15	n/a	n/a	pyFR	2	UP020
-1866.986	41.683	1148534	REC_WORD	11.211	n/a	FOAM	-999	15	n/a	n/a	pyFR	2	UP020
-1908.669	0.016	1169877	TRIAL	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1908.685	3.019	1169885	ORIENT	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1911.704	2.668	1171431	WORD	n/a	wordpools/wordpool_EN.txt	CALF	1	16	n/a	n/a	pyFR	2	UP020
-1914.372	2.57	1172797	WORD	n/a	wordpools/wordpool_EN.txt	TOOTH	2	16	n/a	n/a	pyFR	2	UP020
-1916.942	2.586	1174113	WORD	n/a	wordpools/wordpool_EN.txt	TANK	3	16	n/a	n/a	pyFR	2	UP020
-1919.528	2.635	1175437	WORD	n/a	wordpools/wordpool_EN.txt	JET	4	16	n/a	n/a	pyFR	2	UP020
-1922.163	2.552	1176786	WORD	n/a	wordpools/wordpool_EN.txt	MOLE	5	16	n/a	n/a	pyFR	2	UP020
-1924.715	2.736	1178093	WORD	n/a	wordpools/wordpool_EN.txt	PEACH	6	16	n/a	n/a	pyFR	2	UP020
-1927.451	2.619	1179494	WORD	n/a	wordpools/wordpool_EN.txt	TOAD	7	16	n/a	n/a	pyFR	2	UP020
-1930.07	2.602	1180835	WORD	n/a	wordpools/wordpool_EN.txt	HORN	8	16	n/a	n/a	pyFR	2	UP020
-1932.672	2.485	1182167	WORD	n/a	wordpools/wordpool_EN.txt	CONE	9	16	n/a	n/a	pyFR	2	UP020
-1935.157	2.669	1183440	WORD	n/a	wordpools/wordpool_EN.txt	MOUTH	10	16	n/a	n/a	pyFR	2	UP020
-1937.826	2.551	1184806	WORD	n/a	wordpools/wordpool_EN.txt	BRANCH	11	16	n/a	n/a	pyFR	2	UP020
-1940.377	2.52	1186112	WORD	n/a	wordpools/wordpool_EN.txt	VASE	12	16	n/a	n/a	pyFR	2	UP020
-1942.897	2.652	1187403	WORD	n/a	wordpools/wordpool_EN.txt	GUARD	13	16	n/a	n/a	pyFR	2	UP020
-1945.549	2.818	1188761	WORD	n/a	wordpools/wordpool_EN.txt	FLAME	14	16	n/a	n/a	pyFR	2	UP020
-1948.367	1.621	1190204	WORD	n/a	wordpools/wordpool_EN.txt	TRASH	15	16	n/a	n/a	pyFR	2	UP020
-1949.988	1.183	1191034	START	n/a	n/a	n/a	n/a	16	[-999 -999 -999]	-999	pyFR	2	UP020
-1951.171	2.669	1191639	PROB	2.626	n/a	n/a	n/a	16	[2 4 5]	11	pyFR	2	UP020
-1953.84	1.901	1193006	PROB	1.852	n/a	n/a	n/a	16	[4 8 1]	13	pyFR	2	UP020
-1955.741	2.202	1193979	PROB	2.151	n/a	n/a	n/a	16	[9 3 3]	15	pyFR	2	UP020
-1957.943	5.571	1195107	PROB	5.517	n/a	n/a	n/a	16	[5 3 9]	17	pyFR	2	UP020
-1963.514	2.052	1197959	PROB	2.01	n/a	n/a	n/a	16	[1 7 2]	10	pyFR	2	UP020
-1965.566	1.918	1199010	PROB	1.878	n/a	n/a	n/a	16	[5 6 2]	13	pyFR	2	UP020
-1967.484	2.136	1199992	PROB	2.088	n/a	n/a	n/a	16	[8 2 5]	15	pyFR	2	UP020
-1969.62	7.968	1201086	PROB	7.968	n/a	n/a	n/a	16	[5 2 6]	13	pyFR	2	UP020
-1977.588	1.057	1205166	STOP	n/a	n/a	n/a	n/a	16	[-999 -999 -999]	-999	pyFR	2	UP020
-1978.645	1.726	1205707	REC_START	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-1980.371	2.164	1206591	REC_WORD	1.726	n/a	TOAD	-999	16	n/a	n/a	pyFR	2	UP020
-1982.535	3.736	1207699	REC_WORD	3.89	n/a	HORN	-999	16	n/a	n/a	pyFR	2	UP020
-1986.271	7.04	1209612	REC_WORD	7.626	n/a	COACH	-999	16	n/a	n/a	pyFR	2	UP020
-1993.311	2.215	1213216	REC_WORD	14.666	n/a	VASE	-999	16	n/a	n/a	pyFR	2	UP020
-1995.526	3.893	1214350	REC_WORD	16.881	n/a	<>	-999	16	n/a	n/a	pyFR	2	UP020
-1999.419	3.676	1216344	REC_WORD	20.774	n/a	<>	-999	16	n/a	n/a	pyFR	2	UP020
-2003.095	5.501	1218226	REC_WORD	24.45	n/a	<>	-999	16	n/a	n/a	pyFR	2	UP020
-2008.596	1.0	1221043	REC_WORD	29.951	n/a	SMOKE	-999	16	n/a	n/a	pyFR	2	UP020
-2009.596	6.985	1221555	REC_WORD	30.951	n/a	<>	-999	16	n/a	n/a	pyFR	2	UP020
-2016.581	603.852	1225131	REC_WORD	37.936	n/a	<>	-999	16	n/a	n/a	pyFR	2	UP020
-2620.433	0.103	1534323	SESS_END	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
-2620.536	0.0	1534376	E	n/a	n/a	n/a	-999	-999	n/a	n/a	pyFR	2	UP020
+0.0	0.0	192577	B	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+0.0	24.88	192577	SESS_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+24.88	0.024	205316	START	n/a	n/a	n/a	n/a	0	[-999 -999 -999]	-999.0	pyFR	2	UP020
+24.904	4.521	205329	PROB	4.467	n/a	n/a	n/a	0	[3 3 8]	14.0	pyFR	2	UP020
+29.425	4.537	207644	PROB	4.491	n/a	n/a	n/a	0	[6 3 8]	19.0	pyFR	2	UP020
+33.962	4.203	209967	PROB	4.154	n/a	n/a	n/a	0	[2 2 5]	9.0	pyFR	2	UP020
+38.165	3.837	212119	PROB	3.783	n/a	n/a	n/a	0	[2 2 9]	13.0	pyFR	2	UP020
+42.002	2.334	214083	PROB	2.289	n/a	n/a	n/a	0	[2 8 2]	12.0	pyFR	2	UP020
+44.336	2.62	215279	PROB	2.58	n/a	n/a	n/a	0	[4 5 9]	18.0	pyFR	2	UP020
+46.956	2.686	216620	PROB	2.64	n/a	n/a	n/a	0	[3 6 6]	15.0	pyFR	2	UP020
+49.642	2.485	217995	PROB	2.434	n/a	n/a	n/a	0	[7 2 1]	10.0	pyFR	2	UP020
+52.127	4.469	219268	PROB	4.469	n/a	n/a	n/a	0	[5 9 3]	17.0	pyFR	2	UP020
+56.596	17.083	221556	STOP	n/a	n/a	n/a	n/a	0	[-999 -999 -999]	-999.0	pyFR	2	UP020
+73.679	0.016	230303	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+73.695	1.6	230311	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+76.481	1.6	231738	WORD	n/a	wordpools/wordpool_EN.txt	PLATE	1.0	1	n/a	n/a	pyFR	2	UP020
+79.15	1.6	233104	WORD	n/a	wordpools/wordpool_EN.txt	ROOM	2.0	1	n/a	n/a	pyFR	2	UP020
+81.802	1.6	234462	WORD	n/a	wordpools/wordpool_EN.txt	VINE	3.0	1	n/a	n/a	pyFR	2	UP020
+84.521	1.6	235855	WORD	n/a	wordpools/wordpool_EN.txt	FAN	4.0	1	n/a	n/a	pyFR	2	UP020
+87.006	1.6	237127	WORD	n/a	wordpools/wordpool_EN.txt	CLIFF	5.0	1	n/a	n/a	pyFR	2	UP020
+89.775	1.6	238545	WORD	n/a	wordpools/wordpool_EN.txt	NEST	6.0	1	n/a	n/a	pyFR	2	UP020
+92.611	1.6	239997	WORD	n/a	wordpools/wordpool_EN.txt	BAG	7.0	1	n/a	n/a	pyFR	2	UP020
+95.197	1.6	241321	WORD	n/a	wordpools/wordpool_EN.txt	FLOOR	8.0	1	n/a	n/a	pyFR	2	UP020
+97.749	1.6	242628	WORD	n/a	wordpools/wordpool_EN.txt	CLOWN	9.0	1	n/a	n/a	pyFR	2	UP020
+100.3	1.6	243934	WORD	n/a	wordpools/wordpool_EN.txt	NAIL	10.0	1	n/a	n/a	pyFR	2	UP020
+103.07	1.6	245352	WORD	n/a	wordpools/wordpool_EN.txt	BADGE	11.0	1	n/a	n/a	pyFR	2	UP020
+105.555	1.6	246625	WORD	n/a	wordpools/wordpool_EN.txt	BRICK	12.0	1	n/a	n/a	pyFR	2	UP020
+108.307	1.6	248034	WORD	n/a	wordpools/wordpool_EN.txt	STORM	13.0	1	n/a	n/a	pyFR	2	UP020
+110.876	1.6	249349	WORD	n/a	wordpools/wordpool_EN.txt	DOCK	14.0	1	n/a	n/a	pyFR	2	UP020
+113.695	1.6	250793	WORD	n/a	wordpools/wordpool_EN.txt	POND	15.0	1	n/a	n/a	pyFR	2	UP020
+115.314	1.117	251622	START	n/a	n/a	n/a	n/a	1	[-999 -999 -999]	-999.0	pyFR	2	UP020
+116.431	5.321	252193	PROB	5.269	n/a	n/a	n/a	1	[9 3 1]	13.0	pyFR	2	UP020
+121.752	3.236	254918	PROB	3.196	n/a	n/a	n/a	1	[5 7 8]	20.0	pyFR	2	UP020
+124.988	2.803	256575	PROB	2.76	n/a	n/a	n/a	1	[5 5 6]	16.0	pyFR	2	UP020
+127.791	4.387	258010	PROB	4.333	n/a	n/a	n/a	1	[3 1 4]	8.0	pyFR	2	UP020
+132.178	3.069	260256	PROB	3.026	n/a	n/a	n/a	1	[9 7 5]	21.0	pyFR	2	UP020
+135.247	2.781	261828	PROB	2.781	n/a	n/a	n/a	1	[3 7 8]	18.0	pyFR	2	UP020
+138.028	1.123	263252	STOP	n/a	n/a	n/a	n/a	1	[-999 -999 -999]	-999.0	pyFR	2	UP020
+139.151	2.313	263827	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+141.464	1.474	265011	REC_WORD	2.313	n/a	PLATE	-999.0	1	n/a	n/a	pyFR	2	UP020
+142.938	2.022	265766	REC_WORD	3.787	n/a	VINE	-999.0	1	n/a	n/a	pyFR	2	UP020
+144.96	5.816	266801	REC_WORD	5.809	n/a	CLIFF	-999.0	1	n/a	n/a	pyFR	2	UP020
+150.776	22.101	269779	REC_WORD	11.625	n/a	FLOOR	-999.0	1	n/a	n/a	pyFR	2	UP020
+172.877	20.203	281096	REC_WORD	33.726	n/a	<>	-999.0	1	n/a	n/a	pyFR	2	UP020
+193.08	0.015	291440	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+193.095	1.6	291448	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+196.031	1.6	292951	WORD	n/a	wordpools/wordpool_EN.txt	TIE	1.0	2	n/a	n/a	pyFR	2	UP020
+198.483	1.6	294207	WORD	n/a	wordpools/wordpool_EN.txt	DRUM	2.0	2	n/a	n/a	pyFR	2	UP020
+201.085	1.6	295539	WORD	n/a	wordpools/wordpool_EN.txt	STRING	3.0	2	n/a	n/a	pyFR	2	UP020
+203.738	1.6	296897	WORD	n/a	wordpools/wordpool_EN.txt	BEE	4.0	2	n/a	n/a	pyFR	2	UP020
+206.507	1.6	298315	WORD	n/a	wordpools/wordpool_EN.txt	GLOVE	5.0	2	n/a	n/a	pyFR	2	UP020
+209.159	1.6	299673	WORD	n/a	wordpools/wordpool_EN.txt	LEG	6.0	2	n/a	n/a	pyFR	2	UP020
+211.744	1.6	300997	WORD	n/a	wordpools/wordpool_EN.txt	PLANT	7.0	2	n/a	n/a	pyFR	2	UP020
+214.23	1.6	302270	WORD	n/a	wordpools/wordpool_EN.txt	HAND	8.0	2	n/a	n/a	pyFR	2	UP020
+216.999	1.6	303687	WORD	n/a	wordpools/wordpool_EN.txt	GOAT	9.0	2	n/a	n/a	pyFR	2	UP020
+219.651	1.6	305045	WORD	n/a	wordpools/wordpool_EN.txt	GATE	10.0	2	n/a	n/a	pyFR	2	UP020
+222.386	1.6	306446	WORD	n/a	wordpools/wordpool_EN.txt	WAVE	11.0	2	n/a	n/a	pyFR	2	UP020
+224.822	1.6	307693	WORD	n/a	wordpools/wordpool_EN.txt	ZOO	12.0	2	n/a	n/a	pyFR	2	UP020
+227.574	1.6	309102	WORD	n/a	wordpools/wordpool_EN.txt	SLUSH	13.0	2	n/a	n/a	pyFR	2	UP020
+230.309	1.6	310503	WORD	n/a	wordpools/wordpool_EN.txt	FORT	14.0	2	n/a	n/a	pyFR	2	UP020
+233.079	1.6	311921	WORD	n/a	wordpools/wordpool_EN.txt	CLOUD	15.0	2	n/a	n/a	pyFR	2	UP020
+234.699	1.149	312751	START	n/a	n/a	n/a	n/a	2	[-999 -999 -999]	-999.0	pyFR	2	UP020
+235.848	5.371	313339	PROB	5.316	n/a	n/a	n/a	2	[4 5 9]	18.0	pyFR	2	UP020
+241.219	2.602	316089	PROB	2.561	n/a	n/a	n/a	2	[3 7 6]	16.0	pyFR	2	UP020
+243.821	2.535	317421	PROB	2.494	n/a	n/a	n/a	2	[5 7 9]	21.0	pyFR	2	UP020
+246.356	5.955	318719	PROB	5.904	n/a	n/a	n/a	2	[5 9 9]	23.0	pyFR	2	UP020
+252.311	3.325	321768	PROB	3.325	n/a	n/a	n/a	2	[5 4 4]	13.0	pyFR	2	UP020
+255.636	1.214	323471	STOP	n/a	n/a	n/a	n/a	2	[-999 -999 -999]	-999.0	pyFR	2	UP020
+256.85	3.928	324092	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+260.778	1.861	326104	REC_WORD	3.928	n/a	TIE	-999.0	2	n/a	n/a	pyFR	2	UP020
+262.639	25.044	327057	REC_WORD	5.789	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+287.683	1.0	339880	REC_WORD	30.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+288.683	1.0	340392	REC_WORD	31.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+289.683	1.0	340904	REC_WORD	32.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+290.683	1.0	341416	REC_WORD	33.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+291.683	1.0	341928	REC_WORD	34.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+292.683	1.0	342440	REC_WORD	35.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+293.683	1.0	342952	REC_WORD	36.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+294.683	1.0	343464	REC_WORD	37.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+295.683	1.0	343976	REC_WORD	38.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+296.683	1.0	344488	REC_WORD	39.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+297.683	1.0	345000	REC_WORD	40.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+298.683	1.0	345512	REC_WORD	41.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+299.683	1.0	346024	REC_WORD	42.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+300.683	1.0	346536	REC_WORD	43.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+301.683	54.717	347048	REC_WORD	44.833	n/a	<>	-999.0	2	n/a	n/a	pyFR	2	UP020
+356.4	0.016	375065	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+356.416	1.6	375073	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+359.334	1.6	376568	WORD	n/a	wordpools/wordpool_EN.txt	SEED	1.0	3	n/a	n/a	pyFR	2	UP020
+361.854	1.6	377858	WORD	n/a	wordpools/wordpool_EN.txt	BENCH	2.0	3	n/a	n/a	pyFR	2	UP020
+364.388	1.6	379155	WORD	n/a	wordpools/wordpool_EN.txt	FROG	3.0	3	n/a	n/a	pyFR	2	UP020
+367.158	1.6	380574	WORD	n/a	wordpools/wordpool_EN.txt	CAT	4.0	3	n/a	n/a	pyFR	2	UP020
+369.961	1.6	382009	WORD	n/a	wordpools/wordpool_EN.txt	CORN	5.0	3	n/a	n/a	pyFR	2	UP020
+372.529	1.6	383324	WORD	n/a	wordpools/wordpool_EN.txt	BOAT	6.0	3	n/a	n/a	pyFR	2	UP020
+375.297	1.6	384741	WORD	n/a	wordpools/wordpool_EN.txt	CART	7.0	3	n/a	n/a	pyFR	2	UP020
+378.017	1.6	386134	WORD	n/a	wordpools/wordpool_EN.txt	STOOL	8.0	3	n/a	n/a	pyFR	2	UP020
+380.753	1.6	387535	WORD	n/a	wordpools/wordpool_EN.txt	HAWK	9.0	3	n/a	n/a	pyFR	2	UP020
+383.539	1.6	388961	WORD	n/a	wordpools/wordpool_EN.txt	FUR	10.0	3	n/a	n/a	pyFR	2	UP020
+386.157	1.6	390302	WORD	n/a	wordpools/wordpool_EN.txt	TRUCK	11.0	3	n/a	n/a	pyFR	2	UP020
+388.943	1.6	391728	WORD	n/a	wordpools/wordpool_EN.txt	CHIEF	12.0	3	n/a	n/a	pyFR	2	UP020
+391.445	1.6	393009	WORD	n/a	wordpools/wordpool_EN.txt	MOOSE	13.0	3	n/a	n/a	pyFR	2	UP020
+394.047	1.6	394342	WORD	n/a	wordpools/wordpool_EN.txt	SEAL	14.0	3	n/a	n/a	pyFR	2	UP020
+396.633	1.6	395666	WORD	n/a	wordpools/wordpool_EN.txt	BANK	15.0	3	n/a	n/a	pyFR	2	UP020
+398.253	1.048	396495	START	n/a	n/a	n/a	n/a	3	[-999 -999 -999]	-999.0	pyFR	2	UP020
+399.301	6.173	397032	PROB	6.119	n/a	n/a	n/a	3	[8 1 8]	17.0	pyFR	2	UP020
+405.474	2.485	400193	PROB	2.442	n/a	n/a	n/a	3	[5 1 4]	10.0	pyFR	2	UP020
+407.959	2.219	401465	PROB	2.173	n/a	n/a	n/a	3	[2 5 1]	8.0	pyFR	2	UP020
+410.178	4.152	402601	PROB	4.105	n/a	n/a	n/a	3	[3 9 6]	18.0	pyFR	2	UP020
+414.33	5.818	404727	PROB	5.818	n/a	n/a	n/a	3	[6 3 1]	10.0	pyFR	2	UP020
+420.148	1.089	407706	STOP	n/a	n/a	n/a	n/a	3	[-999 -999 -999]	-999.0	pyFR	2	UP020
+421.237	1.246	408264	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+422.483	1.828	408902	REC_WORD	1.246	n/a	SEED	-999.0	3	n/a	n/a	pyFR	2	UP020
+424.311	2.094	409838	REC_WORD	3.074	n/a	BENCH	-999.0	3	n/a	n/a	pyFR	2	UP020
+426.405	2.833	410910	REC_WORD	5.168	n/a	FROG	-999.0	3	n/a	n/a	pyFR	2	UP020
+429.238	10.819	412361	REC_WORD	8.001	n/a	CHIEF	-999.0	3	n/a	n/a	pyFR	2	UP020
+440.057	15.926	417900	REC_WORD	18.82	n/a	FUR	-999.0	3	n/a	n/a	pyFR	2	UP020
+455.983	17.582	426055	REC_WORD	34.746	n/a	HAWK	-999.0	3	n/a	n/a	pyFR	2	UP020
+473.565	0.016	435058	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+473.581	1.6	435066	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+476.583	1.6	436603	WORD	n/a	wordpools/wordpool_EN.txt	SHEET	1.0	4	n/a	n/a	pyFR	2	UP020
+479.052	1.6	437867	WORD	n/a	wordpools/wordpool_EN.txt	PIN	2.0	4	n/a	n/a	pyFR	2	UP020
+481.871	1.6	439310	WORD	n/a	wordpools/wordpool_EN.txt	COUCH	3.0	4	n/a	n/a	pyFR	2	UP020
+484.623	1.6	440720	WORD	n/a	wordpools/wordpool_EN.txt	PALM	4.0	4	n/a	n/a	pyFR	2	UP020
+487.442	1.6	442163	WORD	n/a	wordpools/wordpool_EN.txt	COAT	5.0	4	n/a	n/a	pyFR	2	UP020
+490.045	1.6	443496	WORD	n/a	wordpools/wordpool_EN.txt	ANT	6.0	4	n/a	n/a	pyFR	2	UP020
+492.513	1.6	444760	WORD	n/a	wordpools/wordpool_EN.txt	CANE	7.0	4	n/a	n/a	pyFR	2	UP020
+495.065	1.6	446066	WORD	n/a	wordpools/wordpool_EN.txt	HOSE	8.0	4	n/a	n/a	pyFR	2	UP020
+497.818	1.6	447476	WORD	n/a	wordpools/wordpool_EN.txt	HOOK	9.0	4	n/a	n/a	pyFR	2	UP020
+500.62	1.6	448911	WORD	n/a	wordpools/wordpool_EN.txt	SKY	10.0	4	n/a	n/a	pyFR	2	UP020
+503.439	1.6	450354	WORD	n/a	wordpools/wordpool_EN.txt	LIP	11.0	4	n/a	n/a	pyFR	2	UP020
+505.891	1.6	451609	WORD	n/a	wordpools/wordpool_EN.txt	CAR	12.0	4	n/a	n/a	pyFR	2	UP020
+508.51	1.6	452950	WORD	n/a	wordpools/wordpool_EN.txt	JEEP	13.0	4	n/a	n/a	pyFR	2	UP020
+511.046	1.6	454249	WORD	n/a	wordpools/wordpool_EN.txt	SIGN	14.0	4	n/a	n/a	pyFR	2	UP020
+513.581	1.6	455547	WORD	n/a	wordpools/wordpool_EN.txt	SWORD	15.0	4	n/a	n/a	pyFR	2	UP020
+515.2	1.033	456376	START	n/a	n/a	n/a	n/a	4	[-999 -999 -999]	-999.0	pyFR	2	UP020
+516.233	7.673	456905	PROB	7.627	n/a	n/a	n/a	4	[5 6 3]	14.0	pyFR	2	UP020
+523.906	4.171	460834	PROB	4.131	n/a	n/a	n/a	4	[5 4 6]	15.0	pyFR	2	UP020
+528.077	2.718	462969	PROB	2.663	n/a	n/a	n/a	4	[5 3 8]	16.0	pyFR	2	UP020
+530.795	5.225	464361	PROB	5.225	n/a	n/a	n/a	4	[1 1 9]	11.0	pyFR	2	UP020
+536.02	1.148	467037	STOP	n/a	n/a	n/a	n/a	4	[-999 -999 -999]	-999.0	pyFR	2	UP020
+537.168	3.319	467624	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+540.487	1.457	469324	REC_WORD	3.319	n/a	JEEP	-999.0	4	n/a	n/a	pyFR	2	UP020
+541.944	1.909	470070	REC_WORD	4.776	n/a	SIGN	-999.0	4	n/a	n/a	pyFR	2	UP020
+543.853	2.999	471047	REC_WORD	6.685	n/a	SWORD	-999.0	4	n/a	n/a	pyFR	2	UP020
+546.852	2.017	472583	REC_WORD	9.684	n/a	<>	-999.0	4	n/a	n/a	pyFR	2	UP020
+548.869	7.496	473616	REC_WORD	11.701	n/a	CLIFF	-999.0	4	n/a	n/a	pyFR	2	UP020
+556.365	1.0	477454	REC_WORD	19.197	n/a	CAT	-999.0	4	n/a	n/a	pyFR	2	UP020
+557.365	15.997	477966	REC_WORD	20.197	n/a	<>	-999.0	4	n/a	n/a	pyFR	2	UP020
+573.362	12.881	486157	REC_WORD	36.194	n/a	HOSE	-999.0	4	n/a	n/a	pyFR	2	UP020
+586.243	0.016	492752	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+586.259	1.6	492760	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+588.928	1.6	494127	WORD	n/a	wordpools/wordpool_EN.txt	QUEEN	1.0	5	n/a	n/a	pyFR	2	UP020
+591.663	1.6	495528	WORD	n/a	wordpools/wordpool_EN.txt	TAPE	2.0	5	n/a	n/a	pyFR	2	UP020
+594.466	1.6	496963	WORD	n/a	wordpools/wordpool_EN.txt	TEA	3.0	5	n/a	n/a	pyFR	2	UP020
+597.018	1.6	498269	WORD	n/a	wordpools/wordpool_EN.txt	JUICE	4.0	5	n/a	n/a	pyFR	2	UP020
+599.803	1.6	499695	WORD	n/a	wordpools/wordpool_EN.txt	BELL	5.0	5	n/a	n/a	pyFR	2	UP020
+602.473	1.6	501063	WORD	n/a	wordpools/wordpool_EN.txt	BLUSH	6.0	5	n/a	n/a	pyFR	2	UP020
+605.208	1.6	502463	WORD	n/a	wordpools/wordpool_EN.txt	FORK	7.0	5	n/a	n/a	pyFR	2	UP020
+607.927	1.6	503855	WORD	n/a	wordpools/wordpool_EN.txt	PLANE	8.0	5	n/a	n/a	pyFR	2	UP020
+610.378	1.6	505110	WORD	n/a	wordpools/wordpool_EN.txt	STRAW	9.0	5	n/a	n/a	pyFR	2	UP020
+613.115	1.6	506512	WORD	n/a	wordpools/wordpool_EN.txt	CUBE	10.0	5	n/a	n/a	pyFR	2	UP020
+615.6	1.6	507784	WORD	n/a	wordpools/wordpool_EN.txt	APE	11.0	5	n/a	n/a	pyFR	2	UP020
+618.402	1.6	509219	WORD	n/a	wordpools/wordpool_EN.txt	MULE	12.0	5	n/a	n/a	pyFR	2	UP020
+620.988	1.6	510543	WORD	n/a	wordpools/wordpool_EN.txt	CHEEK	13.0	5	n/a	n/a	pyFR	2	UP020
+623.473	1.6	511815	WORD	n/a	wordpools/wordpool_EN.txt	SPEAR	14.0	5	n/a	n/a	pyFR	2	UP020
+626.125	1.6	513173	WORD	n/a	wordpools/wordpool_EN.txt	BARN	15.0	5	n/a	n/a	pyFR	2	UP020
+627.745	1.016	514003	START	n/a	n/a	n/a	n/a	5	[-999 -999 -999]	-999.0	pyFR	2	UP020
+628.761	6.604	514523	PROB	6.554	n/a	n/a	n/a	5	[3 2 6]	11.0	pyFR	2	UP020
+635.365	7.441	517904	PROB	7.392	n/a	n/a	n/a	5	[9 5 9]	23.0	pyFR	2	UP020
+642.806	1.635	521714	PROB	1.581	n/a	n/a	n/a	5	[4 6 1]	11.0	pyFR	2	UP020
+644.441	3.491	522552	PROB	3.491	n/a	n/a	n/a	5	[6 4 5]	15.0	pyFR	2	UP020
+647.932	1.18	524339	STOP	n/a	n/a	n/a	n/a	5	[-999 -999 -999]	-999.0	pyFR	2	UP020
+649.112	16.24	524943	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+665.352	3.716	533259	REC_WORD	16.24	n/a	QUEEN	-999.0	5	n/a	n/a	pyFR	2	UP020
+669.068	6.383	535161	REC_WORD	19.956	n/a	JUICE	-999.0	5	n/a	n/a	pyFR	2	UP020
+675.451	29.808	538430	REC_WORD	26.339	n/a	BENCH	-999.0	5	n/a	n/a	pyFR	2	UP020
+705.259	0.015	553692	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+705.274	1.6	553700	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+707.944	1.6	555067	WORD	n/a	wordpools/wordpool_EN.txt	VAN	1.0	6	n/a	n/a	pyFR	2	UP020
+710.713	1.6	556485	WORD	n/a	wordpools/wordpool_EN.txt	SEAT	2.0	6	n/a	n/a	pyFR	2	UP020
+713.348	1.6	557834	WORD	n/a	wordpools/wordpool_EN.txt	OAK	3.0	6	n/a	n/a	pyFR	2	UP020
+716.084	1.6	559235	WORD	n/a	wordpools/wordpool_EN.txt	OAR	4.0	6	n/a	n/a	pyFR	2	UP020
+718.703	1.6	560576	WORD	n/a	wordpools/wordpool_EN.txt	STAIR	5.0	6	n/a	n/a	pyFR	2	UP020
+721.422	1.6	561968	WORD	n/a	wordpools/wordpool_EN.txt	CAKE	6.0	6	n/a	n/a	pyFR	2	UP020
+723.974	1.6	563275	WORD	n/a	wordpools/wordpool_EN.txt	THREAD	7.0	6	n/a	n/a	pyFR	2	UP020
+726.46	1.6	564548	WORD	n/a	wordpools/wordpool_EN.txt	MAP	8.0	6	n/a	n/a	pyFR	2	UP020
+729.012	1.6	565855	WORD	n/a	wordpools/wordpool_EN.txt	SHOE	9.0	6	n/a	n/a	pyFR	2	UP020
+731.531	1.6	567144	WORD	n/a	wordpools/wordpool_EN.txt	JUDGE	10.0	6	n/a	n/a	pyFR	2	UP020
+733.983	1.6	568400	WORD	n/a	wordpools/wordpool_EN.txt	MOTH	11.0	6	n/a	n/a	pyFR	2	UP020
+736.618	1.6	569749	WORD	n/a	wordpools/wordpool_EN.txt	WHALE	12.0	6	n/a	n/a	pyFR	2	UP020
+739.336	1.6	571141	WORD	n/a	wordpools/wordpool_EN.txt	TRAY	13.0	6	n/a	n/a	pyFR	2	UP020
+741.989	1.6	572499	WORD	n/a	wordpools/wordpool_EN.txt	DEER	14.0	6	n/a	n/a	pyFR	2	UP020
+744.692	1.6	573883	WORD	n/a	wordpools/wordpool_EN.txt	POOL	15.0	6	n/a	n/a	pyFR	2	UP020
+746.31	0.917	574712	START	n/a	n/a	n/a	n/a	6	[-999 -999 -999]	-999.0	pyFR	2	UP020
+747.227	6.489	575181	PROB	6.449	n/a	n/a	n/a	6	[1 4 3]	8.0	pyFR	2	UP020
+753.716	3.669	578504	PROB	3.615	n/a	n/a	n/a	6	[7 6 8]	21.0	pyFR	2	UP020
+757.385	2.952	580383	PROB	2.899	n/a	n/a	n/a	6	[3 9 7]	19.0	pyFR	2	UP020
+760.337	2.77	581894	PROB	2.716	n/a	n/a	n/a	6	[6 1 5]	12.0	pyFR	2	UP020
+763.107	8.802	583312	PROB	8.802	n/a	n/a	n/a	6	[5 4 7]	16.0	pyFR	2	UP020
+771.909	1.14	587819	STOP	n/a	n/a	n/a	n/a	6	[-999 -999 -999]	-999.0	pyFR	2	UP020
+773.049	18.694	588403	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+791.743	17.681	597975	REC_WORD	18.694	n/a	HOLE	-999.0	6	n/a	n/a	pyFR	2	UP020
+809.424	2.85	607028	REC_WORD	36.375	n/a	VAN	-999.0	6	n/a	n/a	pyFR	2	UP020
+812.274	15.087	608487	REC_WORD	39.225	n/a	SEAT	-999.0	6	n/a	n/a	pyFR	2	UP020
+827.361	0.016	616212	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+827.377	1.6	616221	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+830.263	1.6	617698	WORD	n/a	wordpools/wordpool_EN.txt	BED	1.0	7	n/a	n/a	pyFR	2	UP020
+832.749	1.6	618971	WORD	n/a	wordpools/wordpool_EN.txt	RIB	2.0	7	n/a	n/a	pyFR	2	UP020
+835.401	1.6	620329	WORD	n/a	wordpools/wordpool_EN.txt	PEA	3.0	7	n/a	n/a	pyFR	2	UP020
+838.17	1.6	621747	WORD	n/a	wordpools/wordpool_EN.txt	BEAR	4.0	7	n/a	n/a	pyFR	2	UP020
+840.906	1.6	623148	WORD	n/a	wordpools/wordpool_EN.txt	HOLE	5.0	7	n/a	n/a	pyFR	2	UP020
+843.658	1.6	624557	WORD	n/a	wordpools/wordpool_EN.txt	BOARD	6.0	7	n/a	n/a	pyFR	2	UP020
+846.309	1.6	625914	WORD	n/a	wordpools/wordpool_EN.txt	KING	7.0	7	n/a	n/a	pyFR	2	UP020
+848.862	1.6	627222	WORD	n/a	wordpools/wordpool_EN.txt	FLUTE	8.0	7	n/a	n/a	pyFR	2	UP020
+851.448	1.6	628546	WORD	n/a	wordpools/wordpool_EN.txt	SHELL	9.0	7	n/a	n/a	pyFR	2	UP020
+854.133	1.6	629921	WORD	n/a	wordpools/wordpool_EN.txt	STAR	10.0	7	n/a	n/a	pyFR	2	UP020
+856.736	1.6	631253	WORD	n/a	wordpools/wordpool_EN.txt	INK	11.0	7	n/a	n/a	pyFR	2	UP020
+859.505	1.6	632671	WORD	n/a	wordpools/wordpool_EN.txt	NET	12.0	7	n/a	n/a	pyFR	2	UP020
+862.274	1.6	634089	WORD	n/a	wordpools/wordpool_EN.txt	BEACH	13.0	7	n/a	n/a	pyFR	2	UP020
+864.709	1.6	635336	WORD	n/a	wordpools/wordpool_EN.txt	STONE	14.0	7	n/a	n/a	pyFR	2	UP020
+867.294	1.6	636659	WORD	n/a	wordpools/wordpool_EN.txt	PASTE	15.0	7	n/a	n/a	pyFR	2	UP020
+868.914	0.916	637489	START	n/a	n/a	n/a	n/a	7	[-999 -999 -999]	-999.0	pyFR	2	UP020
+869.83	10.092	637958	PROB	10.046	n/a	n/a	n/a	7	[1 7 9]	17.0	pyFR	2	UP020
+879.922	3.136	643125	PROB	3.09	n/a	n/a	n/a	7	[6 3 8]	17.0	pyFR	2	UP020
+883.058	2.535	644731	PROB	2.482	n/a	n/a	n/a	7	[1 4 5]	10.0	pyFR	2	UP020
+885.593	3.611	646029	PROB	3.611	n/a	n/a	n/a	7	[2 5 9]	16.0	pyFR	2	UP020
+889.204	1.211	647878	STOP	n/a	n/a	n/a	n/a	7	[-999 -999 -999]	-999.0	pyFR	2	UP020
+890.415	2.442	648498	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+892.857	1.191	649749	REC_WORD	2.442	n/a	STAR	-999.0	7	n/a	n/a	pyFR	2	UP020
+894.048	2.602	650358	REC_WORD	3.633	n/a	STONE	-999.0	7	n/a	n/a	pyFR	2	UP020
+896.65	30.199	651691	REC_WORD	6.235	n/a	PASTE	-999.0	7	n/a	n/a	pyFR	2	UP020
+926.849	26.169	667154	REC_WORD	36.434	n/a	<>	-999.0	7	n/a	n/a	pyFR	2	UP020
+953.018	0.015	680553	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+953.033	1.6	680561	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+955.702	1.6	681927	WORD	n/a	wordpools/wordpool_EN.txt	SHIELD	1.0	8	n/a	n/a	pyFR	2	UP020
+958.421	1.6	683319	WORD	n/a	wordpools/wordpool_EN.txt	FUDGE	2.0	8	n/a	n/a	pyFR	2	UP020
+960.89	1.6	684584	WORD	n/a	wordpools/wordpool_EN.txt	COW	3.0	8	n/a	n/a	pyFR	2	UP020
+963.592	1.6	685967	WORD	n/a	wordpools/wordpool_EN.txt	SALT	4.0	8	n/a	n/a	pyFR	2	UP020
+966.261	1.6	687334	WORD	n/a	wordpools/wordpool_EN.txt	BEAN	5.0	8	n/a	n/a	pyFR	2	UP020
+968.796	1.6	688632	WORD	n/a	wordpools/wordpool_EN.txt	KITE	6.0	8	n/a	n/a	pyFR	2	UP020
+971.297	1.6	689912	WORD	n/a	wordpools/wordpool_EN.txt	TOOL	7.0	8	n/a	n/a	pyFR	2	UP020
+974.068	1.6	691331	WORD	n/a	wordpools/wordpool_EN.txt	DAD	8.0	8	n/a	n/a	pyFR	2	UP020
+976.853	1.6	692757	WORD	n/a	wordpools/wordpool_EN.txt	SUN	9.0	8	n/a	n/a	pyFR	2	UP020
+979.472	1.6	694098	WORD	n/a	wordpools/wordpool_EN.txt	SKI	10.0	8	n/a	n/a	pyFR	2	UP020
+981.941	1.6	695362	WORD	n/a	wordpools/wordpool_EN.txt	SHARK	11.0	8	n/a	n/a	pyFR	2	UP020
+984.375	1.6	696609	WORD	n/a	wordpools/wordpool_EN.txt	DIME	12.0	8	n/a	n/a	pyFR	2	UP020
+987.178	1.6	698044	WORD	n/a	wordpools/wordpool_EN.txt	SHIP	13.0	8	n/a	n/a	pyFR	2	UP020
+989.697	1.6	699334	WORD	n/a	wordpools/wordpool_EN.txt	FOOT	14.0	8	n/a	n/a	pyFR	2	UP020
+992.249	1.6	700640	WORD	n/a	wordpools/wordpool_EN.txt	MUD	15.0	8	n/a	n/a	pyFR	2	UP020
+993.869	1.033	701470	START	n/a	n/a	n/a	n/a	8	[-999 -999 -999]	-999.0	pyFR	2	UP020
+994.902	10.358	701999	PROB	10.302	n/a	n/a	n/a	8	[5 4 8]	19.0	pyFR	2	UP020
+1005.26	5.605	707302	PROB	5.56	n/a	n/a	n/a	8	[9 8 3]	20.0	pyFR	2	UP020
+1010.865	3.539	710172	PROB	3.539	n/a	n/a	n/a	8	[5 8 9]	22.0	pyFR	2	UP020
+1014.404	1.447	711985	STOP	n/a	n/a	n/a	n/a	8	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1015.851	0.918	712725	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1016.769	2.785	713195	REC_WORD	0.918	n/a	SHIELD	-999.0	8	n/a	n/a	pyFR	2	UP020
+1019.554	2.815	714621	REC_WORD	3.703	n/a	<>	-999.0	8	n/a	n/a	pyFR	2	UP020
+1022.369	7.376	716063	REC_WORD	6.518	n/a	SKIN	-999.0	8	n/a	n/a	pyFR	2	UP020
+1029.745	42.239	719840	REC_WORD	13.894	n/a	<>	-999.0	8	n/a	n/a	pyFR	2	UP020
+1071.984	0.016	741467	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1072.0	1.6	741475	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1074.852	1.6	742936	WORD	n/a	wordpools/wordpool_EN.txt	COIN	1.0	9	n/a	n/a	pyFR	2	UP020
+1077.504	1.6	744294	WORD	n/a	wordpools/wordpool_EN.txt	WOLF	2.0	9	n/a	n/a	pyFR	2	UP020
+1080.123	1.6	745635	WORD	n/a	wordpools/wordpool_EN.txt	SHRIMP	3.0	9	n/a	n/a	pyFR	2	UP020
+1082.642	1.6	746925	WORD	n/a	wordpools/wordpool_EN.txt	OWL	4.0	9	n/a	n/a	pyFR	2	UP020
+1085.377	1.6	748325	WORD	n/a	wordpools/wordpool_EN.txt	ROPE	5.0	9	n/a	n/a	pyFR	2	UP020
+1088.163	1.6	749751	WORD	n/a	wordpools/wordpool_EN.txt	WAND	6.0	9	n/a	n/a	pyFR	2	UP020
+1090.865	1.6	751135	WORD	n/a	wordpools/wordpool_EN.txt	PEN	7.0	9	n/a	n/a	pyFR	2	UP020
+1093.601	1.6	752536	WORD	n/a	wordpools/wordpool_EN.txt	EEL	8.0	9	n/a	n/a	pyFR	2	UP020
+1096.187	1.6	753860	WORD	n/a	wordpools/wordpool_EN.txt	BOOK	9.0	9	n/a	n/a	pyFR	2	UP020
+1098.722	1.6	755158	WORD	n/a	wordpools/wordpool_EN.txt	ROSE	10.0	9	n/a	n/a	pyFR	2	UP020
+1101.508	1.6	756585	WORD	n/a	wordpools/wordpool_EN.txt	ROCK	11.0	9	n/a	n/a	pyFR	2	UP020
+1104.143	1.6	757934	WORD	n/a	wordpools/wordpool_EN.txt	WALL	12.0	9	n/a	n/a	pyFR	2	UP020
+1106.762	1.6	759275	WORD	n/a	wordpools/wordpool_EN.txt	HAT	13.0	9	n/a	n/a	pyFR	2	UP020
+1109.431	1.6	760641	WORD	n/a	wordpools/wordpool_EN.txt	SWAMP	14.0	9	n/a	n/a	pyFR	2	UP020
+1112.033	1.6	761974	WORD	n/a	wordpools/wordpool_EN.txt	SMILE	15.0	9	n/a	n/a	pyFR	2	UP020
+1113.653	0.949	762803	START	n/a	n/a	n/a	n/a	9	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1114.602	5.821	763289	PROB	5.777	n/a	n/a	n/a	9	[1 4 9]	14.0	pyFR	2	UP020
+1120.423	2.186	766270	PROB	2.133	n/a	n/a	n/a	9	[6 4 4]	14.0	pyFR	2	UP020
+1122.609	2.051	767389	PROB	2.011	n/a	n/a	n/a	9	[7 3 4]	14.0	pyFR	2	UP020
+1124.66	2.936	768439	PROB	2.896	n/a	n/a	n/a	9	[7 7 4]	18.0	pyFR	2	UP020
+1127.596	2.969	769942	PROB	2.92	n/a	n/a	n/a	9	[3 7 5]	15.0	pyFR	2	UP020
+1130.565	3.02	771463	PROB	2.975	n/a	n/a	n/a	9	[5 7 2]	14.0	pyFR	2	UP020
+1133.585	3.963	773009	PROB	3.963	n/a	n/a	n/a	9	[3 4 6]	13.0	pyFR	2	UP020
+1137.548	1.142	775038	STOP	n/a	n/a	n/a	n/a	9	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1138.69	2.418	775623	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1141.108	1.464	776861	REC_WORD	2.418	n/a	COIN	-999.0	9	n/a	n/a	pyFR	2	UP020
+1142.572	1.378	777611	REC_WORD	3.882	n/a	WOLF	-999.0	9	n/a	n/a	pyFR	2	UP020
+1143.95	2.323	778316	REC_WORD	5.26	n/a	SHRIMP	-999.0	9	n/a	n/a	pyFR	2	UP020
+1146.273	2.548	779506	REC_WORD	7.583	n/a	OWL	-999.0	9	n/a	n/a	pyFR	2	UP020
+1148.821	37.993	780810	REC_WORD	10.131	n/a	PEN	-999.0	9	n/a	n/a	pyFR	2	UP020
+1186.814	0.015	800264	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1186.829	1.6	800272	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1189.682	1.6	801732	WORD	n/a	wordpools/wordpool_EN.txt	RUG	1.0	10	n/a	n/a	pyFR	2	UP020
+1192.401	1.6	803125	WORD	n/a	wordpools/wordpool_EN.txt	HILL	2.0	10	n/a	n/a	pyFR	2	UP020
+1195.136	1.6	804525	WORD	n/a	wordpools/wordpool_EN.txt	CUP	3.0	10	n/a	n/a	pyFR	2	UP020
+1197.838	1.6	805909	WORD	n/a	wordpools/wordpool_EN.txt	ARK	4.0	10	n/a	n/a	pyFR	2	UP020
+1200.457	1.6	807250	WORD	n/a	wordpools/wordpool_EN.txt	SAIL	5.0	10	n/a	n/a	pyFR	2	UP020
+1203.243	1.6	808676	WORD	n/a	wordpools/wordpool_EN.txt	FLAG	6.0	10	n/a	n/a	pyFR	2	UP020
+1206.045	1.6	810111	WORD	n/a	wordpools/wordpool_EN.txt	PIE	7.0	10	n/a	n/a	pyFR	2	UP020
+1208.614	1.6	811426	WORD	n/a	wordpools/wordpool_EN.txt	PARK	8.0	10	n/a	n/a	pyFR	2	UP020
+1211.083	1.6	812690	WORD	n/a	wordpools/wordpool_EN.txt	GIRL	9.0	10	n/a	n/a	pyFR	2	UP020
+1213.518	1.6	813937	WORD	n/a	wordpools/wordpool_EN.txt	GRAPE	10.0	10	n/a	n/a	pyFR	2	UP020
+1215.987	1.6	815201	WORD	n/a	wordpools/wordpool_EN.txt	DRESS	11.0	10	n/a	n/a	pyFR	2	UP020
+1218.456	1.6	816466	WORD	n/a	wordpools/wordpool_EN.txt	CLOCK	12.0	10	n/a	n/a	pyFR	2	UP020
+1221.092	1.6	817815	WORD	n/a	wordpools/wordpool_EN.txt	ROOF	13.0	10	n/a	n/a	pyFR	2	UP020
+1223.827	1.6	819216	WORD	n/a	wordpools/wordpool_EN.txt	STEAK	14.0	10	n/a	n/a	pyFR	2	UP020
+1226.513	1.6	820591	WORD	n/a	wordpools/wordpool_EN.txt	JAIL	15.0	10	n/a	n/a	pyFR	2	UP020
+1228.132	0.983	821420	START	n/a	n/a	n/a	n/a	10	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1229.115	3.569	821923	PROB	3.522	n/a	n/a	n/a	10	[1 1 3]	5.0	pyFR	2	UP020
+1232.684	1.752	823751	PROB	1.703	n/a	n/a	n/a	10	[5 5 1]	11.0	pyFR	2	UP020
+1234.436	2.769	824648	PROB	2.728	n/a	n/a	n/a	10	[8 5 6]	19.0	pyFR	2	UP020
+1237.205	4.287	826066	PROB	4.231	n/a	n/a	n/a	10	[1 7 4]	12.0	pyFR	2	UP020
+1241.492	4.27	828261	PROB	4.216	n/a	n/a	n/a	10	[7 4 7]	18.0	pyFR	2	UP020
+1245.762	6.298	830447	PROB	6.298	n/a	n/a	n/a	10	[9 8 7]	24.0	pyFR	2	UP020
+1252.06	1.159	833672	STOP	n/a	n/a	n/a	n/a	10	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1253.219	3.648	834265	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1256.867	11.155	836133	REC_WORD	3.648	n/a	GIRL	-999.0	10	n/a	n/a	pyFR	2	UP020
+1268.022	38.776	841845	REC_WORD	14.803	n/a	ROOF	-999.0	10	n/a	n/a	pyFR	2	UP020
+1306.798	0.015	861700	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1306.813	1.6	861707	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1309.465	1.6	863065	WORD	n/a	wordpools/wordpool_EN.txt	RAIN	1.0	11	n/a	n/a	pyFR	2	UP020
+1311.951	1.6	864338	WORD	n/a	wordpools/wordpool_EN.txt	SPARK	2.0	11	n/a	n/a	pyFR	2	UP020
+1314.653	1.6	865722	WORD	n/a	wordpools/wordpool_EN.txt	WEB	3.0	11	n/a	n/a	pyFR	2	UP020
+1317.439	1.6	867148	WORD	n/a	wordpools/wordpool_EN.txt	BREAD	4.0	11	n/a	n/a	pyFR	2	UP020
+1320.208	1.6	868566	WORD	n/a	wordpools/wordpool_EN.txt	FARM	5.0	11	n/a	n/a	pyFR	2	UP020
+1322.66	1.6	869821	WORD	n/a	wordpools/wordpool_EN.txt	DOLL	6.0	11	n/a	n/a	pyFR	2	UP020
+1325.294	1.6	871170	WORD	n/a	wordpools/wordpool_EN.txt	TREE	7.0	11	n/a	n/a	pyFR	2	UP020
+1327.864	1.6	872486	WORD	n/a	wordpools/wordpool_EN.txt	TRAIN	8.0	11	n/a	n/a	pyFR	2	UP020
+1330.299	1.6	873733	WORD	n/a	wordpools/wordpool_EN.txt	HOOF	9.0	11	n/a	n/a	pyFR	2	UP020
+1332.818	1.6	875023	WORD	n/a	wordpools/wordpool_EN.txt	SLEEVE	10.0	11	n/a	n/a	pyFR	2	UP020
+1335.271	1.6	876279	WORD	n/a	wordpools/wordpool_EN.txt	LAMB	11.0	11	n/a	n/a	pyFR	2	UP020
+1337.839	1.6	877594	WORD	n/a	wordpools/wordpool_EN.txt	SNAKE	12.0	11	n/a	n/a	pyFR	2	UP020
+1340.542	1.6	878978	WORD	n/a	wordpools/wordpool_EN.txt	HEN	13.0	11	n/a	n/a	pyFR	2	UP020
+1343.211	1.6	880344	WORD	n/a	wordpools/wordpool_EN.txt	WEED	14.0	11	n/a	n/a	pyFR	2	UP020
+1345.996	1.6	881770	WORD	n/a	wordpools/wordpool_EN.txt	TOAST	15.0	11	n/a	n/a	pyFR	2	UP020
+1347.616	1.199	882600	START	n/a	n/a	n/a	n/a	11	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1348.815	3.687	883214	PROB	3.645	n/a	n/a	n/a	11	[9 7 5]	21.0	pyFR	2	UP020
+1352.502	3.486	885102	PROB	3.43	n/a	n/a	n/a	11	[3 5 7]	15.0	pyFR	2	UP020
+1355.988	1.685	886887	PROB	1.632	n/a	n/a	n/a	11	[3 1 3]	7.0	pyFR	2	UP020
+1357.673	2.085	887749	PROB	2.043	n/a	n/a	n/a	11	[3 7 6]	16.0	pyFR	2	UP020
+1359.758	2.202	888817	PROB	2.15	n/a	n/a	n/a	11	[4 2 7]	13.0	pyFR	2	UP020
+1361.96	2.235	889944	PROB	2.188	n/a	n/a	n/a	11	[5 8 2]	15.0	pyFR	2	UP020
+1364.195	3.857	891089	PROB	3.857	n/a	n/a	n/a	11	[4 4 5]	13.0	pyFR	2	UP020
+1368.052	1.148	893064	STOP	n/a	n/a	n/a	n/a	11	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1369.2	1.43	893651	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1370.63	0.988	894384	REC_WORD	1.43	n/a	RAIN	-999.0	11	n/a	n/a	pyFR	2	UP020
+1371.618	3.054	894890	REC_WORD	2.418	n/a	SPARK	-999.0	11	n/a	n/a	pyFR	2	UP020
+1374.672	70.674	896453	REC_WORD	5.472	n/a	HEN	-999.0	11	n/a	n/a	pyFR	2	UP020
+1445.346	0.016	932641	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1445.362	1.6	932649	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1448.165	1.6	934084	WORD	n/a	wordpools/wordpool_EN.txt	MAT	1.0	12	n/a	n/a	pyFR	2	UP020
+1450.934	1.6	935502	WORD	n/a	wordpools/wordpool_EN.txt	SOAP	2.0	12	n/a	n/a	pyFR	2	UP020
+1453.703	1.6	936920	WORD	n/a	wordpools/wordpool_EN.txt	TOY	3.0	12	n/a	n/a	pyFR	2	UP020
+1456.139	1.6	938167	WORD	n/a	wordpools/wordpool_EN.txt	KEY	4.0	12	n/a	n/a	pyFR	2	UP020
+1458.908	1.6	939585	WORD	n/a	wordpools/wordpool_EN.txt	STOVE	5.0	12	n/a	n/a	pyFR	2	UP020
+1461.359	1.6	940840	WORD	n/a	wordpools/wordpool_EN.txt	YARD	6.0	12	n/a	n/a	pyFR	2	UP020
+1463.795	1.6	942087	WORD	n/a	wordpools/wordpool_EN.txt	NOSE	7.0	12	n/a	n/a	pyFR	2	UP020
+1466.313	1.6	943376	WORD	n/a	wordpools/wordpool_EN.txt	SINK	8.0	12	n/a	n/a	pyFR	2	UP020
+1468.816	1.6	944658	WORD	n/a	wordpools/wordpool_EN.txt	SNOW	9.0	12	n/a	n/a	pyFR	2	UP020
+1471.384	1.6	945973	WORD	n/a	wordpools/wordpool_EN.txt	PURSE	10.0	12	n/a	n/a	pyFR	2	UP020
+1473.82	1.6	947220	WORD	n/a	wordpools/wordpool_EN.txt	SCHOOL	11.0	12	n/a	n/a	pyFR	2	UP020
+1476.489	1.6	948587	WORD	n/a	wordpools/wordpool_EN.txt	ELF	12.0	12	n/a	n/a	pyFR	2	UP020
+1478.974	1.6	949859	WORD	n/a	wordpools/wordpool_EN.txt	BALL	13.0	12	n/a	n/a	pyFR	2	UP020
+1481.627	1.6	951218	WORD	n/a	wordpools/wordpool_EN.txt	BUSH	14.0	12	n/a	n/a	pyFR	2	UP020
+1484.246	1.6	952559	WORD	n/a	wordpools/wordpool_EN.txt	WING	15.0	12	n/a	n/a	pyFR	2	UP020
+1485.865	0.949	953388	START	n/a	n/a	n/a	n/a	12	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1486.814	4.553	953874	PROB	4.509	n/a	n/a	n/a	12	[1 7 5]	13.0	pyFR	2	UP020
+1491.367	2.804	956205	PROB	2.757	n/a	n/a	n/a	12	[6 9 2]	17.0	pyFR	2	UP020
+1494.171	2.719	957641	PROB	2.665	n/a	n/a	n/a	12	[4 3 9]	16.0	pyFR	2	UP020
+1496.89	3.786	959033	PROB	3.731	n/a	n/a	n/a	12	[8 6 9]	23.0	pyFR	2	UP020
+1500.676	2.135	960971	PROB	2.088	n/a	n/a	n/a	12	[1 5 2]	8.0	pyFR	2	UP020
+1502.811	2.535	962065	PROB	2.48	n/a	n/a	n/a	12	[6 4 9]	19.0	pyFR	2	UP020
+1505.346	1.882	963363	PROB	1.882	n/a	n/a	n/a	12	[2 2 7]	11.0	pyFR	2	UP020
+1507.228	1.222	964326	STOP	n/a	n/a	n/a	n/a	12	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1508.45	0.789	964952	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1509.239	1.126	965356	REC_WORD	0.789	n/a	MAT	-999.0	12	n/a	n/a	pyFR	2	UP020
+1510.365	1.208	965932	REC_WORD	1.915	n/a	SOAP	-999.0	12	n/a	n/a	pyFR	2	UP020
+1511.573	6.876	966551	REC_WORD	3.123	n/a	KEY	-999.0	12	n/a	n/a	pyFR	2	UP020
+1518.449	16.47	970072	REC_WORD	9.999	n/a	NURSE	-999.0	12	n/a	n/a	pyFR	2	UP020
+1534.919	24.224	978505	REC_WORD	26.469	n/a	TIE	-999.0	12	n/a	n/a	pyFR	2	UP020
+1559.143	0.015	990908	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1559.158	1.6	990916	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1561.961	1.6	992351	WORD	n/a	wordpools/wordpool_EN.txt	FACE	1.0	13	n/a	n/a	pyFR	2	UP020
+1564.546	1.6	993675	WORD	n/a	wordpools/wordpool_EN.txt	DESK	2.0	13	n/a	n/a	pyFR	2	UP020
+1567.082	1.6	994973	WORD	n/a	wordpools/wordpool_EN.txt	DUCK	3.0	13	n/a	n/a	pyFR	2	UP020
+1569.617	1.6	996271	WORD	n/a	wordpools/wordpool_EN.txt	ARM	4.0	13	n/a	n/a	pyFR	2	UP020
+1572.086	1.6	997536	WORD	n/a	wordpools/wordpool_EN.txt	GLASS	5.0	13	n/a	n/a	pyFR	2	UP020
+1574.688	1.6	998868	WORD	n/a	wordpools/wordpool_EN.txt	SQUARE	6.0	13	n/a	n/a	pyFR	2	UP020
+1577.157	1.6	1000132	WORD	n/a	wordpools/wordpool_EN.txt	JAR	7.0	13	n/a	n/a	pyFR	2	UP020
+1579.926	1.6	1001550	WORD	n/a	wordpools/wordpool_EN.txt	FOX	8.0	13	n/a	n/a	pyFR	2	UP020
+1582.678	1.6	1002959	WORD	n/a	wordpools/wordpool_EN.txt	EGG	9.0	13	n/a	n/a	pyFR	2	UP020
+1585.414	1.6	1004360	WORD	n/a	wordpools/wordpool_EN.txt	TEETH	10.0	13	n/a	n/a	pyFR	2	UP020
+1588.083	1.6	1005727	WORD	n/a	wordpools/wordpool_EN.txt	POLE	11.0	13	n/a	n/a	pyFR	2	UP020
+1590.902	1.6	1007170	WORD	n/a	wordpools/wordpool_EN.txt	LAWN	12.0	13	n/a	n/a	pyFR	2	UP020
+1593.504	1.6	1008502	WORD	n/a	wordpools/wordpool_EN.txt	PEARL	13.0	13	n/a	n/a	pyFR	2	UP020
+1596.139	1.6	1009851	WORD	n/a	wordpools/wordpool_EN.txt	CAPE	14.0	13	n/a	n/a	pyFR	2	UP020
+1598.642	1.6	1011133	WORD	n/a	wordpools/wordpool_EN.txt	DOG	15.0	13	n/a	n/a	pyFR	2	UP020
+1600.261	0.899	1011962	START	n/a	n/a	n/a	n/a	13	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1601.16	4.186	1012422	PROB	4.131	n/a	n/a	n/a	13	[1 4 9]	14.0	pyFR	2	UP020
+1605.346	2.82	1014566	PROB	2.77	n/a	n/a	n/a	13	[2 6 4]	12.0	pyFR	2	UP020
+1608.166	2.184	1016010	PROB	2.133	n/a	n/a	n/a	13	[1 6 3]	10.0	pyFR	2	UP020
+1610.35	5.021	1017128	PROB	4.965	n/a	n/a	n/a	13	[7 3 9]	1.0	pyFR	2	UP020
+1615.371	3.788	1019699	PROB	3.737	n/a	n/a	n/a	13	[1 9 5]	15.0	pyFR	2	UP020
+1619.159	3.781	1021639	PROB	3.781	n/a	n/a	n/a	13	[9 4 8]	21.0	pyFR	2	UP020
+1622.94	1.09	1023575	STOP	n/a	n/a	n/a	n/a	13	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1624.03	1.11	1024133	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1625.14	1.17	1024701	REC_WORD	1.11	n/a	EGG	-999.0	13	n/a	n/a	pyFR	2	UP020
+1626.31	1.889	1025300	REC_WORD	2.28	n/a	TEETH	-999.0	13	n/a	n/a	pyFR	2	UP020
+1628.199	1.302	1026267	REC_WORD	4.169	n/a	POOL	-999.0	13	n/a	n/a	pyFR	2	UP020
+1629.501	17.075	1026934	REC_WORD	5.471	n/a	LAWN	-999.0	13	n/a	n/a	pyFR	2	UP020
+1646.576	33.717	1035677	REC_WORD	22.546	n/a	CAPE	-999.0	13	n/a	n/a	pyFR	2	UP020
+1680.293	0.016	1052941	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1680.309	1.6	1052949	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1683.079	1.6	1054368	WORD	n/a	wordpools/wordpool_EN.txt	BOMB	1.0	14	n/a	n/a	pyFR	2	UP020
+1685.631	1.6	1055674	WORD	n/a	wordpools/wordpool_EN.txt	MOUSE	2.0	14	n/a	n/a	pyFR	2	UP020
+1688.332	1.6	1057057	WORD	n/a	wordpools/wordpool_EN.txt	PRINCE	3.0	14	n/a	n/a	pyFR	2	UP020
+1690.836	1.6	1058339	WORD	n/a	wordpools/wordpool_EN.txt	DITCH	4.0	14	n/a	n/a	pyFR	2	UP020
+1693.505	1.6	1059706	WORD	n/a	wordpools/wordpool_EN.txt	GEESE	5.0	14	n/a	n/a	pyFR	2	UP020
+1695.94	1.6	1060953	WORD	n/a	wordpools/wordpool_EN.txt	BLOOM	6.0	14	n/a	n/a	pyFR	2	UP020
+1698.575	1.6	1062302	WORD	n/a	wordpools/wordpool_EN.txt	STEAM	7.0	14	n/a	n/a	pyFR	2	UP020
+1701.393	1.6	1063745	WORD	n/a	wordpools/wordpool_EN.txt	SLIME	8.0	14	n/a	n/a	pyFR	2	UP020
+1703.93	1.6	1065044	WORD	n/a	wordpools/wordpool_EN.txt	GOLD	9.0	14	n/a	n/a	pyFR	2	UP020
+1706.649	1.6	1066436	WORD	n/a	wordpools/wordpool_EN.txt	BEAK	10.0	14	n/a	n/a	pyFR	2	UP020
+1709.168	1.6	1067726	WORD	n/a	wordpools/wordpool_EN.txt	BRUSH	11.0	14	n/a	n/a	pyFR	2	UP020
+1711.97	1.6	1069161	WORD	n/a	wordpools/wordpool_EN.txt	FOOD	12.0	14	n/a	n/a	pyFR	2	UP020
+1714.605	1.6	1070510	WORD	n/a	wordpools/wordpool_EN.txt	CAGE	13.0	14	n/a	n/a	pyFR	2	UP020
+1717.124	1.6	1071800	WORD	n/a	wordpools/wordpool_EN.txt	LAKE	14.0	14	n/a	n/a	pyFR	2	UP020
+1719.81	1.6	1073175	WORD	n/a	wordpools/wordpool_EN.txt	LAND	15.0	14	n/a	n/a	pyFR	2	UP020
+1721.43	1.015	1074005	START	n/a	n/a	n/a	n/a	14	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1722.445	14.679	1074524	PROB	14.623	n/a	n/a	n/a	14	[4 9 6]	19.0	pyFR	2	UP020
+1737.124	3.303	1082040	PROB	3.247	n/a	n/a	n/a	14	[2 3 4]	9.0	pyFR	2	UP020
+1740.427	1.985	1083732	PROB	1.985	n/a	n/a	n/a	14	[6 4 5]	15.0	pyFR	2	UP020
+1742.412	1.135	1084748	STOP	n/a	n/a	n/a	n/a	14	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1743.547	2.578	1085329	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1746.125	1.51	1086649	REC_WORD	2.578	n/a	BOMB	-999.0	14	n/a	n/a	pyFR	2	UP020
+1747.635	2.217	1087422	REC_WORD	4.088	n/a	MOUSE	-999.0	14	n/a	n/a	pyFR	2	UP020
+1749.852	6.32	1088557	REC_WORD	6.305	n/a	PRICE	-999.0	14	n/a	n/a	pyFR	2	UP020
+1756.172	37.084	1091794	REC_WORD	12.625	n/a	PITCH	-999.0	14	n/a	n/a	pyFR	2	UP020
+1793.256	0.015	1110782	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1793.271	1.6	1110789	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1795.99	1.6	1112182	WORD	n/a	wordpools/wordpool_EN.txt	THUMB	1.0	15	n/a	n/a	pyFR	2	UP020
+1798.743	1.6	1113591	WORD	n/a	wordpools/wordpool_EN.txt	BIRD	2.0	15	n/a	n/a	pyFR	2	UP020
+1801.478	1.6	1114992	WORD	n/a	wordpools/wordpool_EN.txt	BROOM	3.0	15	n/a	n/a	pyFR	2	UP020
+1804.031	1.6	1116299	WORD	n/a	wordpools/wordpool_EN.txt	STORE	4.0	15	n/a	n/a	pyFR	2	UP020
+1806.466	1.6	1117546	WORD	n/a	wordpools/wordpool_EN.txt	CLOTH	5.0	15	n/a	n/a	pyFR	2	UP020
+1809.235	1.6	1118963	WORD	n/a	wordpools/wordpool_EN.txt	WORM	6.0	15	n/a	n/a	pyFR	2	UP020
+1811.821	1.6	1120288	WORD	n/a	wordpools/wordpool_EN.txt	BAND	7.0	15	n/a	n/a	pyFR	2	UP020
+1814.423	1.6	1121620	WORD	n/a	wordpools/wordpool_EN.txt	SPONGE	8.0	15	n/a	n/a	pyFR	2	UP020
+1817.225	1.6	1123055	WORD	n/a	wordpools/wordpool_EN.txt	FOAM	9.0	15	n/a	n/a	pyFR	2	UP020
+1819.894	1.6	1124421	WORD	n/a	wordpools/wordpool_EN.txt	WHEEL	10.0	15	n/a	n/a	pyFR	2	UP020
+1822.646	1.6	1125830	WORD	n/a	wordpools/wordpool_EN.txt	DART	11.0	15	n/a	n/a	pyFR	2	UP020
+1825.165	1.6	1127120	WORD	n/a	wordpools/wordpool_EN.txt	SMOKE	12.0	15	n/a	n/a	pyFR	2	UP020
+1827.8	1.6	1128469	WORD	n/a	wordpools/wordpool_EN.txt	WOOD	13.0	15	n/a	n/a	pyFR	2	UP020
+1830.335	1.6	1129767	WORD	n/a	wordpools/wordpool_EN.txt	PIT	14.0	15	n/a	n/a	pyFR	2	UP020
+1832.822	1.6	1131041	WORD	n/a	wordpools/wordpool_EN.txt	AXE	15.0	15	n/a	n/a	pyFR	2	UP020
+1834.441	0.816	1131870	START	n/a	n/a	n/a	n/a	15	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1835.257	5.454	1132288	PROB	5.403	n/a	n/a	n/a	15	[1 9 9]	19.0	pyFR	2	UP020
+1840.711	3.053	1135080	PROB	2.997	n/a	n/a	n/a	15	[9 8 3]	20.0	pyFR	2	UP020
+1843.764	2.352	1136643	PROB	2.304	n/a	n/a	n/a	15	[3 4 7]	14.0	pyFR	2	UP020
+1846.116	2.802	1137848	PROB	2.752	n/a	n/a	n/a	15	[7 3 4]	14.0	pyFR	2	UP020
+1848.918	5.726	1139283	PROB	5.726	n/a	n/a	n/a	15	[4 3 9]	16.0	pyFR	2	UP020
+1854.644	1.131	1142214	STOP	n/a	n/a	n/a	n/a	15	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1855.775	1.115	1142793	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1856.89	1.245	1143364	REC_WORD	1.115	n/a	THUMB	-999.0	15	n/a	n/a	pyFR	2	UP020
+1858.135	2.44	1144002	REC_WORD	2.36	n/a	BIRD	-999.0	15	n/a	n/a	pyFR	2	UP020
+1860.575	6.411	1145251	REC_WORD	4.8	n/a	SMOKE	-999.0	15	n/a	n/a	pyFR	2	UP020
+1866.986	41.683	1148534	REC_WORD	11.211	n/a	FOAM	-999.0	15	n/a	n/a	pyFR	2	UP020
+1908.669	0.016	1169877	TRIAL	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1908.685	1.6	1169885	ORIENT	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1911.704	1.6	1171431	WORD	n/a	wordpools/wordpool_EN.txt	CALF	1.0	16	n/a	n/a	pyFR	2	UP020
+1914.372	1.6	1172797	WORD	n/a	wordpools/wordpool_EN.txt	TOOTH	2.0	16	n/a	n/a	pyFR	2	UP020
+1916.942	1.6	1174113	WORD	n/a	wordpools/wordpool_EN.txt	TANK	3.0	16	n/a	n/a	pyFR	2	UP020
+1919.528	1.6	1175437	WORD	n/a	wordpools/wordpool_EN.txt	JET	4.0	16	n/a	n/a	pyFR	2	UP020
+1922.163	1.6	1176786	WORD	n/a	wordpools/wordpool_EN.txt	MOLE	5.0	16	n/a	n/a	pyFR	2	UP020
+1924.715	1.6	1178093	WORD	n/a	wordpools/wordpool_EN.txt	PEACH	6.0	16	n/a	n/a	pyFR	2	UP020
+1927.451	1.6	1179494	WORD	n/a	wordpools/wordpool_EN.txt	TOAD	7.0	16	n/a	n/a	pyFR	2	UP020
+1930.07	1.6	1180835	WORD	n/a	wordpools/wordpool_EN.txt	HORN	8.0	16	n/a	n/a	pyFR	2	UP020
+1932.672	1.6	1182167	WORD	n/a	wordpools/wordpool_EN.txt	CONE	9.0	16	n/a	n/a	pyFR	2	UP020
+1935.157	1.6	1183440	WORD	n/a	wordpools/wordpool_EN.txt	MOUTH	10.0	16	n/a	n/a	pyFR	2	UP020
+1937.826	1.6	1184806	WORD	n/a	wordpools/wordpool_EN.txt	BRANCH	11.0	16	n/a	n/a	pyFR	2	UP020
+1940.377	1.6	1186112	WORD	n/a	wordpools/wordpool_EN.txt	VASE	12.0	16	n/a	n/a	pyFR	2	UP020
+1942.897	1.6	1187403	WORD	n/a	wordpools/wordpool_EN.txt	GUARD	13.0	16	n/a	n/a	pyFR	2	UP020
+1945.549	1.6	1188761	WORD	n/a	wordpools/wordpool_EN.txt	FLAME	14.0	16	n/a	n/a	pyFR	2	UP020
+1948.367	1.6	1190204	WORD	n/a	wordpools/wordpool_EN.txt	TRASH	15.0	16	n/a	n/a	pyFR	2	UP020
+1949.988	1.183	1191034	START	n/a	n/a	n/a	n/a	16	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1951.171	2.669	1191639	PROB	2.626	n/a	n/a	n/a	16	[2 4 5]	11.0	pyFR	2	UP020
+1953.84	1.901	1193006	PROB	1.852	n/a	n/a	n/a	16	[4 8 1]	13.0	pyFR	2	UP020
+1955.741	2.202	1193979	PROB	2.151	n/a	n/a	n/a	16	[9 3 3]	15.0	pyFR	2	UP020
+1957.943	5.571	1195107	PROB	5.517	n/a	n/a	n/a	16	[5 3 9]	17.0	pyFR	2	UP020
+1963.514	2.052	1197959	PROB	2.01	n/a	n/a	n/a	16	[1 7 2]	10.0	pyFR	2	UP020
+1965.566	1.918	1199010	PROB	1.878	n/a	n/a	n/a	16	[5 6 2]	13.0	pyFR	2	UP020
+1967.484	2.136	1199992	PROB	2.088	n/a	n/a	n/a	16	[8 2 5]	15.0	pyFR	2	UP020
+1969.62	7.968	1201086	PROB	7.968	n/a	n/a	n/a	16	[5 2 6]	13.0	pyFR	2	UP020
+1977.588	1.057	1205166	STOP	n/a	n/a	n/a	n/a	16	[-999 -999 -999]	-999.0	pyFR	2	UP020
+1978.645	1.726	1205707	REC_START	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+1980.371	2.164	1206591	REC_WORD	1.726	n/a	TOAD	-999.0	16	n/a	n/a	pyFR	2	UP020
+1982.535	3.736	1207699	REC_WORD	3.89	n/a	HORN	-999.0	16	n/a	n/a	pyFR	2	UP020
+1986.271	7.04	1209612	REC_WORD	7.626	n/a	COACH	-999.0	16	n/a	n/a	pyFR	2	UP020
+1993.311	2.215	1213216	REC_WORD	14.666	n/a	VASE	-999.0	16	n/a	n/a	pyFR	2	UP020
+1995.526	3.893	1214350	REC_WORD	16.881	n/a	<>	-999.0	16	n/a	n/a	pyFR	2	UP020
+1999.419	3.676	1216344	REC_WORD	20.774	n/a	<>	-999.0	16	n/a	n/a	pyFR	2	UP020
+2003.095	5.501	1218226	REC_WORD	24.45	n/a	<>	-999.0	16	n/a	n/a	pyFR	2	UP020
+2008.596	1.0	1221043	REC_WORD	29.951	n/a	SMOKE	-999.0	16	n/a	n/a	pyFR	2	UP020
+2009.596	6.985	1221555	REC_WORD	30.951	n/a	<>	-999.0	16	n/a	n/a	pyFR	2	UP020
+2016.581	603.852	1225131	REC_WORD	37.936	n/a	<>	-999.0	16	n/a	n/a	pyFR	2	UP020
+2620.433	0.103	1534323	SESS_END	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
+2620.536	0.0	1534376	E	n/a	n/a	n/a	-999.0	-999	n/a	n/a	pyFR	2	UP020
