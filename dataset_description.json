@@ -7,5 +7,9 @@
         "Michael J. Kahana"
     ],
     "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Thomas Jefferson University Hospital.",
-    "License": "CC0"
+    "License": "CC0",
+    "Funding": [
+        "NIH: MH055687",
+        "NIH: MH061975"
+    ]
 }
