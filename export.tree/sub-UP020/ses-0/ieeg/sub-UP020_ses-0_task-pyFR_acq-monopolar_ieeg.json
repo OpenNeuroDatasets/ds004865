@@ -1,0 +1,21 @@
+{
+    "TaskName": "pyFR",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": 60.0,
+    "SamplingFrequency": 512.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 1890.0,
+    "RecordingType": "continuous",
+    "iEEGReference": "monopolar",
+    "ECOGChannelCount": 86,
+    "SEEGChannelCount": 0,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "TaskDescription": "delayed free recall of word lists",
+    "HardwareFilters": "n/a",
+    "ElectricalStimulation": false
+}

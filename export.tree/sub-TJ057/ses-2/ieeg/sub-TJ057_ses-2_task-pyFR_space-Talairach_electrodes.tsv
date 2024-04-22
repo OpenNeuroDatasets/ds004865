@@ -1,0 +1,73 @@
+name	x	y	z	size	group	hemisphere	type	lobe	region1	region2	gray_white	mni.x	mni.y	mni.z
+RFA1	38.0	7.0	61.0	-999	RFA	R	n/a	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 4_6	Gray Matter	38.0093	3.89577	66.8853
+RFA2	45.0	5.0	55.0	-999	RFA	R	n/a	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 4_6	Gray Matter	45.8	2.59818	60.3156
+RFA3	51.0	3.0	44.0	-999	RFA	R	n/a	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	51.0461	0.83799	47.8807
+RFA4	54.0	0.0	38.0	-999	RFA	R	n/a	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	54.5216	-1.45662	41.3602
+RFA5	55.0	-2.0	27.0	-999	RFA	R	n/a	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	55.8526	-3.16005	29.145
+RFA6	58.0	-4.0	16.0	-999	RFA	R	n/a	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	58.1517	-4.75294	16.898
+RFA7	59.0	-6.0	5.0	-999	RFA	R	n/a	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	59.4826	-6.45637	4.68276
+RFA8	62.0	-8.0	-6.0	-999	RFA	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	62.7921	-8.43784	-7.68885
+RFB1	42.0	-15.0	64.0	-999	RFB	R	n/a	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	42.5316	-19.1018	68.3766
+RFB2	48.0	-16.0	58.0	-999	RFB	R	n/a	Parietal Lobe	Postcentral Gyrus	Brodmann area 1_2_3_5	Gray Matter	48.3017	-19.6223	62.0564
+RFB3	53.0	-16.0	47.0	-999	RFB	R	n/a	Parietal Lobe	Postcentral Gyrus	Brodmann area 1_2_3_5	Gray Matter	53.2952	-18.3876	50.1798
+RFB4	56.0	-16.0	36.0	-999	RFB	R	n/a	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	56.3944	-17.8732	38.2735
+RFB5	57.0	-16.0	25.0	-999	RFB	R	n/a	Parietal Lobe	Postcentral Gyrus	Brodmann area 1_2_3_5	Gray Matter	58.0411	-17.5248	26.4146
+RFB6	59.0	-16.0	14.0	-999	RFB	R	n/a	Temporal Lobe	Transverse Temporal Gyrus	Brodmann area 41_42	Gray Matter	59.1616	-16.7325	14.6646
+RFB7	60.0	-15.0	3.0	-999	RFB	R	n/a	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	60.2821	-15.9403	2.91458
+RFB8	63.0	-16.0	-7.0	-999	RFB	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	63.9075	-15.8697	-9.10059
+RTOA1	24.0	-75.0	-6.0	-999	RTOA	R	n/a	Occipital Lobe	Lingual Gyrus	Brodmann area 18	Gray Matter	23.761	-77.2315	-12.2005
+RTOA2	34.0	-75.0	-7.0	-999	RTOA	R	n/a	Occipital Lobe	Inferior Occipital Gyrus	Brodmann area 19	Gray Matter	34.4964	-77.013	-12.7348
+RTOA3	44.0	-74.0	-2.0	-999	RTOA	R	n/a	Occipital Lobe	Inferior Occipital Gyrus	Brodmann area 19	Gray Matter	44.7873	-75.6654	-7.12272
+RTOA4	52.0	-69.0	3.0	-999	RTOA	R	n/a	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 37	Gray Matter	52.3629	-71.1005	-0.780146
+RTOA5	55.0	-61.0	9.0	-999	RTOA	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	55.7288	-62.9847	6.43353
+RTOA6	57.0	-53.0	15.0	-999	RTOA	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	57.6843	-55.5341	13.6015
+RTOA7	58.0	-45.0	22.0	-999	RTOA	R	n/a	Temporal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	58.1031	-47.2512	21.0031
+RTOA8	58.0	-37.0	28.0	-999	RTOA	R	n/a	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	58.5641	-39.4673	28.3118
+RTOB1	-2.0	-91.0	8.0	-999	RTOB	L	n/a	Occipital Lobe	Cuneus	Brodmann area 18	Gray Matter	-2.28519	-93.8024	3.92863
+RTOB2	4.0	-98.0	7.0	-999	RTOB	R	n/a	Occipital Lobe	Cuneus	Brodmann area 18	Gray Matter	3.75575	-101.68	2.17258
+RTOB3	14.0	-100.0	6.0	-999	RTOB	R	n/a	Occipital Lobe	Cuneus	Brodmann area 18	Gray Matter	14.1332	-103.014	1.37498
+RTOB4	24.0	-97.0	6.0	-999	RTOB	R	n/a	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter	24.1739	-100.355	1.32188
+RTOB5	33.0	-92.0	12.0	-999	RTOB	R	n/a	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter	33.202	-95.6239	7.61694
+RTOB6	40.0	-85.0	12.0	-999	RTOB	R	n/a	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter	40.4013	-88.2499	8.57361
+RTOB7	46.0	-76.0	13.0	-999	RTOB	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	46.4639	-78.9901	9.93408
+RTOB8	50.0	-66.0	19.0	-999	RTOB	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	50.1456	-68.8224	17.5041
+RPT1	45.0	-62.0	36.0	-999	RPT	R	n/a	Parietal Lobe	Angular Gyrus	Brodmann area 39	Gray Matter	45.9075	-65.7674	36.0379
+RPT2	50.0	-55.0	32.0	-999	RPT	R	n/a	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	50.478	-57.8577	31.3154
+RPT3	54.0	-49.0	21.0	-999	RPT	R	n/a	Temporal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	54.5245	-51.1877	20.4783
+RPT4	59.0	-43.0	11.0	-999	RPT	R	n/a	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	59.0974	-44.9614	9.53232
+RPT5	61.0	-38.0	6.0	-999	RPT	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 22	Gray Matter	61.4575	-39.8241	4.42369
+RPT6	63.0	-32.0	-4.0	-999	RPT	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	63.5255	-32.8761	-6.25702
+RPT7	65.0	-26.0	-8.0	-999	RPT	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	65.2753	-26.2966	-11.0707
+RPT8	66.0	-20.0	-17.0	-999	RPT	R	n/a	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	66.8591	-19.4039	-21.7356
+RTG1	24.0	-39.0	-13.0	-999	RTG	R	n/a	Limbic Lobe	Parahippocampal Gyrus	Brodmann area 36	Gray Matter	23.7462	-39.78	-17.2204
+RTG2	33.0	-36.0	-18.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 20	Gray Matter	33.0949	-36.3641	-23.0159
+RTG3	42.0	-35.0	-18.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 20	Gray Matter	42.7356	-34.7587	-23.2393
+RTG4	51.0	-33.0	-18.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 20	Gray Matter	51.8502	-32.7095	-23.3538
+RTG5	62.0	-31.0	-13.0	-999	RTG	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	62.1411	-31.362	-17.7418
+RTG6	27.0	-48.0	-9.0	-999	RTG	R	n/a	Occipital Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	27.0904	-48.8013	-13.1234
+RTG7	36.0	-47.0	-14.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	36.1232	-47.4373	-19.2753
+RTG8	45.0	-44.0	-19.0	-999	RTG	R	n/a	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 37	Gray Matter	45.4717	-44.0213	-25.0707
+RTG9	55.0	-42.0	-19.0	-999	RTG	R	n/a	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 37	Gray Matter	55.0704	-41.9168	-25.2011
+RTG10	64.0	-37.0	-19.0	-999	RTG	R	n/a	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	64.4587	-37.3166	-24.8661
+RTG11	30.0	-57.0	-10.0	-999	RTG	R	n/a	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter	29.8686	-58.5631	-15.0479
+RTG12	39.0	-56.0	-10.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	39.0252	-57.0131	-15.2554
+RTG13	48.0	-54.0	-15.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	48.4579	-54.5954	-21.237
+RTG14	58.0	-51.0	-15.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	58.4567	-51.4372	-21.1971
+RTG15	64.0	-44.0	-10.0	-999	RTG	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	64.8957	-44.9863	-14.4506
+RTG16	32.0	-69.0	-6.0	-999	RTG	R	n/a	Occipital Lobe	Lingual Gyrus	Brodmann area 18	Gray Matter	31.9707	-70.2461	-11.3686
+RTG17	41.0	-64.0	-11.0	-999	RTG	R	n/a	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter	41.7192	-65.7765	-16.9938
+RTG18	51.0	-62.0	-11.0	-999	RTG	R	n/a	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	51.318	-63.672	-17.1241
+RTG19	59.0	-58.0	-6.0	-999	RTG	R	n/a	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 37	Gray Matter	59.904	-59.4955	-10.9063
+RTG20	63.0	-50.0	-1.0	-999	RTG	R	n/a	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	63.7539	-51.3245	-3.70846
+RPA1	31.0	-78.0	40.0	-999	RPA	R	n/a	Parietal Lobe	Precuneus	Brodmann area 19	Gray Matter	31.3591	-82.8803	39.6194
+RPA2	39.0	-71.0	41.0	-999	RPA	R	n/a	Parietal Lobe	Precuneus	Brodmann area 19	Gray Matter	39.0004	-74.9519	40.6533
+RPA3	45.0	-62.0	36.0	-999	RPA	R	n/a	Parietal Lobe	Angular Gyrus	Brodmann area 39	Gray Matter	45.4233	-65.8227	36.0536
+RPA4	50.0	-55.0	32.0	-999	RPA	R	n/a	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	50.9621	-57.8025	31.2995
+RPB1	22.0	-69.0	58.0	-999	RPB	R	n/a	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter	22.7008	-73.7788	59.4896
+RPB2	32.0	-64.0	53.0	-999	RPB	R	n/a	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter	31.8811	-68.3663	54.0664
+RPB3	39.0	-59.0	48.0	-999	RPB	R	n/a	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter	39.651	-63.6188	48.5975
+RPB4	46.0	-53.0	43.0	-999	RPB	R	n/a	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	46.2422	-56.4861	43.6256
+RPC1	22.0	-49.0	72.0	-999	RPC	R	n/a	Parietal Lobe	Postcentral Gyrus	Brodmann area 7	Gray Matter	22.2758	-53.8293	74.9759
+RPC2	31.0	-49.0	66.0	-999	RPC	R	n/a	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter	30.9086	-53.519	68.6537
+RPC3	37.0	-48.0	60.0	-999	RPC	R	n/a	Parietal Lobe	Superior Parietal Lobule	Brodmann area 7	Gray Matter	37.5626	-52.9305	62.4879
+RPC4	44.0	-48.0	49.0	-999	RPC	R	n/a	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	44.4928	-51.4746	50.548

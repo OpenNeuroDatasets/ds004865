@@ -1,0 +1,8 @@
+2.0.1 2024-04-22
+  - More informative event duration values for trial types with well defined durations.  Added collaborator acknowledgements and grant funding.
+2.0.0 2024-04-12
+  - Added sessions, removed some sessions with multiple EEG files. 49 participants, 103 total experimental sessions.
+1.0.1 2023-11-30
+  - Corrected "units" field in channels.tsv files from uV to V.
+1.0.0 2023-11-29
+  - Initial release.  37 participants, 76 total experimental sessions.

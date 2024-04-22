@@ -1,0 +1,85 @@
+name	x	y	z	size	group	hemisphere	type	lobe	region1	region2	gray_white	mni.x	mni.y	mni.z
+LPTG1	-59.0	-52.0	42.0	-999	LPTG	L	grid	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-59.6208	-55.7847	42.8372
+LPTG2	-61.0	-43.0	39.0	-999	LPTG	L	grid	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-61.675	-46.0356	39.8665
+LPTG3	-63.0	-33.0	36.0	-999	LPTG	L	grid	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-63.1457	-36.2643	36.9465
+LPTG4	-63.0	-25.0	32.0	-999	LPTG	L	grid	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-63.9754	-26.9576	33.3349
+LPTG5	-60.0	-56.0	33.0	-999	LPTG	L	grid	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	-60.1583	-59.0685	32.6027
+LPTG6	-61.0	-46.0	29.0	-999	LPTG	L	grid	Parietal Lobe	Supramarginal Gyrus	Brodmann area 40	Gray Matter	-61.5961	-49.2735	28.9776
+LPTG7	-65.0	-38.0	26.0	-999	LPTG	L	grid	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-65.3765	-40.1011	25.8172
+LPTG8	-66.0	-28.0	23.0	-999	LPTG	L	grid	Parietal Lobe	Inferior Parietal Lobule	Brodmann area 40	Gray Matter	-66.8472	-30.3299	22.8973
+LPTG9	-60.0	-58.0	24.0	-999	LPTG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 39	Gray Matter	-60.7449	-61.3317	22.4426
+LPTG10	-63.0	-50.0	20.0	-999	LPTG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-63.9171	-52.6474	19.2959
+LPTG11	-65.0	-41.0	16.0	-999	LPTG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-65.9139	-43.3849	15.5827
+LPTG12	-68.0	-33.0	13.0	-999	LPTG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-68.5272	-34.1682	12.5239
+LPTG13	-61.0	-63.0	14.0	-999	LPTG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	-61.8086	-65.1242	11.415
+LPTG14	-64.0	-53.0	10.0	-999	LPTG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-64.9972	-55.3955	7.63756
+LPTG15	-66.0	-44.0	7.0	-999	LPTG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-67.0514	-45.6464	4.66684
+LPTG16	-70.0	-36.0	4.0	-999	LPTG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-70.8153	-37.5184	2.13713
+LAT1	-31.0	34.0	-22.0	-999	LAT	L	strip	Frontal Lobe	Middle Frontal Gyrus	Brodmann area 11	Gray Matter	-31.1373	35.6674	-24.3756
+LAT2	-42.0	30.0	-21.0	-999	LAT	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	-42.1761	32.1139	-23.4487
+LAT3	-52.0	28.0	-18.0	-999	LAT	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	-52.2275	29.5303	-19.5251
+LAT4	-59.0	24.0	-11.0	-999	LAT	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	-59.459	24.8734	-11.2656
+LAT5	-62.0	21.0	-3.0	-999	LAT	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 47	Gray Matter	-62.6871	21.3679	-1.87072
+LAT6	-63.0	17.0	7.0	-999	LAT	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 45	Gray Matter	-63.5891	17.4168	8.39514
+LAT7	-62.0	13.0	17.0	-999	LAT	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 44	Gray Matter	-62.7158	13.0217	18.7762
+LAT8	-58.0	10.0	26.0	-999	LAT	L	strip	Frontal Lobe	Inferior Frontal Gyrus	Brodmann area 9	Gray Matter	-58.9164	9.27127	28.7435
+LSTA1	-43.0	26.0	-29.0	-999	LSTA	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter	-43.9214	28.2281	-32.4117
+LSTA2	-33.0	23.0	-33.0	-999	LSTA	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter	-33.5916	25.7319	-37.4127
+LSTA3	-26.0	17.0	-36.0	-999	LSTA	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter	-26.0403	19.5291	-42.2233
+LSTA4	-24.0	8.0	-41.0	-999	LSTA	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 38	Gray Matter	-24.2019	10.5535	-47.728
+LSTA5	-29.0	-1.0	-41.0	-999	LSTA	L	strip	Limbic Lobe	Uncus	Brodmann area 20	Gray Matter	-29.5953	1.1462	-48.9063
+LSTA6	-38.0	-8.0	-40.0	-999	LSTA	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-38.7113	-5.91327	-48.0877
+LSTA7	-47.0	-12.0	-37.0	-999	LSTA	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-47.5219	-9.98376	-44.1742
+LSTA8	-57.0	-13.0	-31.0	-999	LSTA	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-57.1125	-12.1062	-38.0471
+LSTB1	-10.0	-72.0	-9.0	-999	LSTB	L	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 18	Gray Matter	-9.68217	-73.9626	-14.6892
+LSTB2	-20.0	-66.0	-9.0	-999	LSTB	L	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter	-19.9225	-67.7039	-15.0687
+LSTB3	-28.0	-59.0	-10.0	-999	LSTB	L	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter	-28.4285	-60.3345	-15.9266
+LSTB4	-37.0	-53.0	-13.0	-999	LSTB	L	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	-37.4036	-53.9603	-18.32
+LSTB5	-45.0	-46.0	-17.0	-999	LSTB	L	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	-45.7136	-46.4481	-23.4088
+LSTB6	-51.0	-40.0	-21.0	-999	LSTB	L	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 20	Gray Matter	-51.6727	-39.8921	-27.6638
+LSTB7	-57.0	-31.0	-22.0	-999	LSTB	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-57.9181	-30.9032	-28.2066
+LSTB8	-63.0	-21.0	-24.0	-999	LSTB	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-63.5637	-20.8239	-30.0347
+LSTC1	-11.0	-75.0	-11.0	-999	LSTC	L	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 18	Gray Matter	-11.1874	-77.0197	-17.1804
+LSTC2	-21.0	-72.0	-13.0	-999	LSTC	L	strip	Occipital Lobe	Lingual Gyrus	Brodmann area 18	Gray Matter	-21.2395	-73.2652	-19.1565
+LSTC3	-33.0	-69.0	-14.0	-999	LSTC	L	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter	-33.0505	-70.1111	-20.617
+LSTC4	-44.0	-67.0	-15.0	-999	LSTC	L	strip	Occipital Lobe	Fusiform Gyrus	Brodmann area 19	Gray Matter	-44.2287	-67.9557	-22.1012
+LSTC5	-55.0	-64.0	-14.0	-999	LSTC	L	strip	Temporal Lobe	Fusiform Gyrus	Brodmann area 37	Gray Matter	-55.5869	-64.8745	-20.6903
+LSTC6	-64.0	-61.0	-9.0	-999	LSTC	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 37	Gray Matter	-64.2232	-61.8256	-14.7945
+LSTC7	-67.0	-56.0	-1.0	-999	LSTC	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 37	Gray Matter	-67.8201	-57.6757	-4.84112
+LSTC8	-68.0	-51.0	7.0	-999	LSTC	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-69.1071	-52.9272	5.35262
+LTOA1	-22.0	-100.0	8.0	-999	LTOA	L	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter	-22.7093	-103.764	3.21201
+LTOA2	-33.0	-95.0	6.0	-999	LTOA	L	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter	-32.8597	-97.9677	1.38496
+LTOA3	-42.0	-89.0	4.0	-999	LTOA	L	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 19	Gray Matter	-42.4511	-91.6394	-0.354131
+LTOA4	-51.0	-82.0	2.0	-999	LTOA	L	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 19	Gray Matter	-51.4835	-84.7786	-2.00517
+LTOA5	-57.0	-74.0	0.0	-999	LTOA	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 19	Gray Matter	-57.639	-76.2524	-3.99569
+LTOA6	-63.0	-65.0	-1.0	-999	LTOA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 37	Gray Matter	-63.2926	-66.7073	-5.15577
+LTOA7	-67.0	-56.0	-3.0	-999	LTOA	L	strip	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 37	Gray Matter	-67.7219	-57.6045	-6.95659
+LTOA8	-70.0	-46.0	-5.0	-999	LTOA	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-70.4497	-47.4147	-8.53062
+LTOB1	-22.0	-97.0	21.0	-999	LTOB	L	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 18	Gray Matter	-22.368	-100.622	17.6774
+LTOB2	-33.0	-92.0	22.0	-999	LTOB	L	strip	Occipital Lobe	Superior Occipital Gyrus	Brodmann area 19	Gray Matter	-33.1836	-95.9643	18.5457
+LTOB3	-42.0	-86.0	20.0	-999	LTOB	L	strip	Occipital Lobe	Middle Occipital Gyrus	Brodmann area 19	Gray Matter	-42.2241	-89.6377	17.5626
+LTOB4	-50.0	-79.0	18.0	-999	LTOB	L	strip	Occipital Lobe	Middle Temporal Gyrus	Brodmann area 19	Gray Matter	-50.6648	-82.2207	15.2944
+LTOB5	-56.0	-71.0	16.0	-999	LTOB	L	strip	Occipital Lobe	Middle Temporal Gyrus	Brodmann area 19	Gray Matter	-56.8203	-73.6945	13.3039
+LTOB6	-61.0	-63.0	14.0	-999	LTOB	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 39	Gray Matter	-61.8086	-65.1242	11.415
+LTOB7	-65.0	-53.0	10.0	-999	LTOB	L	strip	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-65.6135	-55.4414	8.29187
+LTOB8	-67.0	-45.0	7.0	-999	LTOB	L	strip	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-67.6431	-46.2026	5.28397
+LATG1	-73.0	-35.0	-17.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-73.8625	-35.3339	-22.0821
+LATG2	-71.0	-33.0	-8.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-71.5333	-33.5385	-11.1018
+LATG3	-68.0	-29.0	2.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-68.6942	-30.1901	0.0409657
+LATG4	-66.0	-27.0	11.0	-999	LATG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-66.9159	-28.393	10.2653
+LATG5	-65.0	-24.0	21.0	-999	LATG	L	grid	Parietal Lobe	Postcentral Gyrus	Brodmann area 40	Gray Matter	-65.2195	-25.5991	21.2693
+LATG6	-71.0	-26.0	-19.0	-999	LATG	L	grid	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-71.8397	-25.9642	-24.0294
+LATG7	-71.0	-23.0	-10.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-71.3104	-23.2145	-13.127
+LATG8	-69.0	-20.0	-1.0	-999	LATG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 21	Gray Matter	-70.1648	-20.4189	-2.87899
+LATG9	-67.0	-18.0	8.0	-999	LATG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 41_42	Gray Matter	-67.252	-18.6014	8.15212
+LATG10	-64.0	-14.0	18.0	-999	LATG	L	grid	Parietal Lobe	Postcentral Gyrus	Brodmann area 43	Gray Matter	-64.9965	-15.275	19.2442
+LATG11	-69.0	-17.0	-22.0	-999	LATG	L	grid	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-69.7842	-16.5707	-26.6818
+LATG12	-69.0	-14.0	-13.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-69.8631	-13.3327	-15.793
+LATG13	-68.0	-11.0	-4.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-68.7256	-11.0712	-4.87698
+LATG14	-67.0	-8.0	5.0	-999	LATG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-67.58	-8.27563	5.37111
+LATG15	-63.0	-5.0	15.0	-999	LATG	L	grid	Parietal Lobe	Postcentral Gyrus	Brodmann area 43	Gray Matter	-64.051	-6.4123	15.7478
+LATG16	-67.0	-8.0	-24.0	-999	LATG	L	grid	Temporal Lobe	Inferior Temporal Gyrus	Brodmann area 20	Gray Matter	-67.7287	-7.17718	-29.3341
+LATG17	-67.0	-5.0	-15.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-67.8075	-3.93919	-18.4453
+LATG18	-67.0	-2.0	-6.0	-999	LATG	L	grid	Temporal Lobe	Middle Temporal Gyrus	Brodmann area 21	Gray Matter	-67.2537	-1.69985	-7.58016
+LATG19	-66.0	2.0	2.0	-999	LATG	L	grid	Temporal Lobe	Superior Temporal Gyrus	Brodmann area 22	Gray Matter	-66.7162	1.58403	2.65433
+LATG20	-64.0	4.0	12.0	-999	LATG	L	grid	Frontal Lobe	Precentral Gyrus	Brodmann area 4_6	Gray Matter	-64.9953	3.86764	13.6211
